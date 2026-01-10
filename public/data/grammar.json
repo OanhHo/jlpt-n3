@@ -1,0 +1,127 @@
+[
+  {
+    "id": "grammar-001",
+    "pattern": "〜によって",
+    "meaning": "by means of, depending on, according to",
+    "vietnamese": "bằng phương pháp, tùy theo, theo",
+    "structure": "Noun + によって",
+    "level": "N3",
+    "frequency": 95,
+    "difficulty": "high",
+    "usage": "Express means/method or variation depending on circumstances",
+    "examples": [
+      {
+        "jp": "天気によって予定が変わります。",
+        "en": "The schedule changes depending on the weather.",
+        "vi": "Lịch trình thay đổi tùy theo thời tiết."
+      },
+      {
+        "jp": "この機械は電気によって動きます。",
+        "en": "This machine works by electricity.",
+        "vi": "Máy này hoạt động bằng điện."
+      }
+    ],
+    "notes": "Often confused with で (means) and に (by)",
+    "similar": ["〜で", "〜に", "〜によっては"]
+  },
+  {
+    "id": "grammar-002", 
+    "pattern": "〜わけではない",
+    "meaning": "it doesn't mean that, it's not the case that",
+    "vietnamese": "không có nghĩa là, không phải là",
+    "structure": "Verb plain form + わけではない",
+    "level": "N3",
+    "frequency": 89,
+    "difficulty": "medium",
+    "usage": "Deny an assumption or expectation",
+    "examples": [
+      {
+        "jp": "高いからといって、いいわけではない。",
+        "en": "Just because it's expensive doesn't mean it's good.",
+        "vi": "Đắt không có nghĩa là tốt."
+      },
+      {
+        "jp": "忙しいわけではありません。",
+        "en": "It's not that I'm busy.",
+        "vi": "Không phải tôi bận."
+      }
+    ],
+    "notes": "Used to clarify misunderstandings",
+    "similar": ["〜というわけではない", "〜とは限らない"]
+  },
+  {
+    "id": "grammar-003",
+    "pattern": "〜ばかり",
+    "meaning": "only, nothing but, just",
+    "vietnamese": "chỉ, toàn",
+    "structure": "Verb て-form + ばかり",
+    "level": "N3", 
+    "frequency": 85,
+    "difficulty": "medium",
+    "usage": "Express doing only one thing repeatedly",
+    "examples": [
+      {
+        "jp": "最近、勉強ばかりしています。",
+        "en": "I've been doing nothing but studying lately.",
+        "vi": "Gần đây tôi chỉ toàn học."
+      },
+      {
+        "jp": "甘いものばかり食べてはいけません。",
+        "en": "You shouldn't eat only sweet things.",
+        "vi": "Không được chỉ ăn toàn đồ ngọt."
+      }
+    ],
+    "notes": "Can express criticism or emphasis",
+    "similar": ["〜だけ", "〜しか"]
+  },
+  {
+    "id": "grammar-004",
+    "pattern": "〜おかげで",
+    "meaning": "thanks to, because of (positive result)",
+    "vietnamese": "nhờ có, nhờ vào",
+    "structure": "Noun/Verb た-form + おかげで",
+    "level": "N3",
+    "frequency": 83,
+    "difficulty": "medium", 
+    "usage": "Express positive result due to someone/something",
+    "examples": [
+      {
+        "jp": "先生のおかげで合格できました。",
+        "en": "Thanks to my teacher, I was able to pass.",
+        "vi": "Nhờ có thầy giáo mà tôi có thể đậu."
+      },
+      {
+        "jp": "雨のおかげで涼しくなった。",
+        "en": "Thanks to the rain, it became cool.",
+        "vi": "Nhờ có mưa mà trời mát lại."
+      }
+    ],
+    "notes": "Only for positive outcomes. Contrast with せいで",
+    "similar": ["〜せいで", "〜ため"]
+  },
+  {
+    "id": "grammar-005",
+    "pattern": "〜せいで",
+    "meaning": "because of, due to (negative result)",
+    "vietnamese": "tại vì, do",
+    "structure": "Noun/Verb た-form + せいで", 
+    "level": "N3",
+    "frequency": 81,
+    "difficulty": "medium",
+    "usage": "Express negative result due to someone/something",
+    "examples": [
+      {
+        "jp": "雨のせいで遅れました。",
+        "en": "I was late because of the rain.",
+        "vi": "Tôi bị trễ tại vì mưa."
+      },
+      {
+        "jp": "彼のせいで失敗した。",
+        "en": "I failed because of him.",
+        "vi": "Tôi thất bại tại vì anh ấy."
+      }
+    ],
+    "notes": "Only for negative outcomes. Contrast with おかげで",
+    "similar": ["〜おかげで", "〜ため"]
+  }
+]
