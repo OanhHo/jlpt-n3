@@ -1,0 +1,461 @@
+[
+  {
+    "id": "grammar-001",
+    "pattern": "N/Vて + 以来",
+    "meaning": "Kể từ khi...",
+    "vietnamese": "Kể từ khi..., từ lúc...",
+    "usage": "Diễn tả việc gì đó bắt đầu từ một thời điểm và vẫn tiếp tục đến hiện tại",
+    "level": "N3",
+    "frequency": 78,
+    "structure": {
+      "formation": [
+        "Danh từ + 以来",
+        "Vて + 以来"
+      ],
+      "notes": "以来 (いらい) = kể từ khi, thường dùng với quá khứ"
+    },
+    "examples": [
+      {
+        "jp": "彼女に会って以来、ずっと彼女のことを考えている。",
+        "vi": "Kể từ khi gặp cô ấy, tôi luôn nghĩ về cô ấy.",
+        "en": "Ever since I met her, I've been thinking about her constantly."
+      },
+      {
+        "jp": "日本に来て以来、日本語がだんだん上手になった。",
+        "vi": "Kể từ khi đến Nhật Bản, tiếng Nhật của tôi dần dần giỏi hơn.",
+        "en": "Since coming to Japan, my Japanese has gradually improved."
+      },
+      {
+        "jp": "大学卒業以来、彼とは会っていない。",
+        "vi": "Kể từ khi tốt nghiệp đại học, tôi không gặp anh ấy nữa.",
+        "en": "I haven't seen him since graduating from university."
+      }
+    ],
+    "similar_patterns": [
+      "～てから (sau khi)",
+      "～以降 (từ... trở đi)",
+      "～以後 (sau...)"
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "昨日以来",
+        "correct": "昨日から",
+        "explanation": "以来 không dùng với thời gian ngắn như 'hôm qua'"
+      }
+    ]
+  },
+  {
+    "id": "grammar-002", 
+    "pattern": "～において",
+    "meaning": "Tại, ở, trong (formal)",
+    "vietnamese": "tại, ở, trong",
+    "usage": "Cách nói trang trọng để chỉ địa điểm, thời gian, lĩnh vực",
+    "level": "N3",
+    "frequency": 72,
+    "structure": {
+      "formation": [
+        "Danh từ + において",
+        "Danh từ + におきまして (rất lịch sự)"
+      ],
+      "notes": "Formal hơn で, thường dùng trong văn viết, speech"
+    },
+    "examples": [
+      {
+        "jp": "この分野において、日本は世界一です。",
+        "vi": "Trong lĩnh vực này, Nhật Bản là số một thế giới.",
+        "en": "In this field, Japan is number one in the world."
+      },
+      {
+        "jp": "会議は東京において開催される。",
+        "vi": "Cuộc họp được tổ chức tại Tokyo.",
+        "en": "The meeting will be held in Tokyo."
+      },
+      {
+        "jp": "教育において、経験が重要だ。",
+        "vi": "Trong giáo dục, kinh nghiệm là quan trọng.",
+        "en": "In education, experience is important."
+      }
+    ],
+    "similar_patterns": [
+      "で (ở, tại - thông thường)",
+      "に (ở, tại)",
+      "での (ở... của)"
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "家において勉強する",
+        "correct": "家で勉強する", 
+        "explanation": "において quá formal cho tình huống thường ngày"
+      }
+    ]
+  },
+  {
+    "id": "grammar-003",
+    "pattern": "～に関して / ～に関しては",
+    "meaning": "Về vấn đề, liên quan đến",
+    "vietnamese": "về, liên quan đến, đối với",
+    "usage": "Nói về một chủ đề, vấn đề cụ thể",
+    "level": "N3", 
+    "frequency": 69,
+    "structure": {
+      "formation": [
+        "Danh từ + に関して",
+        "Danh từ + に関しては (nhấn mạnh)"
+      ],
+      "notes": "関して (かんして) = liên quan, に関しては nhấn mạnh hơn"
+    },
+    "examples": [
+      {
+        "jp": "この問題に関して、何か質問がありますか。",
+        "vi": "Về vấn đề này, có câu hỏi nào không?",
+        "en": "Do you have any questions regarding this problem?"
+      },
+      {
+        "jp": "環境問題に関しては、みんなで考えるべきだ。",
+        "vi": "Về vấn đề môi trường, mọi người nên cùng suy nghĩ.",
+        "en": "Regarding environmental issues, everyone should think together."
+      },
+      {
+        "jp": "料金に関して詳しく説明します。",
+        "vi": "Tôi sẽ giải thích chi tiết về phí.",
+        "en": "I will explain the fees in detail."
+      }
+    ],
+    "similar_patterns": [
+      "について (về)",
+      "に対して (đối với)",
+      "をめぐって (xung quanh vấn đề)"
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "彼に関して話す",
+        "correct": "彼について話す",
+        "explanation": "に関して dùng cho vấn đề, chủ đề chính thức, không phải người"
+      }
+    ]
+  },
+  {
+    "id": "grammar-004",
+    "pattern": "～ものの",
+    "meaning": "Mặc dù... nhưng",
+    "vietnamese": "mặc dù, tuy rằng",
+    "usage": "Diễn tả sự đối lập, nhượng bộ với nuance hơi tiếc nuối",
+    "level": "N3",
+    "frequency": 65,
+    "structure": {
+      "formation": [
+        "Vる/た + ものの",
+        "い形容詞 + ものの", 
+        "な形容詞 + な + ものの",
+        "Danh từ + である + ものの"
+      ],
+      "notes": "Mang tính văn viết, formal hơn けれど"
+    },
+    "examples": [
+      {
+        "jp": "頑張ったものの、合格できなかった。",
+        "vi": "Mặc dù đã cố gắng nhưng không thể đậu.",
+        "en": "Although I tried hard, I couldn't pass."
+      },
+      {
+        "jp": "便利なものの、値段が高すぎる。",
+        "vi": "Mặc dù tiện lợi nhưng giá quá đắt.",
+        "en": "Although it's convenient, the price is too high."
+      },
+      {
+        "jp": "医者であるものの、自分の病気は治せない。",
+        "vi": "Mặc dù là bác sĩ nhưng không thể chữa được bệnh của mình.",
+        "en": "Although he's a doctor, he can't cure his own illness."
+      }
+    ],
+    "similar_patterns": [
+      "けれども (nhưng - thông thường)",
+      "にもかかわらず (bất chấp)",
+      "といっても (tuy nói là... nhưng)"
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "学生ものの",
+        "correct": "学生であるものの",
+        "explanation": "Với danh từ phải thêm である"
+      }
+    ]
+  },
+  {
+    "id": "grammar-005",
+    "pattern": "～をはじめ(として)",
+    "meaning": "Bắt đầu từ, đứng đầu là",
+    "vietnamese": "bắt đầu từ, đứng đầu là, trong đó có",
+    "usage": "Liệt kê với ví dụ tiêu biểu đầu tiên",
+    "level": "N3",
+    "frequency": 62,
+    "structure": {
+      "formation": [
+        "Danh từ + をはじめ",
+        "Danh từ + をはじめとして"
+      ],
+      "notes": "始め (はじめ) = bắt đầu, liệt kê ví dụ điển hình nhất"
+    },
+    "examples": [
+      {
+        "jp": "東京をはじめ、大阪、名古屋などの大都市。",
+        "vi": "Bắt đầu từ Tokyo, Osaka, Nagoya và các thành phố lớn khác.",
+        "en": "Major cities including Tokyo, Osaka, Nagoya, and others."
+      },
+      {
+        "jp": "田中さんをはじめとして、多くの人が参加した。",
+        "vi": "Đứng đầu là anh Tanaka, nhiều người đã tham gia.",
+        "en": "With Mr. Tanaka at the forefront, many people participated."
+      },
+      {
+        "jp": "英語をはじめ、いろいろな言語を勉強している。",
+        "vi": "Bắt đầu từ tiếng Anh, tôi học nhiều ngôn ngữ khác nhau.",
+        "en": "I'm studying various languages, starting with English."
+      }
+    ],
+    "similar_patterns": [
+      "など (v.v., và những cái khác)",
+      "といった (như là)",
+      "をはじめとする (với... làm đầu)"
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "勉強をはじめ",
+        "correct": "勉強をはじめる",
+        "explanation": "Đừng nhầm với 勉強を始める (bắt đầu học)"
+      }
+    ]
+  },
+  {
+    "id": "grammar-006",
+    "pattern": "～に対して",
+    "meaning": "Đối với, hướng về",
+    "vietnamese": "đối với, về phía, hướng về",
+    "usage": "Chỉ đối tượng của hành động, thái độ, cảm xúc",
+    "level": "N3",
+    "frequency": 58,
+    "structure": {
+      "formation": [
+        "Danh từ + に対して",
+        "Danh từ + に対しては (nhấn mạnh)"
+      ],
+      "notes": "対して (たいして) = đối với, có thể là thái độ tích cực hoặc tiêu cực"
+    },
+    "examples": [
+      {
+        "jp": "先生に対して失礼な態度を取った。",
+        "vi": "Đã có thái độ bất lịch sự đối với thầy giáo.",
+        "en": "I showed a rude attitude toward the teacher."
+      },
+      {
+        "jp": "この問題に対して、どう思いますか。",
+        "vi": "Đối với vấn đề này, bạn nghĩ thế nào?",
+        "en": "What do you think about this problem?"
+      },
+      {
+        "jp": "外国人に対して親切にしましょう。",
+        "vi": "Hãy tử tế đối với người nước ngoài.",
+        "en": "Let's be kind to foreigners."
+      }
+    ],
+    "similar_patterns": [
+      "について (về)",
+      "に向かって (hướng về)",
+      "に関して (liên quan đến)"
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "映画に対して見る",
+        "correct": "映画を見る",
+        "explanation": "に対して không dùng cho hành động trực tiếp như 'xem phim'"
+      }
+    ]
+  },
+  {
+    "id": "grammar-007",
+    "pattern": "～というのは",
+    "meaning": "Cái gọi là..., nghĩa là",
+    "vietnamese": "cái gọi là, có nghĩa là, là việc",
+    "usage": "Giải thích, định nghĩa một khái niệm",
+    "level": "N3",
+    "frequency": 55,
+    "structure": {
+      "formation": [
+        "Vる/た + というのは",
+        "い/な形容詞 + というのは",
+        "Danh từ + というのは"
+      ],
+      "notes": "という = cái gọi là, のは = nominalizer"
+    },
+    "examples": [
+      {
+        "jp": "勉強するというのは、簡単ではない。",
+        "vi": "Việc học tập không hề đơn giản.",
+        "en": "Studying is not simple."
+      },
+      {
+        "jp": "友達というのは、大切な存在だ。",
+        "vi": "Bạn bè là sự tồn tại quan trọng.",
+        "en": "Friends are important beings."
+      },
+      {
+        "jp": "彼が来ないというのは、本当ですか。",
+        "vi": "Việc anh ấy không đến có thật không?",
+        "en": "Is it true that he's not coming?"
+      }
+    ],
+    "similar_patterns": [
+      "ということは (có nghĩa là)",
+      "つまり (tức là)",
+      "それは (đó là)"
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "行くというのを見た",
+        "correct": "行くのを見た",
+        "explanation": "というのは dùng để giải thích, không phải mô tả hành động"
+      }
+    ]
+  },
+  {
+    "id": "grammar-008",
+    "pattern": "～ばかりでなく",
+    "meaning": "Không chỉ... mà còn",
+    "vietnamese": "không chỉ... mà còn, không những... mà còn",
+    "usage": "Thêm thông tin tích cực, mở rộng ý",
+    "level": "N3", 
+    "frequency": 52,
+    "structure": {
+      "formation": [
+        "Vる/た + ばかりでなく",
+        "い形容詞 + ばかりでなく",
+        "な形容詞 + な + ばかりでなく",
+        "Danh từ + ばかりでなく"
+      ],
+      "notes": "ばかり = chỉ, でなく = không phải, thường theo sau là も"
+    },
+    "examples": [
+      {
+        "jp": "彼は頭がいいばかりでなく、性格もいい。",
+        "vi": "Anh ấy không chỉ thông minh mà còn có tính cách tốt.",
+        "en": "He is not only smart but also has a good personality."
+      },
+      {
+        "jp": "この薬は安いばかりでなく、効果もある。",
+        "vi": "Thuốc này không chỉ rẻ mà còn có hiệu quả.",
+        "en": "This medicine is not only cheap but also effective."
+      },
+      {
+        "jp": "日本語ばかりでなく、英語も話せます。",
+        "vi": "Tôi không chỉ nói được tiếng Nhật mà còn nói được tiếng Anh.",
+        "en": "I can speak not only Japanese but also English."
+      }
+    ],
+    "similar_patterns": [
+      "だけでなく (không chỉ)",
+      "～のみならず (không chỉ - formal)",
+      "～上に (hơn nữa)"
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "学生ばかりでなく",
+        "correct": "学生であるばかりでなく",
+        "explanation": "Với danh từ ở cuối câu cần thêm である"
+      }
+    ]
+  },
+  {
+    "id": "grammar-009",
+    "pattern": "～に違いない",
+    "meaning": "Chắc chắn là, không thể sai được",
+    "vietnamese": "chắc chắn là, chắc là, nhất định là",
+    "usage": "Diễn tả suy đoán với độ tin cậy rất cao (95-99%)",
+    "level": "N3",
+    "frequency": 49,
+    "structure": {
+      "formation": [
+        "Vる/た + に違いない",
+        "い形容詞 + に違いない", 
+        "な形容詞 + に違いない",
+        "Danh từ + に違いない"
+      ],
+      "notes": "違い (ちがい) = khác biệt, ない = không có → không thể sai"
+    },
+    "examples": [
+      {
+        "jp": "彼はもう帰ったに違いない。",
+        "vi": "Chắc chắn anh ấy đã về rồi.",
+        "en": "He must have gone home already."
+      },
+      {
+        "jp": "このケーキは美味しいに違いない。",
+        "vi": "Cái bánh này chắc chắn ngon.",
+        "en": "This cake must be delicious."
+      },
+      {
+        "jp": "明日は雨に違いない。",
+        "vi": "Ngày mai chắc chắn sẽ mưa.",
+        "en": "It will definitely rain tomorrow."
+      }
+    ],
+    "similar_patterns": [
+      "はずだ (có lẽ, theo lý thuyết)",
+      "だろう (có lẽ, chắc)",
+      "きっと (chắc chắn)"
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "学生に違いない人",
+        "correct": "学生に違いない",
+        "explanation": "に違いない không thể bổ nghĩa cho danh từ"
+      }
+    ]
+  },
+  {
+    "id": "grammar-010",
+    "pattern": "～としても",
+    "meaning": "Ngay cả khi, giả sử như",
+    "vietnamese": "ngay cả khi, dù có, giả sử",
+    "usage": "Giả định một trường hợp cực đoan để nhấn mạnh",
+    "level": "N3",
+    "frequency": 46,
+    "structure": {
+      "formation": [
+        "Vる/た + としても",
+        "い形容詞 + としても",
+        "な形容詞 + だ + としても", 
+        "Danh từ + だ + としても"
+      ],
+      "notes": "として = với tư cách là, も = cũng/ngay cả"
+    },
+    "examples": [
+      {
+        "jp": "雨が降るとしても、出かけます。",
+        "vi": "Ngay cả khi trời mưa, tôi vẫn đi ra ngoài.",
+        "en": "Even if it rains, I will go out."
+      },
+      {
+        "jp": "お金があるとしても、買いません。",
+        "vi": "Dù có tiền, tôi cũng không mua.",
+        "en": "Even if I had money, I wouldn't buy it."
+      },
+      {
+        "jp": "彼が医者だとしても、信用できない。",
+        "vi": "Ngay cả khi anh ấy là bác sĩ, tôi cũng không tin được.",
+        "en": "Even if he's a doctor, I can't trust him."
+      }
+    ],
+    "similar_patterns": [
+      "たとえ～ても (dù có)",
+      "いくら～ても (dù có... đến đâu)",
+      "～にしても (dù là)"
+    ],
+    "common_mistakes": [
+      {
+        "wrong": "学生としても勉強する",
+        "correct": "学生でも勉強する",
+        "explanation": "Đừng nhầm với でも (ngay cả)"
+      }
+    ]
+  }
+]

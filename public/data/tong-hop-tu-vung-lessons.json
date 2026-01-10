@@ -1,0 +1,286 @@
+[
+  {
+    "id": "tong-hop-lesson-1",
+    "title": "Bài 1: Gia Đình & Người Thân (1-30)",
+    "description": "Từ vựng về gia đình, mối quan hệ họ hàng",
+    "category": "family",
+    "difficulty": "basic",
+    "estimatedTime": "45 phút",
+    "vocabulary": [
+      {
+        "id": "vocab-th-001",
+        "kanji": "家族",
+        "hiragana": "かぞく",
+        "romaji": "kazoku",
+        "vietnamese": "gia đình",
+        "meaning": "family",
+        "pos": "noun",
+        "frequency": 98,
+        "examples": [
+          {
+            "jp": "私の家族は5人です。",
+            "vi": "Gia đình tôi có 5 người.",
+            "en": "My family has 5 people."
+          },
+          {
+            "jp": "家族と一緒に旅行に行きました。",
+            "vi": "Tôi đã đi du lịch cùng gia đình.",
+            "en": "I went on a trip with my family."
+          }
+        ]
+      },
+      {
+        "id": "vocab-th-002",
+        "kanji": "両親",
+        "hiragana": "りょうしん",
+        "romaji": "ryoushin",
+        "vietnamese": "cha mẹ, bố mẹ",
+        "meaning": "parents",
+        "pos": "noun",
+        "frequency": 92,
+        "examples": [
+          {
+            "jp": "両親に電話をかけました。",
+            "vi": "Tôi đã gọi điện cho bố mẹ.",
+            "en": "I called my parents."
+          },
+          {
+            "jp": "両親は元気です。",
+            "vi": "Bố mẹ khỏe mạnh.",
+            "en": "My parents are healthy."
+          }
+        ]
+      },
+      {
+        "id": "vocab-th-003",
+        "kanji": "兄弟",
+        "hiragana": "きょうだい",
+        "romaji": "kyoudai",
+        "vietnamese": "anh chị em",
+        "meaning": "siblings",
+        "pos": "noun",
+        "frequency": 89,
+        "examples": [
+          {
+            "jp": "兄弟は何人いますか。",
+            "vi": "Bạn có mấy anh chị em?",
+            "en": "How many siblings do you have?"
+          },
+          {
+            "jp": "兄弟で遊びました。",
+            "vi": "Tôi đã chơi với anh chị em.",
+            "en": "I played with my siblings."
+          }
+        ]
+      },
+      {
+        "id": "vocab-th-004",
+        "kanji": "祖父母",
+        "hiragana": "そふぼ",
+        "romaji": "sofubo",
+        "vietnamese": "ông bà",
+        "meaning": "grandparents",
+        "pos": "noun",
+        "frequency": 85,
+        "examples": [
+          {
+            "jp": "祖父母の家に行きます。",
+            "vi": "Tôi đến nhà ông bà.",
+            "en": "I'm going to my grandparents' house."
+          },
+          {
+            "jp": "祖父母が大好きです。",
+            "vi": "Tôi rất yêu ông bà.",
+            "en": "I love my grandparents very much."
+          }
+        ]
+      },
+      {
+        "id": "vocab-th-005",
+        "kanji": "夫婦",
+        "hiragana": "ふうふ",
+        "romaji": "fuufu",
+        "vietnamese": "vợ chồng",
+        "meaning": "married couple",
+        "pos": "noun",
+        "frequency": 82,
+        "examples": [
+          {
+            "jp": "若い夫婦です。",
+            "vi": "Đó là một cặp vợ chồng trẻ.",
+            "en": "They are a young married couple."
+          },
+          {
+            "jp": "夫婦で買い物に行きました。",
+            "vi": "Vợ chồng đã đi mua sắm cùng nhau.",
+            "en": "The couple went shopping together."
+          }
+        ]
+      },
+      {
+        "id": "vocab-th-006",
+        "kanji": "親戚",
+        "hiragana": "しんせき",
+        "romaji": "shinseki",
+        "vietnamese": "họ hàng",
+        "meaning": "relatives",
+        "pos": "noun",
+        "frequency": 78,
+        "examples": [
+          {
+            "jp": "親戚が集まりました。",
+            "vi": "Họ hàng đã tập trung lại.",
+            "en": "The relatives gathered together."
+          },
+          {
+            "jp": "親戚の結婚式に出席します。",
+            "vi": "Tôi sẽ tham dự đám cưới của họ hàng.",
+            "en": "I will attend my relative's wedding."
+          }
+        ]
+      },
+      {
+        "id": "vocab-th-007",
+        "kanji": "息子",
+        "hiragana": "むすこ",
+        "romaji": "musuko",
+        "vietnamese": "con trai",
+        "meaning": "son",
+        "pos": "noun",
+        "frequency": 94,
+        "examples": [
+          {
+            "jp": "息子は学生です。",
+            "vi": "Con trai tôi là học sinh.",
+            "en": "My son is a student."
+          },
+          {
+            "jp": "息子と公園に行きました。",
+            "vi": "Tôi đã đi công viên với con trai.",
+            "en": "I went to the park with my son."
+          }
+        ]
+      },
+      {
+        "id": "vocab-th-008",
+        "kanji": "娘",
+        "hiragana": "むすめ",
+        "romaji": "musume",
+        "vietnamese": "con gái",
+        "meaning": "daughter",
+        "pos": "noun",
+        "frequency": 91,
+        "examples": [
+          {
+            "jp": "娘はピアノを習っています。",
+            "vi": "Con gái tôi đang học piano.",
+            "en": "My daughter is learning piano."
+          },
+          {
+            "jp": "娘の誕生日パーティーをしました。",
+            "vi": "Chúng tôi đã tổ chức tiệc sinh nhật cho con gái.",
+            "en": "We held a birthday party for our daughter."
+          }
+        ]
+      },
+      {
+        "id": "vocab-th-009",
+        "kanji": "主人",
+        "hiragana": "しゅじん",
+        "romaji": "shujin",
+        "vietnamese": "chồng (khi nói về chồng mình)",
+        "meaning": "husband (humble)",
+        "pos": "noun",
+        "frequency": 87,
+        "examples": [
+          {
+            "jp": "主人は会社員です。",
+            "vi": "Chồng tôi là nhân viên công ty.",
+            "en": "My husband is a company employee."
+          },
+          {
+            "jp": "主人と映画を見に行きました。",
+            "vi": "Tôi đã đi xem phim với chồng.",
+            "en": "I went to see a movie with my husband."
+          }
+        ]
+      },
+      {
+        "id": "vocab-th-010",
+        "kanji": "家内",
+        "hiragana": "かない",
+        "romaji": "kanai",
+        "vietnamese": "vợ (khi nói về vợ mình)",
+        "meaning": "wife (humble)",
+        "pos": "noun",
+        "frequency": 84,
+        "examples": [
+          {
+            "jp": "家内は医者です。",
+            "vi": "Vợ tôi là bác sĩ.",
+            "en": "My wife is a doctor."
+          },
+          {
+            "jp": "家内と買い物に行きました。",
+            "vi": "Tôi đã đi mua sắm với vợ.",
+            "en": "I went shopping with my wife."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tong-hop-lesson-2",
+    "title": "Bài 2: Công Việc & Nghề Nghiệp (31-60)",
+    "description": "Từ vựng về công việc, nghề nghiệp và môi trường làm việc",
+    "category": "work",
+    "difficulty": "basic",
+    "estimatedTime": "45 phút",
+    "vocabulary": [
+      {
+        "id": "vocab-th-011",
+        "kanji": "会社",
+        "hiragana": "かいしゃ",
+        "romaji": "kaisha",
+        "vietnamese": "công ty",
+        "meaning": "company",
+        "pos": "noun",
+        "frequency": 96,
+        "examples": [
+          {
+            "jp": "大きい会社で働いています。",
+            "vi": "Tôi làm việc ở một công ty lớn.",
+            "en": "I work at a big company."
+          },
+          {
+            "jp": "会社の近くに住んでいます。",
+            "vi": "Tôi sống gần công ty.",
+            "en": "I live near the company."
+          }
+        ]
+      },
+      {
+        "id": "vocab-th-012",
+        "kanji": "仕事",
+        "hiragana": "しごと",
+        "romaji": "shigoto",
+        "vietnamese": "công việc",
+        "meaning": "work, job",
+        "pos": "noun",
+        "frequency": 98,
+        "examples": [
+          {
+            "jp": "仕事が忙しいです。",
+            "vi": "Công việc rất bận rộn.",
+            "en": "Work is busy."
+          },
+          {
+            "jp": "新しい仕事を探しています。",
+            "vi": "Tôi đang tìm công việc mới.",
+            "en": "I'm looking for a new job."
+          }
+        ]
+      }
+    ]
+  }
+]

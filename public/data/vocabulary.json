@@ -1,0 +1,952 @@
+[
+  {
+    "id": "vocab-001",
+    "kanji": "経験",
+    "hiragana": "けいけん",
+    "romaji": "keiken",
+    "meaning": "experience",
+    "vietnamese": "kinh nghiệm",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 95,
+    "lesson": 1,
+    "examples": [
+      {
+        "jp": "海外で働いた経験があります。",
+        "en": "I have experience working overseas.",
+        "vi": "Tôi có kinh nghiệm làm việc ở nước ngoài."
+      }
+    ]
+  },
+  {
+    "id": "vocab-002",
+    "kanji": "相談",
+    "hiragana": "そうだん",
+    "romaji": "soudan",
+    "meaning": "consultation, discussion",
+    "vietnamese": "tham khảo, bàn bạc",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 88,
+    "lesson": 1,
+    "examples": [
+      {
+        "jp": "先生に相談しました。",
+        "en": "I consulted with the teacher.",
+        "vi": "Tôi đã tham khảo ý kiến thầy giáo."
+      }
+    ]
+  },
+  {
+    "id": "vocab-003",
+    "kanji": "工場",
+    "hiragana": "こうじょう",
+    "romaji": "koujou",
+    "meaning": "factory",
+    "vietnamese": "nhà máy",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 82,
+    "lesson": 1,
+    "examples": [
+      {
+        "jp": "父は工場で働いています。",
+        "en": "My father works at a factory.",
+        "vi": "Bố tôi làm việc ở nhà máy."
+      }
+    ]
+  },
+  {
+    "id": "vocab-004",
+    "kanji": "技術",
+    "hiragana": "ぎじゅつ",
+    "romaji": "gijutsu",
+    "meaning": "technology, technique",
+    "vietnamese": "công nghệ, kỹ thuật",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 79,
+    "lesson": 1,
+    "examples": [
+      {
+        "jp": "新しい技術を学びたいです。",
+        "en": "I want to learn new technology.",
+        "vi": "Tôi muốn học công nghệ mới."
+      }
+    ]
+  },
+  {
+    "id": "vocab-005",
+    "kanji": "意見",
+    "hiragana": "いけん",
+    "romaji": "iken",
+    "meaning": "opinion",
+    "vietnamese": "ý kiến",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 76,
+    "lesson": 1,
+    "examples": [
+      {
+        "jp": "あなたの意見を聞かせてください。",
+        "en": "Please let me hear your opinion.",
+        "vi": "Xin hãy cho tôi nghe ý kiến của bạn."
+      }
+    ]
+  },
+  {
+    "id": "vocab-006",
+    "kanji": "連絡",
+    "hiragana": "れんらく",
+    "romaji": "renraku",
+    "meaning": "contact, communication",
+    "vietnamese": "liên lạc",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 74,
+    "lesson": 1,
+    "examples": [
+      {
+        "jp": "何かあったら連絡してください。",
+        "en": "Please contact me if anything happens.",
+        "vi": "Nếu có chuyện gì thì hãy liên lạc với tôi."
+      }
+    ]
+  },
+  {
+    "id": "vocab-007",
+    "kanji": "心配",
+    "hiragana": "しんぱい",
+    "romaji": "shinpai",
+    "meaning": "worry, concern",
+    "vietnamese": "lo lắng",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 72,
+    "lesson": 1,
+    "examples": [
+      {
+        "jp": "試験のことを心配しています。",
+        "en": "I'm worried about the exam.",
+        "vi": "Tôi đang lo lắng về kỳ thi."
+      }
+    ]
+  },
+  {
+    "id": "vocab-008",
+    "kanji": "説明",
+    "hiragana": "せつめい",
+    "romaji": "setsumei",
+    "meaning": "explanation",
+    "vietnamese": "giải thích",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 71,
+    "lesson": 1,
+    "examples": [
+      {
+        "jp": "詳しい説明をお願いします。",
+        "en": "Please give me a detailed explanation.",
+        "vi": "Xin hãy giải thích chi tiết."
+      }
+    ]
+  },
+  {
+    "id": "vocab-009",
+    "kanji": "準備",
+    "hiragana": "じゅんび",
+    "romaji": "junbi",
+    "meaning": "preparation",
+    "vietnamese": "chuẩn bị",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 69,
+    "lesson": 1,
+    "examples": [
+      {
+        "jp": "旅行の準備をしています。",
+        "en": "I'm preparing for the trip.",
+        "vi": "Tôi đang chuẩn bị cho chuyến du lịch."
+      }
+    ]
+  },
+  {
+    "id": "vocab-010",
+    "kanji": "想像",
+    "hiragana": "そうぞう",
+    "romaji": "souzou",
+    "meaning": "imagination",
+    "vietnamese": "tưởng tượng",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 67,
+    "lesson": 1,
+    "examples": [
+      {
+        "jp": "想像していたより難しかったです。",
+        "en": "It was more difficult than I imagined.",
+        "vi": "Nó khó hơn tôi tưởng tượng."
+      }
+    ]
+  },
+  {
+    "id": "vocab-011",
+    "kanji": "約束",
+    "hiragana": "やくそく",
+    "romaji": "yakusoku",
+    "meaning": "promise, appointment",
+    "vietnamese": "hẹn, lời hứa",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 65,
+    "lesson": 2,
+    "examples": [
+      {
+        "jp": "友達と約束があります。",
+        "en": "I have an appointment with a friend.",
+        "vi": "Tôi có hẹn với bạn."
+      }
+    ]
+  },
+  {
+    "id": "vocab-012",
+    "kanji": "感情",
+    "hiragana": "かんじょう",
+    "romaji": "kanjou",
+    "meaning": "emotion, feeling",
+    "vietnamese": "cảm xúc",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 63,
+    "lesson": 2,
+    "examples": [
+      {
+        "jp": "感情をコントロールするのは難しいです。",
+        "en": "It's difficult to control emotions.",
+        "vi": "Kiểm soát cảm xúc là khó khăn."
+      }
+    ]
+  },
+  {
+    "id": "vocab-013",
+    "kanji": "注意",
+    "hiragana": "ちゅうい",
+    "romaji": "chuui",
+    "meaning": "attention, caution",
+    "vietnamese": "chú ý, cẩn thận",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 62,
+    "lesson": 2,
+    "examples": [
+      {
+        "jp": "運転するときは注意してください。",
+        "en": "Please be careful when driving.",
+        "vi": "Hãy cẩn thận khi lái xe."
+      }
+    ]
+  },
+  {
+    "id": "vocab-014",
+    "kanji": "印象",
+    "hiragana": "いんしょう",
+    "romaji": "inshou",
+    "meaning": "impression",
+    "vietnamese": "ấn tượng",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 60,
+    "lesson": 2,
+    "examples": [
+      {
+        "jp": "第一印象が大切です。",
+        "en": "First impressions are important.",
+        "vi": "Ấn tượng đầu tiên là quan trọng."
+      }
+    ]
+  },
+  {
+    "id": "vocab-015",
+    "kanji": "努力",
+    "hiragana": "どりょく",
+    "romaji": "doryoku",
+    "meaning": "effort",
+    "vietnamese": "nỗ lực",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 59,
+    "lesson": 2,
+    "examples": [
+      {
+        "jp": "日本語の勉強を努力しています。",
+        "en": "I'm making an effort to study Japanese.",
+        "vi": "Tôi đang nỗ lực học tiếng Nhật."
+      }
+    ]
+  },
+  {
+    "id": "vocab-016",
+    "kanji": "危険",
+    "hiragana": "きけん",
+    "romaji": "kiken",
+    "meaning": "danger, risk",
+    "vietnamese": "nguy hiểm",
+    "pos": "noun, adjective",
+    "level": "N3",
+    "frequency": 58,
+    "lesson": 2,
+    "examples": [
+      {
+        "jp": "ここは危険な場所です。",
+        "en": "This is a dangerous place.",
+        "vi": "Đây là nơi nguy hiểm."
+      }
+    ]
+  },
+  {
+    "id": "vocab-017",
+    "kanji": "機会",
+    "hiragana": "きかい",
+    "romaji": "kikai",
+    "meaning": "opportunity, chance",
+    "vietnamese": "cơ hội",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 57,
+    "lesson": 2,
+    "examples": [
+      {
+        "jp": "いい機会だと思います。",
+        "en": "I think it's a good opportunity.",
+        "vi": "Tôi nghĩ đây là cơ hội tốt."
+      }
+    ]
+  },
+  {
+    "id": "vocab-018",
+    "kanji": "材料",
+    "hiragana": "ざいりょう",
+    "romaji": "zairyou",
+    "meaning": "material, ingredient",
+    "vietnamese": "vật liệu, nguyên liệu",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 56,
+    "lesson": 2,
+    "examples": [
+      {
+        "jp": "料理の材料を買いに行きます。",
+        "en": "I'm going to buy cooking ingredients.",
+        "vi": "Tôi sẽ đi mua nguyên liệu nấu ăn."
+      }
+    ]
+  },
+  {
+    "id": "vocab-019",
+    "kanji": "条件",
+    "hiragana": "じょうけん",
+    "romaji": "jouken",
+    "meaning": "condition, requirement",
+    "vietnamese": "điều kiện",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 55,
+    "lesson": 2,
+    "examples": [
+      {
+        "jp": "いい条件の仕事を探しています。",
+        "en": "I'm looking for a job with good conditions.",
+        "vi": "Tôi đang tìm công việc với điều kiện tốt."
+      }
+    ]
+  },
+  {
+    "id": "vocab-020",
+    "kanji": "習慣",
+    "hiragana": "しゅうかん",
+    "romaji": "shuukan",
+    "meaning": "habit, custom",
+    "vietnamese": "thói quen",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 54,
+    "lesson": 2,
+    "examples": [
+      {
+        "jp": "毎朝散歩する習慣があります。",
+        "en": "I have a habit of taking a walk every morning.",
+        "vi": "Tôi có thói quen đi bộ mỗi sáng."
+      }
+    ]
+  },
+  {
+    "id": "vocab-021",
+    "kanji": "準備",
+    "hiragana": "じゅんび",
+    "romaji": "junbi",
+    "meaning": "preparation",
+    "vietnamese": "chuẩn bị",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 92,
+    "lesson": 3,
+    "examples": [
+      {
+        "jp": "明日のテストの準備をしています。",
+        "en": "I'm preparing for tomorrow's test.",
+        "vi": "Tôi đang chuẩn bị cho bài kiểm tra ngày mai."
+      }
+    ]
+  },
+  {
+    "id": "vocab-022",
+    "kanji": "連絡",
+    "hiragana": "れんらく",
+    "romaji": "renraku",
+    "meaning": "contact, communication",
+    "vietnamese": "liên lạc",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 90,
+    "lesson": 3,
+    "examples": [
+      {
+        "jp": "何か問題があったら連絡してください。",
+        "en": "Please contact me if there are any problems.",
+        "vi": "Hãy liên lạc với tôi nếu có vấn đề gì."
+      }
+    ]
+  },
+  {
+    "id": "vocab-023",
+    "kanji": "約束",
+    "hiragana": "やくそく",
+    "romaji": "yakusoku",
+    "meaning": "promise, appointment",
+    "vietnamese": "hẹn, hứa",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 87,
+    "lesson": 3,
+    "examples": [
+      {
+        "jp": "友達と映画を見る約束をしました。",
+        "en": "I made a promise to watch a movie with my friend.",
+        "vi": "Tôi đã hẹn xem phim với bạn."
+      }
+    ]
+  },
+  {
+    "id": "vocab-024",
+    "kanji": "予定",
+    "hiragana": "よてい",
+    "romaji": "yotei",
+    "meaning": "plan, schedule",
+    "vietnamese": "dự định, kế hoạch",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 89,
+    "lesson": 3,
+    "examples": [
+      {
+        "jp": "来月の予定はまだ決まっていません。",
+        "en": "Next month's schedule hasn't been decided yet.",
+        "vi": "Lịch trình tháng tới vẫn chưa được quyết định."
+      }
+    ]
+  },
+  {
+    "id": "vocab-025",
+    "kanji": "都合",
+    "hiragana": "つごう",
+    "romaji": "tsugou",
+    "meaning": "convenience, circumstances",
+    "vietnamese": "thuận tiện, hoàn cảnh",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 85,
+    "lesson": 3,
+    "examples": [
+      {
+        "jp": "金曜日の都合はいかがですか。",
+        "en": "How is Friday convenient for you?",
+        "vi": "Thứ sáu có thuận tiện cho bạn không?"
+      }
+    ]
+  },
+  {
+    "id": "vocab-026",
+    "kanji": "会議",
+    "hiragana": "かいぎ",
+    "romaji": "kaigi",
+    "meaning": "meeting, conference",
+    "vietnamese": "cuộc họp, hội nghị",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 84,
+    "lesson": 3,
+    "examples": [
+      {
+        "jp": "午後2時から会議があります。",
+        "en": "There's a meeting from 2 PM.",
+        "vi": "Có cuộc họp từ 2 giờ chiều."
+      }
+    ]
+  },
+  {
+    "id": "vocab-027",
+    "kanji": "出席",
+    "hiragana": "しゅっせき",
+    "romaji": "shusseki",
+    "meaning": "attendance, presence",
+    "vietnamese": "có mặt, tham dự",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 81,
+    "lesson": 3,
+    "examples": [
+      {
+        "jp": "明日の授業に出席します。",
+        "en": "I will attend tomorrow's class.",
+        "vi": "Tôi sẽ tham dự lớp học ngày mai."
+      }
+    ]
+  },
+  {
+    "id": "vocab-028",
+    "kanji": "欠席",
+    "hiragana": "けっせき",
+    "romaji": "kesseki",
+    "meaning": "absence",
+    "vietnamese": "vắng mặt",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 78,
+    "lesson": 3,
+    "examples": [
+      {
+        "jp": "病気で授業を欠席しました。",
+        "en": "I was absent from class due to illness.",
+        "vi": "Tôi đã vắng học vì bệnh."
+      }
+    ]
+  },
+  {
+    "id": "vocab-029",
+    "kanji": "遅刻",
+    "hiragana": "ちこく",
+    "romaji": "chikoku",
+    "meaning": "lateness, being late",
+    "vietnamese": "đến muộn",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 80,
+    "lesson": 3,
+    "examples": [
+      {
+        "jp": "電車が遅れて遅刻しました。",
+        "en": "I was late because the train was delayed.",
+        "vi": "Tôi đến muộn vì tàu điện bị chậm."
+      }
+    ]
+  },
+  {
+    "id": "vocab-030",
+    "kanji": "早退",
+    "hiragana": "そうたい",
+    "romaji": "soutai",
+    "meaning": "leaving early",
+    "vietnamese": "về sớm",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 75,
+    "lesson": 3,
+    "examples": [
+      {
+        "jp": "体調が悪くて早退しました。",
+        "en": "I left early because I felt unwell.",
+        "vi": "Tôi về sớm vì cảm thấy không khỏe."
+      }
+    ]
+  },
+  {
+    "id": "vocab-031",
+    "kanji": "交通",
+    "hiragana": "こうつう",
+    "romaji": "koutsu",
+    "meaning": "traffic, transportation",
+    "vietnamese": "giao thông",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 86,
+    "lesson": 4,
+    "examples": [
+      {
+        "jp": "東京の交通は便利です。",
+        "en": "Transportation in Tokyo is convenient.",
+        "vi": "Giao thông ở Tokyo rất thuận tiện."
+      }
+    ]
+  },
+  {
+    "id": "vocab-032",
+    "kanji": "電車",
+    "hiragana": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "train",
+    "vietnamese": "tàu điện",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 93,
+    "lesson": 4,
+    "examples": [
+      {
+        "jp": "毎日電車で通勤しています。",
+        "en": "I commute by train every day.",
+        "vi": "Tôi đi làm bằng tàu điện mỗi ngày."
+      }
+    ]
+  },
+  {
+    "id": "vocab-033",
+    "kanji": "地下鉄",
+    "hiragana": "ちかてつ",
+    "romaji": "chikatetsu",
+    "meaning": "subway, underground",
+    "vietnamese": "tàu điện ngầm",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 77,
+    "lesson": 4,
+    "examples": [
+      {
+        "jp": "地下鉄で新宿まで行きます。",
+        "en": "I'll go to Shinjuku by subway.",
+        "vi": "Tôi sẽ đi Shinjuku bằng tàu điện ngầm."
+      }
+    ]
+  },
+  {
+    "id": "vocab-034",
+    "kanji": "新幹線",
+    "hiragana": "しんかんせん",
+    "romaji": "shinkansen",
+    "meaning": "bullet train",
+    "vietnamese": "tàu cao tốc",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 73,
+    "lesson": 4,
+    "examples": [
+      {
+        "jp": "新幹線で大阪まで行きました。",
+        "en": "I went to Osaka by bullet train.",
+        "vi": "Tôi đã đi Osaka bằng tàu cao tốc."
+      }
+    ]
+  },
+  {
+    "id": "vocab-035",
+    "kanji": "飛行機",
+    "hiragana": "ひこうき",
+    "romaji": "hikouki",
+    "meaning": "airplane",
+    "vietnamese": "máy bay",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 82,
+    "lesson": 4,
+    "examples": [
+      {
+        "jp": "飛行機で韓国に行きます。",
+        "en": "I'm going to Korea by airplane.",
+        "vi": "Tôi sẽ đi Hàn Quốc bằng máy bay."
+      }
+    ]
+  },
+  {
+    "id": "vocab-036",
+    "kanji": "空港",
+    "hiragana": "くうこう",
+    "romaji": "kuukou",
+    "meaning": "airport",
+    "vietnamese": "sân bay",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 79,
+    "lesson": 4,
+    "examples": [
+      {
+        "jp": "成田空港まで迎えに行きます。",
+        "en": "I'll go pick you up at Narita Airport.",
+        "vi": "Tôi sẽ đón bạn ở sân bay Narita."
+      }
+    ]
+  },
+  {
+    "id": "vocab-037",
+    "kanji": "駅",
+    "hiragana": "えき",
+    "romaji": "eki",
+    "meaning": "station",
+    "vietnamese": "ga, nhà ga",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 91,
+    "lesson": 4,
+    "examples": [
+      {
+        "jp": "駅で友達を待っています。",
+        "en": "I'm waiting for my friend at the station.",
+        "vi": "Tôi đang đợi bạn ở ga."
+      }
+    ]
+  },
+  {
+    "id": "vocab-038",
+    "kanji": "切符",
+    "hiragana": "きっぷ",
+    "romaji": "kippu",
+    "meaning": "ticket",
+    "vietnamese": "vé",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 76,
+    "lesson": 4,
+    "examples": [
+      {
+        "jp": "切符を買い忘れました。",
+        "en": "I forgot to buy a ticket.",
+        "vi": "Tôi quên mua vé."
+      }
+    ]
+  },
+  {
+    "id": "vocab-039",
+    "kanji": "料金",
+    "hiragana": "りょうきん",
+    "romaji": "ryoukin",
+    "meaning": "fee, charge",
+    "vietnamese": "phí, giá cước",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 83,
+    "lesson": 4,
+    "examples": [
+      {
+        "jp": "電車の料金は安いです。",
+        "en": "The train fare is cheap.",
+        "vi": "Giá vé tàu điện rẻ."
+      }
+    ]
+  },
+  {
+    "id": "vocab-040",
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "romaji": "byouin",
+    "meaning": "hospital",
+    "vietnamese": "bệnh viện",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 88,
+    "lesson": 5,
+    "examples": [
+      {
+        "jp": "病院で検査を受けました。",
+        "en": "I had an examination at the hospital.",
+        "vi": "Tôi đã làm xét nghiệm ở bệnh viện."
+      }
+    ]
+  },
+  {
+    "id": "vocab-041",
+    "kanji": "医者",
+    "hiragana": "いしゃ",
+    "romaji": "isha",
+    "meaning": "doctor",
+    "vietnamese": "bác sĩ",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 85,
+    "lesson": 5,
+    "examples": [
+      {
+        "jp": "医者に薬をもらいました。",
+        "en": "I got medicine from the doctor.",
+        "vi": "Tôi được bác sĩ cho thuốc."
+      }
+    ]
+  },
+  {
+    "id": "vocab-042",
+    "kanji": "看護師",
+    "hiragana": "かんごし",
+    "romaji": "kangoshi",
+    "meaning": "nurse",
+    "vietnamese": "y tá",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 74,
+    "lesson": 5,
+    "examples": [
+      {
+        "jp": "看護師さんはとても親切です。",
+        "en": "The nurse is very kind.",
+        "vi": "Cô y tá rất tử tế."
+      }
+    ]
+  },
+  {
+    "id": "vocab-043",
+    "kanji": "薬",
+    "hiragana": "くすり",
+    "romaji": "kusuri",
+    "meaning": "medicine",
+    "vietnamese": "thuốc",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 87,
+    "lesson": 5,
+    "examples": [
+      {
+        "jp": "風邪の薬を飲みました。",
+        "en": "I took cold medicine.",
+        "vi": "Tôi đã uống thuốc cảm."
+      }
+    ]
+  },
+  {
+    "id": "vocab-044",
+    "kanji": "熱",
+    "hiragana": "ねつ",
+    "romaji": "netsu",
+    "meaning": "fever",
+    "vietnamese": "sốt",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 82,
+    "lesson": 5,
+    "examples": [
+      {
+        "jp": "高い熱が出ました。",
+        "en": "I developed a high fever.",
+        "vi": "Tôi bị sốt cao."
+      }
+    ]
+  },
+  {
+    "id": "vocab-045",
+    "kanji": "風邪",
+    "hiragana": "かぜ",
+    "romaji": "kaze",
+    "meaning": "cold (illness)",
+    "vietnamese": "cảm lạnh",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 89,
+    "lesson": 5,
+    "examples": [
+      {
+        "jp": "風邪をひいてしまいました。",
+        "en": "I caught a cold.",
+        "vi": "Tôi bị cảm lạnh."
+      }
+    ]
+  },
+  {
+    "id": "vocab-046",
+    "kanji": "頭痛",
+    "hiragana": "ずつう",
+    "romaji": "zutsuu",
+    "meaning": "headache",
+    "vietnamese": "đau đầu",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 78,
+    "lesson": 5,
+    "examples": [
+      {
+        "jp": "ひどい頭痛がします。",
+        "en": "I have a severe headache.",
+        "vi": "Tôi bị đau đầu dữ dội."
+      }
+    ]
+  },
+  {
+    "id": "vocab-047",
+    "kanji": "腹痛",
+    "hiragana": "ふくつう",
+    "romaji": "fukutsuu",
+    "meaning": "stomachache",
+    "vietnamese": "đau bụng",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 75,
+    "lesson": 5,
+    "examples": [
+      {
+        "jp": "急に腹痛になりました。",
+        "en": "I suddenly got a stomachache.",
+        "vi": "Tôi đột nhiên bị đau bụng."
+      }
+    ]
+  },
+  {
+    "id": "vocab-048",
+    "kanji": "怪我",
+    "hiragana": "けが",
+    "romaji": "kega",
+    "meaning": "injury, wound",
+    "vietnamese": "chấn thương",
+    "pos": "noun",
+    "level": "N3",
+    "frequency": 77,
+    "lesson": 5,
+    "examples": [
+      {
+        "jp": "サッカーで怪我をしました。",
+        "en": "I got injured playing soccer.",
+        "vi": "Tôi bị thương khi chơi bóng đá."
+      }
+    ]
+  },
+  {
+    "id": "vocab-049",
+    "kanji": "治療",
+    "hiragana": "ちりょう",
+    "romaji": "chiryou",
+    "meaning": "treatment, therapy",
+    "vietnamese": "điều trị",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 72,
+    "lesson": 5,
+    "examples": [
+      {
+        "jp": "この病気の治療は難しいです。",
+        "en": "Treatment for this disease is difficult.",
+        "vi": "Việc điều trị bệnh này rất khó."
+      }
+    ]
+  },
+  {
+    "id": "vocab-050",
+    "kanji": "注射",
+    "hiragana": "ちゅうしゃ",
+    "romaji": "chuusha",
+    "meaning": "injection",
+    "vietnamese": "tiêm",
+    "pos": "noun, verb",
+    "level": "N3",
+    "frequency": 70,
+    "lesson": 5,
+    "examples": [
+      {
+        "jp": "インフルエンザの注射を受けました。",
+        "en": "I got a flu shot.",
+        "vi": "Tôi đã tiêm vắc-xin cúm."
+      }
+    ]
+  }
+]

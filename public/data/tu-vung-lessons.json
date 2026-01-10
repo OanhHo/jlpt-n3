@@ -1,0 +1,531 @@
+[
+  {
+    "id": "lesson-1",
+    "title": "Bài 1: Từ Vựng Cơ Bản (1-30)",
+    "description": "30 từ xuất hiện nhiều nhất trong đề thi N3",
+    "difficulty": "basic",
+    "estimatedTime": "45 phút",
+    "vocabulary": [
+      {
+        "id": "vocab-001",
+        "kanji": "経験",
+        "hiragana": "けいけん",
+        "romaji": "keiken",
+        "vietnamese": "kinh nghiệm",
+        "meaning": "experience",
+        "pos": "noun",
+        "frequency": 95,
+        "examples": [
+          {
+            "jp": "海外で働いた経験があります。",
+            "vi": "Tôi có kinh nghiệm làm việc ở nước ngoài.",
+            "en": "I have experience working overseas."
+          },
+          {
+            "jp": "この仕事には経験が必要です。",
+            "vi": "Công việc này cần có kinh nghiệm.",
+            "en": "This job requires experience."
+          }
+        ]
+      },
+      {
+        "id": "vocab-002",
+        "kanji": "相談",
+        "hiragana": "そうだん",
+        "romaji": "soudan",
+        "vietnamese": "tham khảo, bàn bạc",
+        "meaning": "consultation, discussion",
+        "pos": "noun, verb",
+        "frequency": 88,
+        "examples": [
+          {
+            "jp": "先生に相談しました。",
+            "vi": "Tôi đã tham khảo ý kiến thầy giáo.",
+            "en": "I consulted with the teacher."
+          },
+          {
+            "jp": "何か問題があったら相談してください。",
+            "vi": "Nếu có vấn đề gì thì hãy tham khảo ý kiến.",
+            "en": "Please consult if you have any problems."
+          }
+        ]
+      },
+      {
+        "id": "vocab-003",
+        "kanji": "工場",
+        "hiragana": "こうじょう",
+        "romaji": "koujou",
+        "vietnamese": "nhà máy",
+        "meaning": "factory",
+        "pos": "noun",
+        "frequency": 82,
+        "examples": [
+          {
+            "jp": "父は工場で働いています。",
+            "vi": "Bố tôi làm việc ở nhà máy.",
+            "en": "My father works at a factory."
+          }
+        ]
+      },
+      {
+        "id": "vocab-004",
+        "kanji": "会議",
+        "hiragana": "かいぎ",
+        "romaji": "kaigi",
+        "vietnamese": "cuộc họp",
+        "meaning": "meeting, conference",
+        "pos": "noun",
+        "frequency": 79,
+        "examples": [
+          {
+            "jp": "明日の会議に出席します。",
+            "vi": "Tôi sẽ tham dự cuộc họp ngày mai.",
+            "en": "I will attend tomorrow's meeting."
+          }
+        ]
+      },
+      {
+        "id": "vocab-005",
+        "kanji": "意見",
+        "hiragana": "いけん",
+        "romaji": "iken",
+        "vietnamese": "ý kiến",
+        "meaning": "opinion",
+        "pos": "noun",
+        "frequency": 76,
+        "examples": [
+          {
+            "jp": "あなたの意見を聞かせてください。",
+            "vi": "Xin hãy cho tôi nghe ý kiến của bạn.",
+            "en": "Please let me hear your opinion."
+          }
+        ]
+      },
+      {
+        "id": "vocab-006",
+        "kanji": "計画",
+        "hiragana": "けいかく",
+        "romaji": "keikaku",
+        "vietnamese": "kế hoạch",
+        "meaning": "plan",
+        "pos": "noun, verb",
+        "frequency": 74,
+        "examples": [
+          {
+            "jp": "旅行の計画を立てています。",
+            "vi": "Tôi đang lập kế hoạch du lịch.",
+            "en": "I'm making travel plans."
+          }
+        ]
+      },
+      {
+        "id": "vocab-007",
+        "kanji": "準備",
+        "hiragana": "じゅんび",
+        "romaji": "junbi",
+        "vietnamese": "chuẩn bị",
+        "meaning": "preparation",
+        "pos": "noun, verb",
+        "frequency": 72,
+        "examples": [
+          {
+            "jp": "試験の準備をしています。",
+            "vi": "Tôi đang chuẩn bị cho kỳ thi.",
+            "en": "I'm preparing for the exam."
+          }
+        ]
+      },
+      {
+        "id": "vocab-008",
+        "kanji": "説明",
+        "hiragana": "せつめい",
+        "romaji": "setsumei",
+        "vietnamese": "giải thích",
+        "meaning": "explanation",
+        "pos": "noun, verb",
+        "frequency": 71,
+        "examples": [
+          {
+            "jp": "詳しい説明をお願いします。",
+            "vi": "Xin hãy giải thích chi tiết.",
+            "en": "Please give a detailed explanation."
+          }
+        ]
+      },
+      {
+        "id": "vocab-009",
+        "kanji": "連絡",
+        "hiragana": "れんらく",
+        "romaji": "renraku",
+        "vietnamese": "liên lạc",
+        "meaning": "contact, communication",
+        "pos": "noun, verb",
+        "frequency": 69,
+        "examples": [
+          {
+            "jp": "後で連絡します。",
+            "vi": "Tôi sẽ liên lạc sau.",
+            "en": "I'll contact you later."
+          }
+        ]
+      },
+      {
+        "id": "vocab-010",
+        "kanji": "注意",
+        "hiragana": "ちゅうい",
+        "romaji": "chuui",
+        "vietnamese": "chú ý, cẩn thận",
+        "meaning": "attention, caution",
+        "pos": "noun, verb",
+        "frequency": 67,
+        "examples": [
+          {
+            "jp": "車に注意してください。",
+            "vi": "Xin hãy cẩn thận với xe cộ.",
+            "en": "Please be careful of cars."
+          }
+        ]
+      },
+      {
+        "id": "vocab-011",
+        "kanji": "予約",
+        "hiragana": "よやく",
+        "romaji": "yoyaku",
+        "vietnamese": "đặt trước",
+        "meaning": "reservation, booking",
+        "pos": "noun, verb",
+        "frequency": 65,
+        "examples": [
+          {
+            "jp": "レストランを予約しました。",
+            "vi": "Tôi đã đặt chỗ nhà hàng.",
+            "en": "I made a restaurant reservation."
+          }
+        ]
+      },
+      {
+        "id": "vocab-012",
+        "kanji": "確認",
+        "hiragana": "かくにん",
+        "romaji": "kakunin",
+        "vietnamese": "xác nhận",
+        "meaning": "confirmation",
+        "pos": "noun, verb",
+        "frequency": 63,
+        "examples": [
+          {
+            "jp": "時間を確認してください。",
+            "vi": "Xin hãy xác nhận thời gian.",
+            "en": "Please confirm the time."
+          }
+        ]
+      },
+      {
+        "id": "vocab-013",
+        "kanji": "手続き",
+        "hiragana": "てつづき",
+        "romaji": "tetsuduki",
+        "vietnamese": "thủ tục",
+        "meaning": "procedure, formalities",
+        "pos": "noun",
+        "frequency": 62,
+        "examples": [
+          {
+            "jp": "ビザの手続きが必要です。",
+            "vi": "Cần làm thủ tục visa.",
+            "en": "Visa procedures are necessary."
+          }
+        ]
+      },
+      {
+        "id": "vocab-014",
+        "kanji": "案内",
+        "hiragana": "あんない",
+        "romaji": "annai",
+        "vietnamese": "hướng dẫn",
+        "meaning": "guidance, information",
+        "pos": "noun, verb",
+        "frequency": 60,
+        "examples": [
+          {
+            "jp": "駅まで案内してください。",
+            "vi": "Xin hãy hướng dẫn đến nhà ga.",
+            "en": "Please guide me to the station."
+          }
+        ]
+      },
+      {
+        "id": "vocab-015",
+        "kanji": "努力",
+        "hiragana": "どりょく",
+        "romaji": "doryoku",
+        "vietnamese": "nỗ lực",
+        "meaning": "effort",
+        "pos": "noun, verb",
+        "frequency": 59,
+        "examples": [
+          {
+            "jp": "日本語の勉強を努力しています。",
+            "vi": "Tôi đang nỗ lực học tiếng Nhật.",
+            "en": "I'm making an effort to study Japanese."
+          }
+        ]
+      },
+      {
+        "id": "vocab-016",
+        "kanji": "危険",
+        "hiragana": "きけん",
+        "romaji": "kiken",
+        "vietnamese": "nguy hiểm",
+        "meaning": "danger, risk",
+        "pos": "noun, adjective",
+        "frequency": 58,
+        "examples": [
+          {
+            "jp": "ここは危険な場所です。",
+            "vi": "Đây là nơi nguy hiểm.",
+            "en": "This is a dangerous place."
+          }
+        ]
+      },
+      {
+        "id": "vocab-017",
+        "kanji": "機会",
+        "hiragana": "きかい",
+        "romaji": "kikai",
+        "vietnamese": "cơ hội",
+        "meaning": "opportunity, chance",
+        "pos": "noun",
+        "frequency": 57,
+        "examples": [
+          {
+            "jp": "いい機会だと思います。",
+            "vi": "Tôi nghĩ đây là cơ hội tốt.",
+            "en": "I think it's a good opportunity."
+          }
+        ]
+      },
+      {
+        "id": "vocab-018",
+        "kanji": "理由",
+        "hiragana": "りゆう",
+        "romaji": "riyuu",
+        "vietnamese": "lý do",
+        "meaning": "reason",
+        "pos": "noun",
+        "frequency": 56,
+        "examples": [
+          {
+            "jp": "遅れた理由を教えてください。",
+            "vi": "Xin hãy cho biết lý do bị muộn.",
+            "en": "Please tell me the reason for being late."
+          }
+        ]
+      },
+      {
+        "id": "vocab-019",
+        "kanji": "条件",
+        "hiragana": "じょうけん",
+        "romaji": "jouken",
+        "vietnamese": "điều kiện",
+        "meaning": "condition, terms",
+        "pos": "noun",
+        "frequency": 55,
+        "examples": [
+          {
+            "jp": "仕事の条件がいいです。",
+            "vi": "Điều kiện công việc tốt.",
+            "en": "The job conditions are good."
+          }
+        ]
+      },
+      {
+        "id": "vocab-020",
+        "kanji": "効果",
+        "hiragana": "こうか",
+        "romaji": "kouka",
+        "vietnamese": "hiệu quả",
+        "meaning": "effect, effectiveness",
+        "pos": "noun",
+        "frequency": 54,
+        "examples": [
+          {
+            "jp": "薬の効果が出ました。",
+            "vi": "Thuốc đã có hiệu quả.",
+            "en": "The medicine took effect."
+          }
+        ]
+      },
+      {
+        "id": "vocab-021",
+        "kanji": "材料",
+        "hiragana": "ざいりょう",
+        "romaji": "zairyou",
+        "vietnamese": "nguyên liệu",
+        "meaning": "material, ingredient",
+        "pos": "noun",
+        "frequency": 53,
+        "examples": [
+          {
+            "jp": "料理の材料を買いました。",
+            "vi": "Tôi đã mua nguyên liệu nấu ăn.",
+            "en": "I bought cooking ingredients."
+          }
+        ]
+      },
+      {
+        "id": "vocab-022",
+        "kanji": "完成",
+        "hiragana": "かんせい",
+        "romaji": "kansei",
+        "vietnamese": "hoàn thành",
+        "meaning": "completion",
+        "pos": "noun, verb",
+        "frequency": 52,
+        "examples": [
+          {
+            "jp": "プロジェクトが完成しました。",
+            "vi": "Dự án đã hoàn thành.",
+            "en": "The project was completed."
+          }
+        ]
+      },
+      {
+        "id": "vocab-023",
+        "kanji": "失敗",
+        "hiragana": "しっぱい",
+        "romaji": "shippai",
+        "vietnamese": "thất bại",
+        "meaning": "failure",
+        "pos": "noun, verb",
+        "frequency": 51,
+        "examples": [
+          {
+            "jp": "試験に失敗しました。",
+            "vi": "Tôi đã thất bại trong kỳ thi.",
+            "en": "I failed the exam."
+          }
+        ]
+      },
+      {
+        "id": "vocab-024",
+        "kanji": "成功",
+        "hiragana": "せいこう",
+        "romaji": "seikou",
+        "vietnamese": "thành công",
+        "meaning": "success",
+        "pos": "noun, verb",
+        "frequency": 50,
+        "examples": [
+          {
+            "jp": "計画が成功しました。",
+            "vi": "Kế hoạch đã thành công.",
+            "en": "The plan succeeded."
+          }
+        ]
+      },
+      {
+        "id": "vocab-025",
+        "kanji": "心配",
+        "hiragana": "しんぱい",
+        "romaji": "shinpai",
+        "vietnamese": "lo lắng",
+        "meaning": "worry, concern",
+        "pos": "noun, verb",
+        "frequency": 49,
+        "examples": [
+          {
+            "jp": "健康が心配です。",
+            "vi": "Tôi lo lắng về sức khỏe.",
+            "en": "I'm worried about my health."
+          }
+        ]
+      },
+      {
+        "id": "vocab-026",
+        "kanji": "安心",
+        "hiragana": "あんしん",
+        "romaji": "anshin",
+        "vietnamese": "an tâm",
+        "meaning": "peace of mind, relief",
+        "pos": "noun, verb",
+        "frequency": 48,
+        "examples": [
+          {
+            "jp": "家族が元気で安心しました。",
+            "vi": "Tôi yên tâm vì gia đình khỏe mạnh.",
+            "en": "I was relieved that my family was healthy."
+          }
+        ]
+      },
+      {
+        "id": "vocab-027",
+        "kanji": "協力",
+        "hiragana": "きょうりょく",
+        "romaji": "kyouryoku",
+        "vietnamese": "hợp tác",
+        "meaning": "cooperation",
+        "pos": "noun, verb",
+        "frequency": 47,
+        "examples": [
+          {
+            "jp": "みんなで協力しましょう。",
+            "vi": "Hãy cùng nhau hợp tác.",
+            "en": "Let's cooperate together."
+          }
+        ]
+      },
+      {
+        "id": "vocab-028",
+        "kanji": "遠慮",
+        "hiragana": "えんりょ",
+        "romaji": "enryo",
+        "vietnamese": "khách sáo, dè dặt",
+        "meaning": "reserve, restraint",
+        "pos": "noun, verb",
+        "frequency": 46,
+        "examples": [
+          {
+            "jp": "遠慮しないでください。",
+            "vi": "Xin đừng khách sáo.",
+            "en": "Please don't hesitate."
+          }
+        ]
+      },
+      {
+        "id": "vocab-029",
+        "kanji": "約束",
+        "hiragana": "やくそく",
+        "romaji": "yakusoku",
+        "vietnamese": "lời hứa",
+        "meaning": "promise, appointment",
+        "pos": "noun, verb",
+        "frequency": 45,
+        "examples": [
+          {
+            "jp": "約束を守ります。",
+            "vi": "Tôi sẽ giữ lời hứa.",
+            "en": "I will keep my promise."
+          }
+        ]
+      },
+      {
+        "id": "vocab-030",
+        "kanji": "決心",
+        "hiragana": "けっしん",
+        "romaji": "kesshin",
+        "vietnamese": "quyết tâm",
+        "meaning": "determination, resolution",
+        "pos": "noun, verb",
+        "frequency": 44,
+        "examples": [
+          {
+            "jp": "日本語を学ぶ決心をしました。",
+            "vi": "Tôi đã quyết tâm học tiếng Nhật.",
+            "en": "I made up my mind to study Japanese."
+          }
+        ]
+      }
+    ]
+  }
+]

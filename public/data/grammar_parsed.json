@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "source": "images_from_chat",
+    "generated_by": "assistant_ocr_parse",
+    "note": "Auto-parsed from provided images; please review for OCR errors and refine examples/meanings."
+  },
+  "lessons": [
+    {
+      "lesson_id": 1,
+      "title": "Lesson 1",
+      "entries": [
+        {
+          "id": 1,
+          "pattern": "Vます + 始める",
+          "meaning_vi": "Bắt đầu ~",
+          "example_jp": "私は20歳の時から、タバコを吸い始めました。",
+          "example_vi": "Tôi bắt đầu hút thuốc lá từ năm 20 tuổi."
+        },
+        {
+          "id": 2,
+          "pattern": "Vます + 終わる",
+          "meaning_vi": "Kết thúc, xong ~",
+          "example_jp": "今日はレポートを書き終わるまで寝ないつもりだ。",
+          "example_vi": "Tôi định hôm nay sẽ không ngủ cho đến khi viết xong báo cáo."
+        },
+        {
+          "id": 3,
+          "pattern": "Vます + 続ける",
+          "meaning_vi": "Duy trì, liên tục, tiếp tục ~",
+          "example_jp": "彼は休憩時間が終わった後も、ゲームをし続けている。",
+          "example_vi": "Ngay cả khi đã hết giờ nghỉ, anh ấy vẫn tiếp tục chơi game."
+        },
+        {
+          "id": 4,
+          "pattern": "Vます + きる",
+          "meaning_vi": "Hết toàn bộ / vô cùng",
+          "example_jp": "夏休みの間に、N2までの単語を全て覚えきった。",
+          "example_vi": "Trong khoảng thời gian nghỉ hè, tôi đã nhớ hết toàn bộ từ vựng cho đến tận N2."
+        },
+        {
+          "id": 5,
+          "pattern": "Vます + たて / たてのN",
+          "meaning_vi": "(Vừa mới ~)",
+          "example_jp": "やっぱり料理はできたてが一番おいしい。",
+          "example_vi": "Quả nhiên món ăn ngon nhất là khi vừa mới nấu xong."
+        }
+      ]
+    },
+    {
+      "lesson_id": 2,
+      "title": "Lesson 2",
+      "entries": [
+        {
+          "id": 6,
+          "pattern": "Vます + あげる",
+          "meaning_vi": "Hoàn thành xong ~",
+          "example_jp": "今日中に明日の会議で使う資料を作りあげる。",
+          "example_vi": "Trong ngày hôm nay, tôi sẽ làm xong tài liệu sẽ dùng trong buổi họp ngày mai."
+        },
+        {
+          "id": 7,
+          "pattern": "かけだ / かける / かけの + N",
+          "meaning_vi": "(Dang dở...)",
+          "example_jp": "息子は遊びに行ったが、まだ宿題をやりかけだ。",
+          "example_vi": "Con trai tôi đang đi chơi nhưng bài tập của nó vẫn chưa làm xong."
+        },
+        {
+          "id": 8,
+          "pattern": "Vます / Vません + ように",
+          "meaning_vi": "(Cầu cho / Mong cho ~)",
+          "example_jp": "娘が明日の試験に合格できますように。",
+          "example_vi": "Mong cho con gái tôi sẽ đỗ kì thi ngày mai."
+        },
+        {
+          "id": 9,
+          "pattern": "～まま",
+          "meaning_vi": "Giữ nguyên trạng thái (khoảng để nguyên...)",
+          "example_jp": "昨日疲れすぎたから、化粧をしたまま寝てしまった。",
+          "example_vi": "Hôm qua tôi quá mệt, nên tôi đã ngủ mà vẫn để nguyên lớp trang điểm."
+        },
+        {
+          "id": 10,
+          "pattern": "～っぱなし",
+          "meaning_vi": "Giữ trạng thái (suốt, liên tục, không thay đổi)",
+          "example_jp": "テレビをつけっぱなしで寝てしまった。",
+          "example_vi": "Tôi để tivi mở suốt và ngủ quên."
+        }
+      ]
+    },
+    {
+      "lesson_id": 3,
+      "title": "Lesson 3",
+      "entries": [
+        {
+          "id": 11,
+          "pattern": "普通形 + そうだ",
+          "meaning_vi": "Nghe nói (truyền đạt thông tin)",
+          "example_jp": "彼は来月結婚するそうだ。",
+          "example_vi": "Nghe nói anh ấy tháng sau sẽ kết hôn."
+        },
+        {
+          "id": 12,
+          "pattern": "N + らしい",
+          "meaning_vi": "Ra dáng, đậm chất",
+          "example_jp": "私の妹は女だが、とても男らしい性格をしている。",
+          "example_vi": "Em gái tôi tuy là con gái nhưng có tính cách như con trai."
+        },
+        {
+          "id": 13,
+          "pattern": "～ようだ / ～みたい",
+          "meaning_vi": "Hình như / giống như",
+          "example_jp": "彼は今月忙しいせいか、来られないみたいだ。",
+          "example_vi": "Có vẻ như anh ấy bận tháng này nên không thể đến."
+        },
+        {
+          "id": 14,
+          "pattern": "Vて / Aくて / Nで + もいい",
+          "meaning_vi": "Được phép, có thể",
+          "example_jp": "それはN1の文法なので、今はまだ知らなくてもいい。",
+          "example_vi": "Đó là ngữ pháp N1 nên bây giờ chưa biết cũng không sao."
+        },
+        {
+          "id": 15,
+          "pattern": "～てはいけない / ～だめだ / ～はならない",
+          "meaning_vi": "Không được phép ~",
+          "example_jp": "眠くても、運転中は絶対寝てはいけない。",
+          "example_vi": "Mặc dù buồn ngủ nhưng khi lái xe thì tuyệt đối không được ngủ."
+        }
+      ]
+    },
+    {
+      "lesson_id": 4,
+      "title": "Lesson 4",
+      "entries": [
+        {
+          "id": 16,
+          "pattern": "なければならない / なければいけない",
+          "meaning_vi": "Phải, bắt buộc",
+          "example_jp": "N5の問題はもっと易しくなければならない。",
+          "example_vi": "Những câu hỏi của N5 cần phải dễ hơn."
+        },
+        {
+          "id": 17,
+          "pattern": "ほしい / ほしくない",
+          "meaning_vi": "Muốn (ai đó làm gì / có điều gì)",
+          "example_jp": "恋人が欲しいので、誰かいい人を紹介してほしい。",
+          "example_vi": "Vì tôi muốn có người yêu nên muốn ai đó giới thiệu người tốt cho tôi."
+        },
+        {
+          "id": 18,
+          "pattern": "～させてください / ～させていただく",
+          "meaning_vi": "Muốn được cho phép làm gì",
+          "example_jp": "明日の午前10時、こちらから電話をかけさせていただきます。",
+          "example_vi": "Chúng tôi xin phép gọi điện cho quý khách vào 10 giờ sáng ngày mai."
+        },
+        {
+          "id": 19,
+          "pattern": "～られる / ～せられる",
+          "meaning_vi": "Bị/ bị khiến làm gì",
+          "example_jp": "毎日家に帰ると、私は母に日本語を勉強させられる。",
+          "example_vi": "Mỗi ngày khi về đến nhà, tôi bị mẹ bắt học tiếng Nhật."
+        },
+        {
+          "id": 20,
+          "pattern": "Vる + しかない",
+          "meaning_vi": "Chỉ còn cách ~",
+          "example_jp": "将来成功したいなら、今頑張るしかない。",
+          "example_vi": "Nếu muốn thành công trong tương lai, bây giờ chỉ có cố gắng thôi."
+        }
+      ]
+    },
+    {
+      "lesson_id": 5,
+      "title": "Lesson 5",
+      "entries": [
+        {
+          "id": 21,
+          "pattern": "Vる / Vない + ところだった",
+          "meaning_vi": "Suýt nữa thì ~",
+          "example_jp": "危ない！もう少しで車とぶつかるところだった。",
+          "example_vi": "Nguy hiểm quá, suýt nữa thì mình đâm vào ô tô rồi."
+        },
+        {
+          "id": 22,
+          "pattern": "N + おきに",
+          "meaning_vi": "Cứ cách, cứ mỗi...",
+          "example_jp": "私の会社は3か月おきにパーティーが開催される。",
+          "example_vi": "Công ty tổ chức tiệc mỗi ba tháng."
+        },
+        {
+          "id": 23,
+          "pattern": "N + ぬき",
+          "meaning_vi": "Mà không / bỏ...",
+          "example_jp": "今日はとても忙しかったので、休憩ぬきで働いた。",
+          "example_vi": "Hôm nay rất bận nên tôi đã làm việc mà không nghỉ."
+        },
+        {
+          "id": 24,
+          "pattern": "N + だらけ",
+          "meaning_vi": "Chỉ toàn là... (tiêu cực)",
+          "example_jp": "私のクラスは男だらけで、話をしてもつまらない。",
+          "example_vi": "Lớp tôi toàn là con trai nên khi nói chuyện cũng chẳng thú vị."
+        },
+        {
+          "id": 25,
+          "pattern": "N + 向き / 向けの + N",
+          "meaning_vi": "Phù hợp với / Dành cho...",
+          "example_jp": "この店には、子供向けの本が多く販売されている。",
+          "example_vi": "Cửa hàng này bán nhiều sách dành cho trẻ em."
+        }
+      ]
+    },
+    {
+      "lesson_id": 6,
+      "title": "Lesson 6",
+      "entries": [
+        {
+          "id": 26,
+          "pattern": "Vたがる / Vたがっている",
+          "meaning_vi": "Muốn (người thứ ba muốn làm gì)",
+          "example_jp": "子どもは一緒に行きたがる。",
+          "example_vi": "Đứa trẻ muốn đi cùng."
+        },
+        {
+          "id": 27,
+          "pattern": "から / にかけて",
+          "meaning_vi": "Từ... đến... (khoảng thời gian/ địa điểm)",
+          "example_jp": "今晩から明日の朝にかけて、激しい雨が降るらしい。",
+          "example_vi": "Nghe nói từ tối nay đến sáng mai sẽ có mưa to."
+        },
+        {
+          "id": 28,
+          "pattern": "N + 以来",
+          "meaning_vi": "Kể từ khi...",
+          "example_jp": "彼女に会って以来、ずっと彼女のことを考えている。",
+          "example_vi": "Kể từ khi gặp cô ấy, tôi luôn nghĩ về cô ấy."
+        },
+        {
+          "id": 29,
+          "pattern": "N / Aな / Aい + 間 (あいだ)",
+          "meaning_vi": "Trong suốt, xuyên suốt",
+          "example_jp": "学生の間に、友達と海外旅行へ行きたい。",
+          "example_vi": "Trong khoảng thời gian là học sinh tôi muốn đi du lịch nước ngoài cùng bạn bè."
+        },
+        {
+          "id": 30,
+          "pattern": "Vている + 最中 (さいちゅう)",
+          "meaning_vi": "Đang trong lúc...",
+          "example_jp": "食事の最中に電話がかかってきた。",
+          "example_vi": "Khi đang ăn thì điện thoại reo."
+        }
+      ]
+    },
+    {
+      "lesson_id": 7,
+      "title": "Lesson 7",
+      "entries": [
+        {
+          "id": 31,
+          "pattern": "N + について",
+          "meaning_vi": "Về..., liên quan đến...",
+          "example_jp": "私の教授は30年間物理学について研究している。",
+          "example_vi": "Giáo sư của tôi đã nghiên cứu về vật lý trong suốt 30 năm."
+        },
+        {
+          "id": 32,
+          "pattern": "N / V / こと + によって",
+          "meaning_vi": "Bằng, thông qua / tùy theo...",
+          "example_jp": "この薬を飲むことによって、かぜがなおるかもしれない。",
+          "example_vi": "Bằng việc uống thuốc này thì có thể bệnh cảm sẽ được chữa khỏi."
+        },
+        {
+          "id": 33,
+          "pattern": "N + によっては",
+          "meaning_vi": "Tùy vào...",
+          "example_jp": "この店は時間によってメニューが変わる。",
+          "example_vi": "Thực đơn của nhà hàng này thay đổi tùy theo thời gian."
+        },
+        {
+          "id": 34,
+          "pattern": "N + に関して / に関する + N",
+          "meaning_vi": "Liên quan đến..., về...",
+          "example_jp": "12月に行われるJLPTに関しての情報を調べる。",
+          "example_vi": "Tôi đang tra cứu thông tin liên quan đến kì thi JLPT được tổ chức vào tháng 12."
+        },
+        {
+          "id": 35,
+          "pattern": "N + に対して",
+          "meaning_vi": "Đối với..., đối với hành động nào đó",
+          "example_jp": "年上の人に対してはていねいな言葉を使った方がいい。",
+          "example_vi": "Đối với người lớn tuổi thì nên dùng lời lẽ lịch sự."
+        }
+      ]
+    },
+    {
+      "lesson_id": 8,
+      "title": "Lesson 8",
+      "entries": [
+        {
+          "id": 36,
+          "pattern": "N + にとって",
+          "meaning_vi": "Đối với...",
+          "example_jp": "私にとって、一番大事なのは家族です。",
+          "example_vi": "Đối với tôi, điều quan trọng nhất là gia đình."
+        },
+        {
+          "id": 37,
+          "pattern": "N + を中心に / を中心とした + N",
+          "meaning_vi": "Lấy ... làm trung tâm / chủ yếu",
+          "example_jp": "私はダイエットのため、野菜を中心にした食事をしている。",
+          "example_vi": "Để ăn kiêng tôi ăn chủ yếu rau."
+        },
+        {
+          "id": 38,
+          "pattern": "として / としては / としても",
+          "meaning_vi": "Với tư cách là / là...",
+          "example_jp": "私は今ベトナムで、日本語の教師として働いている。",
+          "example_vi": "Tôi hiện đang làm việc ở Việt Nam với tư cách là giáo viên tiếng Nhật."
+        },
+        {
+          "id": 39,
+          "pattern": "ほど / くらい",
+          "meaning_vi": "Đến mức... / khoảng...",
+          "example_jp": "このラーメンは美味しいが、あの店ほどではない。",
+          "example_vi": "Món ramen này cũng ngon nhưng không bằng nhà hàng kia."
+        },
+        {
+          "id": 40,
+          "pattern": "というと / といえば / といったら",
+          "meaning_vi": "Nói đến...",
+          "example_jp": "便利なものというと、やはりスマートフォンだろう。",
+          "example_vi": "Nếu nói đến vật tiện lợi thì chắc chắn là smartphone."
+        }
+      ]
+    }
+  ]
+}

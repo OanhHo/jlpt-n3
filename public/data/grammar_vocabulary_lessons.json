@@ -1,0 +1,1188 @@
+[
+  {
+    "id": "grammar-lesson-1",
+    "title": "Lesson 1",
+    "description": "Lesson 1",
+    "vocabulary": [
+      {
+        "id": "grammar-1-1-1",
+        "kanji": "Vます + 始める",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Bắt đầu ~",
+        "vietnamese": "Bắt đầu ~",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 1,
+        "examples": [
+          {
+            "jp": "私は20歳の時から、タバコを吸い始めました。",
+            "vi": "Tôi bắt đầu hút thuốc lá từ năm 20 tuổi."
+          }
+        ],
+        "example": "私は20歳の時から、タバコを吸い始めました。 — Tôi bắt đầu hút thuốc lá từ năm 20 tuổi."
+      },
+      {
+        "id": "grammar-1-2-1",
+        "kanji": "Vます + 終わる",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Kết thúc, xong ~",
+        "vietnamese": "Kết thúc, xong ~",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 1,
+        "examples": [
+          {
+            "jp": "今日はレポートを書き終わるまで寝ないつもりだ。",
+            "vi": "Tôi định hôm nay sẽ không ngủ cho đến khi viết xong báo cáo."
+          }
+        ],
+        "example": "今日はレポートを書き終わるまで寝ないつもりだ。 — Tôi định hôm nay sẽ không ngủ cho đến khi viết xong báo cáo."
+      },
+      {
+        "id": "grammar-1-3-1",
+        "kanji": "Vます + 続ける",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Duy trì, liên tục, tiếp tục ~",
+        "vietnamese": "Duy trì, liên tục, tiếp tục ~",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 1,
+        "examples": [
+          {
+            "jp": "彼は休憩時間が終わった後も、ゲームをし続けている。",
+            "vi": "Ngay cả khi đã hết giờ nghỉ, anh ấy vẫn tiếp tục chơi game."
+          }
+        ],
+        "example": "彼は休憩時間が終わった後も、ゲームをし続けている。 — Ngay cả khi đã hết giờ nghỉ, anh ấy vẫn tiếp tục chơi game."
+      },
+      {
+        "id": "grammar-1-4-1",
+        "kanji": "Vます + きる",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Hết toàn bộ / vô cùng",
+        "vietnamese": "Hết toàn bộ / vô cùng",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 1,
+        "examples": [
+          {
+            "jp": "夏休みの間に、N2までの単語を全て覚えきった。",
+            "vi": "Trong khoảng thời gian nghỉ hè, tôi đã nhớ hết toàn bộ từ vựng cho đến tận N2."
+          }
+        ],
+        "example": "夏休みの間に、N2までの単語を全て覚えきった。 — Trong khoảng thời gian nghỉ hè, tôi đã nhớ hết toàn bộ từ vựng cho đến tận N2."
+      },
+      {
+        "id": "grammar-1-5-1",
+        "kanji": "Vます + たて",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "(Vừa mới ~)",
+        "vietnamese": "(Vừa mới ~)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 1,
+        "examples": [
+          {
+            "jp": "やっぱり料理はできたてが一番おいしい。",
+            "vi": "Quả nhiên món ăn ngon nhất là khi vừa mới nấu xong."
+          }
+        ],
+        "example": "やっぱり料理はできたてが一番おいしい。 — Quả nhiên món ăn ngon nhất là khi vừa mới nấu xong."
+      }
+    ],
+    "totalVocabulary": 5
+  },
+  {
+    "id": "grammar-lesson-2",
+    "title": "Lesson 2",
+    "description": "Lesson 2",
+    "vocabulary": [
+      {
+        "id": "grammar-2-6-1",
+        "kanji": "Vます + あげる",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Hoàn thành xong ~",
+        "vietnamese": "Hoàn thành xong ~",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 2,
+        "examples": [
+          {
+            "jp": "今日中に明日の会議で使う資料を作りあげる。",
+            "vi": "Trong ngày hôm nay, tôi sẽ làm xong tài liệu sẽ dùng trong buổi họp ngày mai."
+          }
+        ],
+        "example": "今日中に明日の会議で使う資料を作りあげる。 — Trong ngày hôm nay, tôi sẽ làm xong tài liệu sẽ dùng trong buổi họp ngày mai."
+      },
+      {
+        "id": "grammar-2-7-1",
+        "kanji": "かけだ",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "(Dang dở...)",
+        "vietnamese": "(Dang dở...)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 2,
+        "examples": [
+          {
+            "jp": "息子は遊びに行ったが、まだ宿題をやりかけだ。",
+            "vi": "Con trai tôi đang đi chơi nhưng bài tập của nó vẫn chưa làm xong."
+          }
+        ],
+        "example": "息子は遊びに行ったが、まだ宿題をやりかけだ。 — Con trai tôi đang đi chơi nhưng bài tập của nó vẫn chưa làm xong."
+      },
+      {
+        "id": "grammar-2-8-1",
+        "kanji": "かける",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "(Dang dở...)",
+        "vietnamese": "(Dang dở...)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 2,
+        "examples": [
+          {
+            "jp": "息子は遊びに行ったが、まだ宿題をやりかけだ。",
+            "vi": "Con trai tôi đang đi chơi nhưng bài tập của nó vẫn chưa làm xong."
+          }
+        ],
+        "example": "息子は遊びに行ったが、まだ宿題をやりかけだ。 — Con trai tôi đang đi chơi nhưng bài tập của nó vẫn chưa làm xong."
+      },
+      {
+        "id": "grammar-2-9-1",
+        "kanji": "かけの + N",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "(Dang dở...)",
+        "vietnamese": "(Dang dở...)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 2,
+        "examples": [
+          {
+            "jp": "息子は遊びに行ったが、まだ宿題をやりかけだ。",
+            "vi": "Con trai tôi đang đi chơi nhưng bài tập của nó vẫn chưa làm xong."
+          }
+        ],
+        "example": "息子は遊びに行ったが、まだ宿題をやりかけだ。 — Con trai tôi đang đi chơi nhưng bài tập của nó vẫn chưa làm xong."
+      },
+      {
+        "id": "grammar-2-10-1",
+        "kanji": "Vます",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "(Cầu cho / Mong cho ~)",
+        "vietnamese": "(Cầu cho / Mong cho ~)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 2,
+        "examples": [
+          {
+            "jp": "娘が明日の試験に合格できますように。",
+            "vi": "Mong cho con gái tôi sẽ đỗ kì thi ngày mai."
+          }
+        ],
+        "example": "娘が明日の試験に合格できますように。 — Mong cho con gái tôi sẽ đỗ kì thi ngày mai."
+      },
+      {
+        "id": "grammar-2-10-2",
+        "kanji": "Vません + ように",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "(Cầu cho / Mong cho ~)",
+        "vietnamese": "(Cầu cho / Mong cho ~)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 2,
+        "examples": [
+          {
+            "jp": "娘が明日の試験に合格できますように。",
+            "vi": "Mong cho con gái tôi sẽ đỗ kì thi ngày mai."
+          }
+        ],
+        "example": "娘が明日の試験に合格できますように。 — Mong cho con gái tôi sẽ đỗ kì thi ngày mai."
+      }
+    ],
+    "totalVocabulary": 6
+  },
+  {
+    "id": "grammar-lesson-3",
+    "title": "Lesson 3",
+    "description": "Lesson 3",
+    "vocabulary": [
+      {
+        "id": "grammar-3-11-1",
+        "kanji": "～まま",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Giữ nguyên trạng thái",
+        "vietnamese": "Giữ nguyên trạng thái",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 3,
+        "examples": [
+          {
+            "jp": "昨日疲れすぎたから、化粧をしたまま寝てしまった。",
+            "vi": "Hôm qua tôi quá mệt, nên tôi đã ngủ mà vẫn để nguyên lớp trang điểm."
+          }
+        ],
+        "example": "昨日疲れすぎたから、化粧をしたまま寝てしまった。 — Hôm qua tôi quá mệt, nên tôi đã ngủ mà vẫn để nguyên lớp trang điểm."
+      },
+      {
+        "id": "grammar-3-12-1",
+        "kanji": "～っぱなし",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Giữ trạng thái (suốt)",
+        "vietnamese": "Giữ trạng thái (suốt)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 3,
+        "examples": [
+          {
+            "jp": "テレビをつけっぱなしで寝てしまった。",
+            "vi": "Tôi để tivi mở suốt và ngủ quên."
+          }
+        ],
+        "example": "テレビをつけっぱなしで寝てしまった。 — Tôi để tivi mở suốt và ngủ quên."
+      },
+      {
+        "id": "grammar-3-13-1",
+        "kanji": "普通形 + そうだ",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Nghe nói (truyền đạt thông tin)",
+        "vietnamese": "Nghe nói (truyền đạt thông tin)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 3,
+        "examples": [
+          {
+            "jp": "彼は来月結婚するそうだ。",
+            "vi": "Nghe nói anh ấy tháng sau sẽ kết hôn."
+          }
+        ],
+        "example": "彼は来月結婚するそうだ。 — Nghe nói anh ấy tháng sau sẽ kết hôn."
+      },
+      {
+        "id": "grammar-3-14-1",
+        "kanji": "N + らしい",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Ra dáng, đậm chất",
+        "vietnamese": "Ra dáng, đậm chất",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 3,
+        "examples": [
+          {
+            "jp": "私の妹は女だが、とても男らしい性格をしている。",
+            "vi": "Em gái tôi tuy là con gái nhưng có tính cách như con trai."
+          }
+        ],
+        "example": "私の妹は女だが、とても男らしい性格をしている。 — Em gái tôi tuy là con gái nhưng có tính cách như con trai."
+      },
+      {
+        "id": "grammar-3-15-1",
+        "kanji": "～ようだ",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Hình như / giống như",
+        "vietnamese": "Hình như / giống như",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 3,
+        "examples": [
+          {
+            "jp": "彼は今月忙しいせいか、来られないみたいだ。",
+            "vi": "Có vẻ như anh ấy bận tháng này nên không thể đến."
+          }
+        ],
+        "example": "彼は今月忙しいせいか、来られないみたいだ。 — Có vẻ như anh ấy bận tháng này nên không thể đến."
+      }
+    ],
+    "totalVocabulary": 5
+  },
+  {
+    "id": "grammar-lesson-4",
+    "title": "Lesson 4",
+    "description": "Lesson 4",
+    "vocabulary": [
+      {
+        "id": "grammar-4-16-1",
+        "kanji": "～みたい",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Hình như / giống như",
+        "vietnamese": "Hình như / giống như",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 4,
+        "examples": [
+          {
+            "jp": "彼は今月忙しいせいか、来られないみたいだ。",
+            "vi": "Có vẻ như anh ấy bận tháng này nên không thể đến."
+          }
+        ],
+        "example": "彼は今月忙しいせいか、来られないみたいだ。 — Có vẻ như anh ấy bận tháng này nên không thể đến."
+      },
+      {
+        "id": "grammar-4-17-1",
+        "kanji": "Vて + もいい",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Được phép, có thể",
+        "vietnamese": "Được phép, có thể",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 4,
+        "examples": [
+          {
+            "jp": "それはN1の文法なので、今はまだ知らなくてもいい。",
+            "vi": "Đó là ngữ pháp N1 nên bây giờ chưa biết cũng không sao."
+          }
+        ],
+        "example": "それはN1の文法なので、今はまだ知らなくてもいい。 — Đó là ngữ pháp N1 nên bây giờ chưa biết cũng không sao."
+      },
+      {
+        "id": "grammar-4-18-1",
+        "kanji": "Aくて + もいい",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Được phép, có thể",
+        "vietnamese": "Được phép, có thể",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 4,
+        "examples": [
+          {
+            "jp": "それはN1の文法なので、今はまだ知らなくてもいい。",
+            "vi": "Đó là ngữ pháp N1 nên bây giờ chưa biết cũng không sao."
+          }
+        ],
+        "example": "それはN1の文法なので、今はまだ知らなくてもいい。 — Đó là ngữ pháp N1 nên bây giờ chưa biết cũng không sao."
+      },
+      {
+        "id": "grammar-4-19-1",
+        "kanji": "Nで + もいい",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Được phép, có thể",
+        "vietnamese": "Được phép, có thể",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 4,
+        "examples": [
+          {
+            "jp": "それはN1の文法なので、今はまだ知らなくてもいい。",
+            "vi": "Đó là ngữ pháp N1 nên bây giờ chưa biết cũng không sao."
+          }
+        ],
+        "example": "それはN1の文法なので、今はまだ知らなくてもいい。 — Đó là ngữ pháp N1 nên bây giờ chưa biết cũng không sao."
+      },
+      {
+        "id": "grammar-4-20-1",
+        "kanji": "～てはいけない",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Không được phép ~",
+        "vietnamese": "Không được phép ~",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 4,
+        "examples": [
+          {
+            "jp": "眠くても、運転中は絶対寝てはいけない。",
+            "vi": "Mặc dù buồn ngủ nhưng khi lái xe thì tuyệt đối không được ngủ."
+          }
+        ],
+        "example": "眠くても、運転中は絶対寝てはいけない。 — Mặc dù buồn ngủ nhưng khi lái xe thì tuyệt đối không được ngủ."
+      }
+    ],
+    "totalVocabulary": 5
+  },
+  {
+    "id": "grammar-lesson-5",
+    "title": "Lesson 5",
+    "description": "Lesson 5",
+    "vocabulary": [
+      {
+        "id": "grammar-5-21-1",
+        "kanji": "なければならない",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Phải, bắt buộc",
+        "vietnamese": "Phải, bắt buộc",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 5,
+        "examples": [
+          {
+            "jp": "N5の問題はもっと易しくなければならない。",
+            "vi": "Những câu hỏi của N5 cần phải dễ hơn."
+          }
+        ],
+        "example": "N5の問題はもっと易しくなければならない。 — Những câu hỏi của N5 cần phải dễ hơn."
+      },
+      {
+        "id": "grammar-5-22-1",
+        "kanji": "なければいけない",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Phải, bắt buộc",
+        "vietnamese": "Phải, bắt buộc",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 5,
+        "examples": [
+          {
+            "jp": "N5の問題はもっと易しくなければならない。",
+            "vi": "Những câu hỏi của N5 cần phải dễ hơn."
+          }
+        ],
+        "example": "N5の問題はもっと易しくなければならない。 — Những câu hỏi của N5 cần phải dễ hơn."
+      },
+      {
+        "id": "grammar-5-23-1",
+        "kanji": "ほしい",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Muốn (ai đó làm gì / có điều gì)",
+        "vietnamese": "Muốn (ai đó làm gì / có điều gì)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 5,
+        "examples": [
+          {
+            "jp": "恋人が欲しいので、誰かいい人を紹介してほしい。",
+            "vi": "Vì tôi muốn có người yêu nên muốn ai đó giới thiệu người tốt cho tôi."
+          }
+        ],
+        "example": "恋人が欲しいので、誰かいい人を紹介してほしい。 — Vì tôi muốn có người yêu nên muốn ai đó giới thiệu người tốt cho tôi."
+      },
+      {
+        "id": "grammar-5-24-1",
+        "kanji": "ほしくない",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Không muốn",
+        "vietnamese": "Không muốn",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 5,
+        "examples": [
+          {
+            "jp": "恋人が欲しいので、誰かいい人を紹介してほしい。",
+            "vi": "Vì tôi muốn có người yêu nên muốn ai đó giới thiệu người tốt cho tôi."
+          }
+        ],
+        "example": "恋人が欲しいので、誰かいい人を紹介してほしい。 — Vì tôi muốn có người yêu nên muốn ai đó giới thiệu người tốt cho tôi."
+      },
+      {
+        "id": "grammar-5-25-1",
+        "kanji": "～させてください",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Muốn được cho phép làm gì",
+        "vietnamese": "Muốn được cho phép làm gì",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 5,
+        "examples": [
+          {
+            "jp": "明日の午前10時、こちらから電話をかけさせていただきます。",
+            "vi": "Chúng tôi xin phép gọi điện cho quý khách vào 10 giờ sáng ngày mai."
+          }
+        ],
+        "example": "明日の午前10時、こちらから電話をかけさせていただきます。 — Chúng tôi xin phép gọi điện cho quý khách vào 10 giờ sáng ngày mai."
+      }
+    ],
+    "totalVocabulary": 5
+  },
+  {
+    "id": "grammar-lesson-6",
+    "title": "Lesson 6",
+    "description": "Lesson 6",
+    "vocabulary": [
+      {
+        "id": "grammar-6-26-1",
+        "kanji": "～させていただく",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Muốn được cho phép làm gì (kính ngữ)",
+        "vietnamese": "Muốn được cho phép làm gì (kính ngữ)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 6,
+        "examples": [
+          {
+            "jp": "明日の午前10時、こちらから電話をかけさせていただきます。",
+            "vi": "Chúng tôi xin phép gọi điện cho quý khách vào 10 giờ sáng ngày mai."
+          }
+        ],
+        "example": "明日の午前10時、こちらから電話をかけさせていただきます。 — Chúng tôi xin phép gọi điện cho quý khách vào 10 giờ sáng ngày mai."
+      },
+      {
+        "id": "grammar-6-27-1",
+        "kanji": "～られる",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Bị/ bị khiến làm gì",
+        "vietnamese": "Bị/ bị khiến làm gì",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 6,
+        "examples": [
+          {
+            "jp": "毎日家に帰ると、私は母に日本語を勉強させられる。",
+            "vi": "Mỗi ngày khi về đến nhà, tôi bị mẹ bắt học tiếng Nhật."
+          }
+        ],
+        "example": "毎日家に帰ると、私は母に日本語を勉強させられる。 — Mỗi ngày khi về đến nhà, tôi bị mẹ bắt học tiếng Nhật."
+      },
+      {
+        "id": "grammar-6-28-1",
+        "kanji": "～せられる",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Bị/ bị khiến làm gì (thể bị động/ sai khiến)",
+        "vietnamese": "Bị/ bị khiến làm gì (thể bị động/ sai khiến)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 6,
+        "examples": [
+          {
+            "jp": "毎日家に帰ると、私は母に日本語を勉強させられる。",
+            "vi": "Mỗi ngày khi về đến nhà, tôi bị mẹ bắt học tiếng Nhật."
+          }
+        ],
+        "example": "毎日家に帰ると、私は母に日本語を勉強させられる。 — Mỗi ngày khi về đến nhà, tôi bị mẹ bắt học tiếng Nhật."
+      },
+      {
+        "id": "grammar-6-29-1",
+        "kanji": "Vる + しかない",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Chỉ còn cách ~",
+        "vietnamese": "Chỉ còn cách ~",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 6,
+        "examples": [
+          {
+            "jp": "将来成功したいなら、今頑張るしかない。",
+            "vi": "Nếu muốn thành công trong tương lai, bây giờ chỉ có cố gắng thôi."
+          }
+        ],
+        "example": "将来成功したいなら、今頑張るしかない。 — Nếu muốn thành công trong tương lai, bây giờ chỉ có cố gắng thôi."
+      },
+      {
+        "id": "grammar-6-30-1",
+        "kanji": "Vる + ところだった",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Suýt nữa thì ~",
+        "vietnamese": "Suýt nữa thì ~",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 6,
+        "examples": [
+          {
+            "jp": "危ない！もう少しで車とぶつかるところだった。",
+            "vi": "Nguy hiểm quá, suýt nữa thì mình đâm vào ô tô rồi."
+          }
+        ],
+        "example": "危ない！もう少しで車とぶつかるところだった。 — Nguy hiểm quá, suýt nữa thì mình đâm vào ô tô rồi."
+      }
+    ],
+    "totalVocabulary": 5
+  },
+  {
+    "id": "grammar-lesson-7",
+    "title": "Lesson 7",
+    "description": "Lesson 7",
+    "vocabulary": [
+      {
+        "id": "grammar-7-31-1",
+        "kanji": "Vない + ところだった",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Suýt nữa thì (không...)",
+        "vietnamese": "Suýt nữa thì (không...)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 7,
+        "examples": [
+          {
+            "jp": "危ない！もう少しで車とぶつかるところだった。",
+            "vi": "Nguy hiểm quá, suýt nữa thì mình đâm vào ô tô rồi."
+          }
+        ],
+        "example": "危ない！もう少しで車とぶつかるところだった。 — Nguy hiểm quá, suýt nữa thì mình đâm vào ô tô rồi."
+      },
+      {
+        "id": "grammar-7-32-1",
+        "kanji": "N + おきに",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Cứ cách, cứ mỗi...",
+        "vietnamese": "Cứ cách, cứ mỗi...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 7,
+        "examples": [
+          {
+            "jp": "私の会社は3か月おきにパーティーが開催される。",
+            "vi": "Công ty tổ chức tiệc mỗi ba tháng."
+          }
+        ],
+        "example": "私の会社は3か月おきにパーティーが開催される。 — Công ty tổ chức tiệc mỗi ba tháng."
+      },
+      {
+        "id": "grammar-7-33-1",
+        "kanji": "N + ぬき",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Mà không / bỏ...",
+        "vietnamese": "Mà không / bỏ...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 7,
+        "examples": [
+          {
+            "jp": "今日はとても忙しかったので、休憩ぬきで働いた。",
+            "vi": "Hôm nay rất bận nên tôi đã làm việc mà không nghỉ."
+          }
+        ],
+        "example": "今日はとても忙しかったので、休憩ぬきで働いた。 — Hôm nay rất bận nên tôi đã làm việc mà không nghỉ."
+      },
+      {
+        "id": "grammar-7-34-1",
+        "kanji": "N + だらけ",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Chỉ toàn là... (tiêu cực)",
+        "vietnamese": "Chỉ toàn là... (tiêu cực)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 7,
+        "examples": [
+          {
+            "jp": "私のクラスは男だらけで、話をしてもつまらない。",
+            "vi": "Lớp tôi toàn là con trai nên khi nói chuyện cũng chẳng thú vị."
+          }
+        ],
+        "example": "私のクラスは男だらけで、話をしてもつまらない。 — Lớp tôi toàn là con trai nên khi nói chuyện cũng chẳng thú vị."
+      },
+      {
+        "id": "grammar-7-35-1",
+        "kanji": "N + 向き",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Phù hợp với...",
+        "vietnamese": "Phù hợp với...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 7,
+        "examples": [
+          {
+            "jp": "この店には、子供向けの本が多く販売されている。",
+            "vi": "Cửa hàng này bán nhiều sách dành cho trẻ em."
+          }
+        ],
+        "example": "この店には、子供向けの本が多く販売されている。 — Cửa hàng này bán nhiều sách dành cho trẻ em."
+      }
+    ],
+    "totalVocabulary": 5
+  },
+  {
+    "id": "grammar-lesson-8",
+    "title": "Lesson 8",
+    "description": "Lesson 8",
+    "vocabulary": [
+      {
+        "id": "grammar-8-36-1",
+        "kanji": "N + 向けの + N",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Dành cho...",
+        "vietnamese": "Dành cho...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 8,
+        "examples": [
+          {
+            "jp": "この店には、子供向けの本が多く販売されている。",
+            "vi": "Cửa hàng này bán nhiều sách dành cho trẻ em."
+          }
+        ],
+        "example": "この店には、子供向けの本が多く販売されている。 — Cửa hàng này bán nhiều sách dành cho trẻ em."
+      },
+      {
+        "id": "grammar-8-37-1",
+        "kanji": "Vたがる",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Muốn (người thứ ba muốn làm gì)",
+        "vietnamese": "Muốn (người thứ ba muốn làm gì)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 8,
+        "examples": [
+          {
+            "jp": "子どもは一緒に行きたがる。",
+            "vi": "Đứa trẻ muốn đi cùng."
+          }
+        ],
+        "example": "子どもは一緒に行きたがる。 — Đứa trẻ muốn đi cùng."
+      },
+      {
+        "id": "grammar-8-37-2",
+        "kanji": "Vたがっている",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Muốn (người thứ ba muốn làm gì)",
+        "vietnamese": "Muốn (người thứ ba muốn làm gì)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 8,
+        "examples": [
+          {
+            "jp": "子どもは一緒に行きたがる。",
+            "vi": "Đứa trẻ muốn đi cùng."
+          }
+        ],
+        "example": "子どもは一緒に行きたがる。 — Đứa trẻ muốn đi cùng."
+      },
+      {
+        "id": "grammar-8-38-1",
+        "kanji": "から",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Từ... (bắt đầu)",
+        "vietnamese": "Từ... (bắt đầu)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 8,
+        "examples": [
+          {
+            "jp": "今晩から明日の朝にかけて、激しい雨が降るらしい。",
+            "vi": "Nghe nói từ tối nay đến sáng mai sẽ có mưa to."
+          }
+        ],
+        "example": "今晩から明日の朝にかけて、激しい雨が降るらしい。 — Nghe nói từ tối nay đến sáng mai sẽ có mưa to."
+      },
+      {
+        "id": "grammar-8-39-1",
+        "kanji": "にかけて",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Từ... đến... (kéo dài)",
+        "vietnamese": "Từ... đến... (kéo dài)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 8,
+        "examples": [
+          {
+            "jp": "今晩から明日の朝にかけて、激しい雨が降るらしい。",
+            "vi": "Nghe nói từ tối nay đến sáng mai sẽ có mưa to."
+          }
+        ],
+        "example": "今晩から明日の朝にかけて、激しい雨が降るらしい。 — Nghe nói từ tối nay đến sáng mai sẽ có mưa to."
+      },
+      {
+        "id": "grammar-8-40-1",
+        "kanji": "N + 以来",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Kể từ khi...",
+        "vietnamese": "Kể từ khi...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 8,
+        "examples": [
+          {
+            "jp": "彼女に会って以来、ずっと彼女のことを考えている。",
+            "vi": "Kể từ khi gặp cô ấy, tôi luôn nghĩ về cô ấy."
+          }
+        ],
+        "example": "彼女に会って以来、ずっと彼女のことを考えている。 — Kể từ khi gặp cô ấy, tôi luôn nghĩ về cô ấy."
+      }
+    ],
+    "totalVocabulary": 6
+  },
+  {
+    "id": "grammar-lesson-9",
+    "title": "Lesson 9",
+    "description": "Lesson 9",
+    "vocabulary": [
+      {
+        "id": "grammar-9-41-1",
+        "kanji": "N",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Trong suốt, xuyên suốt",
+        "vietnamese": "Trong suốt, xuyên suốt",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 9,
+        "examples": [
+          {
+            "jp": "学生の間に、友達と海外旅行へ行きたい。",
+            "vi": "Trong khoảng thời gian là học sinh tôi muốn đi du lịch nước ngoài cùng bạn bè."
+          }
+        ],
+        "example": "学生の間に、友達と海外旅行へ行きたい。 — Trong khoảng thời gian là học sinh tôi muốn đi du lịch nước ngoài cùng bạn bè."
+      },
+      {
+        "id": "grammar-9-41-2",
+        "kanji": "Aな",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Trong suốt, xuyên suốt",
+        "vietnamese": "Trong suốt, xuyên suốt",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 9,
+        "examples": [
+          {
+            "jp": "学生の間に、友達と海外旅行へ行きたい。",
+            "vi": "Trong khoảng thời gian là học sinh tôi muốn đi du lịch nước ngoài cùng bạn bè."
+          }
+        ],
+        "example": "学生の間に、友達と海外旅行へ行きたい。 — Trong khoảng thời gian là học sinh tôi muốn đi du lịch nước ngoài cùng bạn bè."
+      },
+      {
+        "id": "grammar-9-41-3",
+        "kanji": "Aい + 間 (あいだ)",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Trong suốt, xuyên suốt",
+        "vietnamese": "Trong suốt, xuyên suốt",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 9,
+        "examples": [
+          {
+            "jp": "学生の間に、友達と海外旅行へ行きたい。",
+            "vi": "Trong khoảng thời gian là học sinh tôi muốn đi du lịch nước ngoài cùng bạn bè."
+          }
+        ],
+        "example": "学生の間に、友達と海外旅行へ行きたい。 — Trong khoảng thời gian là học sinh tôi muốn đi du lịch nước ngoài cùng bạn bè."
+      },
+      {
+        "id": "grammar-9-42-1",
+        "kanji": "Vている + 最中 (さいちゅう)",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Đang trong lúc...",
+        "vietnamese": "Đang trong lúc...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 9,
+        "examples": [
+          {
+            "jp": "食事の最中に電話がかかってきた。",
+            "vi": "Khi đang ăn thì điện thoại reo."
+          }
+        ],
+        "example": "食事の最中に電話がかかってきた。 — Khi đang ăn thì điện thoại reo."
+      },
+      {
+        "id": "grammar-9-43-1",
+        "kanji": "N + について",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Về..., liên quan đến...",
+        "vietnamese": "Về..., liên quan đến...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 9,
+        "examples": [
+          {
+            "jp": "私の教授は30年間物理学について研究している。",
+            "vi": "Giáo sư của tôi đã nghiên cứu về vật lý trong suốt 30 năm."
+          }
+        ],
+        "example": "私の教授は30年間物理学について研究している。 — Giáo sư của tôi đã nghiên cứu về vật lý trong suốt 30 năm."
+      },
+      {
+        "id": "grammar-9-44-1",
+        "kanji": "N",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Bằng, thông qua / tùy theo...",
+        "vietnamese": "Bằng, thông qua / tùy theo...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 9,
+        "examples": [
+          {
+            "jp": "この薬を飲むことによって、かぜがなおるかもしれない。",
+            "vi": "Bằng việc uống thuốc này thì có thể bệnh cảm sẽ được chữa khỏi."
+          }
+        ],
+        "example": "この薬を飲むことによって、かぜがなおるかもしれない。 — Bằng việc uống thuốc này thì có thể bệnh cảm sẽ được chữa khỏi."
+      },
+      {
+        "id": "grammar-9-44-2",
+        "kanji": "V",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Bằng, thông qua / tùy theo...",
+        "vietnamese": "Bằng, thông qua / tùy theo...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 9,
+        "examples": [
+          {
+            "jp": "この薬を飲むことによって、かぜがなおるかもしれない。",
+            "vi": "Bằng việc uống thuốc này thì có thể bệnh cảm sẽ được chữa khỏi."
+          }
+        ],
+        "example": "この薬を飲むことによって、かぜがなおるかもしれない。 — Bằng việc uống thuốc này thì có thể bệnh cảm sẽ được chữa khỏi."
+      },
+      {
+        "id": "grammar-9-44-3",
+        "kanji": "こと + によって",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Bằng, thông qua / tùy theo...",
+        "vietnamese": "Bằng, thông qua / tùy theo...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 9,
+        "examples": [
+          {
+            "jp": "この薬を飲むことによって、かぜがなおるかもしれない。",
+            "vi": "Bằng việc uống thuốc này thì có thể bệnh cảm sẽ được chữa khỏi."
+          }
+        ],
+        "example": "この薬を飲むことによって、かぜがなおるかもしれない。 — Bằng việc uống thuốc này thì có thể bệnh cảm sẽ được chữa khỏi."
+      },
+      {
+        "id": "grammar-9-45-1",
+        "kanji": "N + によっては",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Tùy vào...",
+        "vietnamese": "Tùy vào...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 9,
+        "examples": [
+          {
+            "jp": "この店は時間によってメニューが変わる。",
+            "vi": "Thực đơn của nhà hàng này thay đổi tùy theo thời gian."
+          }
+        ],
+        "example": "この店は時間によってメニューが変わる。 — Thực đơn của nhà hàng này thay đổi tùy theo thời gian."
+      }
+    ],
+    "totalVocabulary": 9
+  },
+  {
+    "id": "grammar-lesson-10",
+    "title": "Lesson 10",
+    "description": "Lesson 10",
+    "vocabulary": [
+      {
+        "id": "grammar-10-46-1",
+        "kanji": "N + に関して",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Liên quan đến..., về...",
+        "vietnamese": "Liên quan đến..., về...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 10,
+        "examples": [
+          {
+            "jp": "12月に行われるJLPTに関しての情報を調べる。",
+            "vi": "Tôi đang tra cứu thông tin liên quan đến kì thi JLPT được tổ chức vào tháng 12."
+          }
+        ],
+        "example": "12月に行われるJLPTに関しての情報を調べる。 — Tôi đang tra cứu thông tin liên quan đến kì thi JLPT được tổ chức vào tháng 12."
+      },
+      {
+        "id": "grammar-10-47-1",
+        "kanji": "N + に対して",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Đối với..., đối với hành động nào đó",
+        "vietnamese": "Đối với..., đối với hành động nào đó",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 10,
+        "examples": [
+          {
+            "jp": "年上の人に対してはていねいな言葉を使った方がいい。",
+            "vi": "Đối với người lớn tuổi thì nên dùng lời lẽ lịch sự."
+          }
+        ],
+        "example": "年上の人に対してはていねいな言葉を使った方がいい。 — Đối với người lớn tuổi thì nên dùng lời lẽ lịch sự."
+      },
+      {
+        "id": "grammar-10-48-1",
+        "kanji": "N + にとって",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Đối với...",
+        "vietnamese": "Đối với...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 10,
+        "examples": [
+          {
+            "jp": "私にとって、一番大事なのは家族です。",
+            "vi": "Đối với tôi, điều quan trọng nhất là gia đình."
+          }
+        ],
+        "example": "私にとって、一番大事なのは家族です。 — Đối với tôi, điều quan trọng nhất là gia đình."
+      },
+      {
+        "id": "grammar-10-49-1",
+        "kanji": "N + を中心に",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Lấy ... làm trung tâm / chủ yếu",
+        "vietnamese": "Lấy ... làm trung tâm / chủ yếu",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 10,
+        "examples": [
+          {
+            "jp": "私はダイエットのため、野菜を中心にした食事をしている。",
+            "vi": "Để ăn kiêng tôi ăn chủ yếu rau."
+          }
+        ],
+        "example": "私はダイエットのため、野菜を中心にした食事をしている。 — Để ăn kiêng tôi ăn chủ yếu rau."
+      },
+      {
+        "id": "grammar-10-50-1",
+        "kanji": "を中心とした + N",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Lấy ... làm trung tâm (dạng nối)",
+        "vietnamese": "Lấy ... làm trung tâm (dạng nối)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 10,
+        "examples": [
+          {
+            "jp": "私はダイエットのため、野菜を中心にした食事をしている。",
+            "vi": "Để ăn kiêng tôi ăn chủ yếu rau."
+          }
+        ],
+        "example": "私はダイエットのため、野菜を中心にした食事をしている。 — Để ăn kiêng tôi ăn chủ yếu rau."
+      }
+    ],
+    "totalVocabulary": 5
+  },
+  {
+    "id": "grammar-lesson-11",
+    "title": "Lesson 11",
+    "description": "Lesson 11",
+    "vocabulary": [
+      {
+        "id": "grammar-11-51-1",
+        "kanji": "として",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Với tư cách là / là...",
+        "vietnamese": "Với tư cách là / là...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 11,
+        "examples": [
+          {
+            "jp": "私は今ベトナムで、日本語の教師として働いている。",
+            "vi": "Tôi hiện đang làm việc ở Việt Nam với tư cách là giáo viên tiếng Nhật."
+          }
+        ],
+        "example": "私は今ベトナムで、日本語の教師として働いている。 — Tôi hiện đang làm việc ở Việt Nam với tư cách là giáo viên tiếng Nhật."
+      },
+      {
+        "id": "grammar-11-52-1",
+        "kanji": "としては",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Với tư cách là (nhìn từ góc độ)",
+        "vietnamese": "Với tư cách là (nhìn từ góc độ)",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 11,
+        "examples": [
+          {
+            "jp": "私は今ベトナムで、日本語の教師として働いている。",
+            "vi": "Tôi hiện đang làm việc ở Việt Nam với tư cách là giáo viên tiếng Nhật."
+          }
+        ],
+        "example": "私は今ベトナムで、日本語の教師として働いている。 — Tôi hiện đang làm việc ở Việt Nam với tư cách là giáo viên tiếng Nhật."
+      },
+      {
+        "id": "grammar-11-53-1",
+        "kanji": "ほど",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Đến mức... / khoảng...",
+        "vietnamese": "Đến mức... / khoảng...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 11,
+        "examples": [
+          {
+            "jp": "このラーメンは美味しいが、あの店ほどではない。",
+            "vi": "Món ramen này cũng ngon nhưng không bằng nhà hàng kia."
+          }
+        ],
+        "example": "このラーメンは美味しいが、あの店ほどではない。 — Món ramen này cũng ngon nhưng không bằng nhà hàng kia."
+      },
+      {
+        "id": "grammar-11-53-2",
+        "kanji": "くらい",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Đến mức... / khoảng...",
+        "vietnamese": "Đến mức... / khoảng...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 11,
+        "examples": [
+          {
+            "jp": "このラーメンは美味しいが、あの店ほどではない。",
+            "vi": "Món ramen này cũng ngon nhưng không bằng nhà hàng kia."
+          }
+        ],
+        "example": "このラーメンは美味しいが、あの店ほどではない。 — Món ramen này cũng ngon nhưng không bằng nhà hàng kia."
+      },
+      {
+        "id": "grammar-11-54-1",
+        "kanji": "というと",
+        "hiragana": "",
+        "romaji": "",
+        "meaning": "Nói đến...",
+        "vietnamese": "Nói đến...",
+        "pos": "grammar",
+        "level": "N3",
+        "lesson": 11,
+        "examples": [
+          {
+            "jp": "便利なものというと、やはりスマートフォンだろう。",
+            "vi": "Nếu nói đến vật tiện lợi thì chắc chắn là smartphone."
+          }
+        ],
+        "example": "便利なものというと、やはりスマートフォンだろう。 — Nếu nói đến vật tiện lợi thì chắc chắn là smartphone."
+      }
+    ],
+    "totalVocabulary": 5
+  }
+]

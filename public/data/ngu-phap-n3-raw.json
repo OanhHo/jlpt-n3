@@ -1,0 +1,113 @@
+{
+  "grammarStartPage": 2,
+  "totalItems": 13,
+  "patternsFound": 0,
+  "extractedAt": "2025-10-30T10:19:54.119Z",
+  "patterns": [],
+  "rawTextSample": [
+    {
+      "text": "PART 1",
+      "x": 47.2599,
+      "y": 437.0529,
+      "pageNumber": 2,
+      "fontSize": 22,
+      "fontName": "g_d0_f1"
+    },
+    {
+      "text": "まとめ漢字",
+      "x": 160.95589999999999,
+      "y": 437.0529,
+      "pageNumber": 2,
+      "fontSize": 22,
+      "fontName": "g_d0_f1"
+    },
+    {
+      "text": "♳",
+      "x": 358.9559,
+      "y": 437.0529,
+      "pageNumber": 2,
+      "fontSize": 22,
+      "fontName": "g_d0_f1"
+    },
+    {
+      "text": "PART 2",
+      "x": 47.2599,
+      "y": 398.5529,
+      "pageNumber": 2,
+      "fontSize": 22,
+      "fontName": "g_d0_f1"
+    },
+    {
+      "text": "まとめ語彙",
+      "x": 160.95589999999999,
+      "y": 398.5529,
+      "pageNumber": 2,
+      "fontSize": 22,
+      "fontName": "g_d0_f1"
+    },
+    {
+      "text": "\u001a",
+      "x": 358.9559,
+      "y": 398.5529,
+      "pageNumber": 2,
+      "fontSize": 22,
+      "fontName": "g_d0_f1"
+    },
+    {
+      "text": "PART 3",
+      "x": 47.2599,
+      "y": 360.0529,
+      "pageNumber": 2,
+      "fontSize": 22,
+      "fontName": "g_d0_f1"
+    },
+    {
+      "text": "まとめ文法",
+      "x": 160.95589999999999,
+      "y": 360.0529,
+      "pageNumber": 2,
+      "fontSize": 22,
+      "fontName": "g_d0_f1"
+    },
+    {
+      "text": "㊸",
+      "x": 358.9559,
+      "y": 360.0529,
+      "pageNumber": 2,
+      "fontSize": 22,
+      "fontName": "g_d0_f1"
+    },
+    {
+      "text": "まとめ",
+      "x": 363.3062,
+      "y": 449.3001,
+      "pageNumber": 45,
+      "fontSize": 26,
+      "fontName": "g_d0_f4"
+    },
+    {
+      "text": "文法",
+      "x": 334.7394,
+      "y": 380.4716,
+      "pageNumber": 45,
+      "fontSize": 66,
+      "fontName": "g_d0_f3"
+    },
+    {
+      "text": "PART ⓷",
+      "x": 313.1076,
+      "y": 313.4758,
+      "pageNumber": 45,
+      "fontSize": 48,
+      "fontName": "g_d0_f3"
+    },
+    {
+      "text": "43",
+      "x": 494.212,
+      "y": 20.2393,
+      "pageNumber": 45,
+      "fontSize": 9.2126,
+      "fontName": "g_d0_f2"
+    }
+  ]
+}
