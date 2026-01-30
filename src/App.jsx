@@ -3,12 +3,14 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import HomeScreen from './components/HomeScreen';
 import StudyPage from './pages/StudyPage';
 import ExtractorPage from './pages/ExtractorPageFinal';
-import TestPage from './pages/TestPage';
+
 import VocabularyStudy from './pages/VocabularyStudy';
 import LessonStudy from './pages/LessonStudy';
 import GrammarStudy from './pages/GrammarStudy';
 import GrammarLesson from './pages/GrammarLesson';
 import JapaneseDashboard from './pages/JapaneseDashboard';
+import ListeningPracticePage from './pages/ListeningPracticePage';
+import ReadingPracticePage from './pages/ReadingPracticePage';
 
 function App() {
   return (
@@ -21,8 +23,10 @@ function App() {
         <Route path="/grammar" element={<GrammarStudy />} />
         <Route path="/grammar/:lessonId" element={<GrammarLesson />} />
         <Route path="/dashboard" element={<JapaneseDashboard />} />
+        <Route path="/listening" element={<ListeningPracticePage />} />
+        <Route path="/reading" element={<ReadingPracticePage />} />
         <Route path="/extractor" element={<ExtractorPage />} />
-        <Route path="/test" element={<TestPage />} />
+
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
     </Router>

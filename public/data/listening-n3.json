@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "audio": "/audio/sample.mp3",
+        "question": "Mẫu: Người đàn ông đang tìm gì?",
+        "options": [
+            {
+                "id": "a",
+                "text": "Chìa khóa"
+            },
+            {
+                "id": "b",
+                "text": "Điện thoại"
+            },
+            {
+                "id": "c",
+                "text": "Ví tiền"
+            },
+            {
+                "id": "d",
+                "text": "Đồng hồ"
+            }
+        ],
+        "correctAnswer": "b",
+        "transcript": "Nữ: Are? Keitai denwa, doko dakke?\nNam: Sakki, teeburu no ue ni oiteta yo.",
+        "explanation": "Người đàn ông bảo đã để trên bàn."
+    }
+]
