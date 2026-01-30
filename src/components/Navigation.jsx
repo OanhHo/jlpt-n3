@@ -7,11 +7,11 @@ function Navigation() {
 
     const navItems = [
         { path: '/', label: 'Trang chủ', icon: '🏠' },
-        { path: '/japanese/tong-hop-tu-vung', label: 'Tổng hợp từ vựng N3', icon: '�' },
-        { path: '/japanese/tu-vung-thi-n3', label: 'Từ vựng hay gặp', icon: '⭐' },
-        { path: '/japanese/grammar-patterns', label: 'Ngữ pháp N3', icon: '�' },
-        { path: '/japanese/meo-lam-de', label: 'Mẹo làm đề N3', icon: '💡' },
-        { path: '/japanese/200-cau-kho', label: '200 câu khó nhất', icon: '�' }
+        { path: '/vocabulary', label: 'Từ vựng N3', icon: '📝' },
+        { path: '/grammar', label: 'Ngữ pháp N3', icon: '📚' },
+        { path: '/listening', label: 'Luyện nghe', icon: '🎧' },
+        { path: '/reading', label: 'Luyện đọc', icon: '📖' },
+        { path: '/dashboard', label: 'Dashboard', icon: '📊' },
     ];
 
     const isActive = (path) => {
@@ -30,61 +30,89 @@ function Navigation() {
     };
 
     return (
-        <nav className="navbar">
-            <div className="nav-container">
-                {/* Logo */}
-                <Link to="/" className="nav-logo" onClick={closeMenu}>
-                    <span className="logo-icon">🎌</span>
-                    <span className="logo-text">JLPT N3</span>
-                </Link>
-
-                {/* Desktop Menu */}
-                <div className="nav-menu">
-                    {navItems.map((item) => (
-                        <Link
-                            key={item.path}
-                            to={item.path}
-                            className={`nav-link ${isActive(item.path) ? 'active' : ''}`}
-                            onClick={closeMenu}
-                        >
-                            <span className="nav-icon">{item.icon}</span>
-                            <span className="nav-text">{item.label}</span>
+        <nav className="bg-white shadow-lg sticky top-0 z-50">
+            <div className="max-w-7xl mx-auto px-4">
+                <div className="flex justify-between h-16">
+                    {/* Logo */}
+                    <div className="flex items-center">
+                        <Link to="/" className="flex-shrink-0 flex items-center" onClick={closeMenu}>
+                            <span className="text-2xl mr-2">🎌</span>
+                            <span className="font-bold text-xl text-gray-800">JLPT N3 Center</span>
                         </Link>
-                    ))}
-                </div>
+                    </div>
 
-                {/* Mobile Menu Button */}
-                <button
-                    className={`mobile-menu-btn ${isMenuOpen ? 'open' : ''}`}
-                    onClick={toggleMenu}
-                    aria-label="Toggle menu"
-                >
-                    <span className="hamburger-line"></span>
-                    <span className="hamburger-line"></span>
-                    <span className="hamburger-line"></span>
-                </button>
-
-                {/* Mobile Menu */}
-                <div className={`mobile-menu ${isMenuOpen ? 'open' : ''}`}>
-                    <div className="mobile-menu-content">
+                    {/* Desktop Menu */}
+                    <div className="hidden md:flex items-center space-x-1">
                         {navItems.map((item) => (
                             <Link
                                 key={item.path}
                                 to={item.path}
-                                className={`mobile-nav-link ${isActive(item.path) ? 'active' : ''}`}
-                                onClick={closeMenu}
+                                className={`px-3 py-2 rounded-md text-sm font-medium transition-colors duration-200 flex items-center ${isActive(item.path)
+                                        ? 'text-blue-600 bg-blue-50'
+                                        : 'text-gray-600 hover:text-blue-600 hover:bg-gray-50'
+                                    }`}
                             >
-                                <span className="nav-icon">{item.icon}</span>
-                                <span className="nav-text">{item.label}</span>
+                                <span className="mr-1.5">{item.icon}</span>
+                                {item.label}
                             </Link>
                         ))}
                     </div>
-                </div>
 
-                {/* Mobile Menu Overlay */}
-                {isMenuOpen && (
-                    <div className="mobile-menu-overlay" onClick={closeMenu}></div>
-                )}
+                    {/* Mobile Menu Button */}
+                    <div className="md:hidden flex items-center">
+                        <button
+                            onClick={toggleMenu}
+                            className="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500"
+                            aria-expanded="false"
+                        >
+                            <span className="sr-only">Open main menu</span>
+                            {/* Icon when menu is closed. */}
+                            {/* Heroicon name: outline/menu */}
+                            <svg
+                                className={`${isMenuOpen ? 'hidden' : 'block'} h-6 w-6`}
+                                xmlns="http://www.w3.org/2000/svg"
+                                fill="none"
+                                viewBox="0 0 24 24"
+                                stroke="currentColor"
+                                aria-hidden="true"
+                            >
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16" />
+                            </svg>
+                            {/* Icon when menu is open. */}
+                            {/* Heroicon name: outline/x */}
+                            <svg
+                                className={`${isMenuOpen ? 'block' : 'hidden'} h-6 w-6`}
+                                xmlns="http://www.w3.org/2000/svg"
+                                fill="none"
+                                viewBox="0 0 24 24"
+                                stroke="currentColor"
+                                aria-hidden="true"
+                            >
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" />
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            {/* Mobile Menu */}
+            <div className={`${isMenuOpen ? 'block' : 'hidden'} md:hidden bg-white border-t border-gray-100`}>
+                <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3">
+                    {navItems.map((item) => (
+                        <Link
+                            key={item.path}
+                            to={item.path}
+                            onClick={closeMenu}
+                            className={`block px-3 py-2 rounded-md text-base font-medium flex items-center ${isActive(item.path)
+                                    ? 'text-blue-600 bg-blue-50'
+                                    : 'text-gray-600 hover:text-blue-600 hover:bg-gray-50'
+                                }`}
+                        >
+                            <span className="mr-3 text-lg">{item.icon}</span>
+                            {item.label}
+                        </Link>
+                    ))}
+                </div>
             </div>
         </nav>
     );

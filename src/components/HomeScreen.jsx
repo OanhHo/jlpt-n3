@@ -199,6 +199,18 @@ const HomeScreen = () => {
                                 📚 Ngữ pháp
                             </button>
                             <button
+                                onClick={() => navigate('/listening')}
+                                className="text-gray-600 hover:text-indigo-600 transition-colors font-medium"
+                            >
+                                🎧 Luyện nghe
+                            </button>
+                            <button
+                                onClick={() => navigate('/reading')}
+                                className="text-gray-600 hover:text-green-600 transition-colors font-medium"
+                            >
+                                📖 Luyện đọc
+                            </button>
+                            <button
                                 onClick={() => navigate('/dashboard')}
                                 className="text-gray-600 hover:text-green-600 transition-colors font-medium"
                             >

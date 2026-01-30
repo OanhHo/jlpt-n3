@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Mẫu: Văn hóa Onsen (Hãy thay thế nội dung này)",
+        "content": "Đây là bài đọc mẫu. Vì file PDF bạn gửi là dạng ảnh scan nên mình chưa tự động lấy chữ được. Bạn hãy copy văn bản tiếng Nhật vào đây nhé.\n\n日本には約3,000以上の温泉地があり...",
+        "vocabulary": [
+            {
+                "word": "温泉",
+                "reading": "おんせん",
+                "meaning": "Suối nước nóng",
+                "position": 0
+            }
+        ],
+        "questions": [
+            {
+                "id": 1,
+                "question": "Câu hỏi mẫu: Có bao nhiêu suối nước nóng?",
+                "options": [
+                    {
+                        "id": "a",
+                        "text": "Khoảng 100"
+                    },
+                    {
+                        "id": "b",
+                        "text": "Khoảng 3000"
+                    }
+                ],
+                "correctAnswer": "b"
+            }
+        ]
+    }
+]

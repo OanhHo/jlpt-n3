@@ -1,0 +1,2854 @@
+{
+  "title": "Từ Vựng N3 - Smart Combined",
+  "description": "Từ vựng JLPT N3 được kết hợp thông minh từ dữ liệu PDF gốc",
+  "sourceFile": "tong-hop-tu-vung-n3.pdf",
+  "extractedAt": "2025-10-30T08:02:24.055Z",
+  "processedAt": "2026-01-29T07:53:42.659Z",
+  "method": "Smart adjacent line combination",
+  "lessons": [
+    {
+      "id": "lesson-001",
+      "title": "Bài 1: Từ vựng N3 (1-30)",
+      "description": "Từ vựng JLPT N3 được tối ưu hóa với 30 từ",
+      "vocabularyCount": 30,
+      "vocabulary": [
+        {
+          "id": "vocab-0001",
+          "kanji": "洗",
+          "hiragana": "あら",
+          "pronunciation": "ara",
+          "meaning": "う   bốn mùa 洗 せん",
+          "example": "洗は大切です。(あら wa taisetsu desu.) - う   bốn mùa 洗 せん là quan trọng."
+        },
+        {
+          "id": "vocab-0002",
+          "kanji": "濯",
+          "hiragana": "たく",
+          "pronunciation": "taku",
+          "meaning": "洗 せん 剤 ざい",
+          "example": "濯について勉強します。(たく ni tsuite benkyou shimasu.) - Học về 洗 せん 剤 ざい."
+        },
+        {
+          "id": "vocab-0003",
+          "kanji": "手",
+          "hiragana": "て",
+          "pronunciation": "te",
+          "meaning": "洗 あら い   nhà vệ sinh 洗",
+          "example": "毎日手を使います。(Mainichi て wo tsukai masu.) - Hàng ngày sử dụng 洗 あら い   nhà vệ sinh 洗."
+        },
+        {
+          "id": "vocab-0004",
+          "kanji": "面",
+          "hiragana": "めん",
+          "pronunciation": "men",
+          "meaning": "所 じょ 活   HOẠT",
+          "example": "面について勉強します。(めん ni tsuite benkyou shimasu.) - Học về 所 じょ 活   HOẠT."
+        },
+        {
+          "id": "vocab-0005",
+          "kanji": "生",
+          "hiragana": "せい",
+          "pronunciation": "sei",
+          "meaning": "活 かつ 活 かつ",
+          "example": "生について勉強します。(せい ni tsuite benkyou shimasu.) - Học về 活 かつ 活 かつ."
+        },
+        {
+          "id": "vocab-0006",
+          "kanji": "動",
+          "hiragana": "どう",
+          "pronunciation": "dou",
+          "meaning": "活 かっ 発 ぱつ",
+          "example": "動は便利です。(どう wa benri desu.) - 活 かっ 発 ぱつ rất hữu ích."
+        },
+        {
+          "id": "vocab-0007",
+          "kanji": "活",
+          "hiragana": "かっ",
+          "pronunciation": "kaっ",
+          "meaning": "気 き 活 かつ",
+          "example": "私は活が好きです。(Watashi wa かっ ga suki desu.) - Tôi thích 気 き 活 かつ."
+        },
+        {
+          "id": "vocab-0008",
+          "kanji": "用",
+          "hiragana": "よう",
+          "pronunciation": "you",
+          "meaning": "液   DỊCH 液 えき 体",
+          "example": "私は用が好きです。(Watashi wa よう ga suki desu.) - Tôi thích 液   DỊCH 液 えき 体."
+        },
+        {
+          "id": "vocab-0009",
+          "kanji": "血",
+          "hiragana": "けつ",
+          "pronunciation": "ketsu",
+          "meaning": "液 えき 型",
+          "example": "私は血が好きです。(Watashi wa けつ ga suki desu.) - Tôi thích 液 えき 型."
+        },
+        {
+          "id": "vocab-0010",
+          "kanji": "和",
+          "hiragana": "なご",
+          "pronunciation": "nago",
+          "meaning": "む   thư thái 和 わ",
+          "example": "和は大切です。(なご wa taisetsu desu.) - む   thư thái 和 わ là quan trọng."
+        },
+        {
+          "id": "vocab-0011",
+          "kanji": "食",
+          "hiragana": "しょく",
+          "pronunciation": "shiょku",
+          "meaning": "和 なご やか   thân mật 秒   MIỂU   10   秒",
+          "example": "毎日食を使います。(Mainichi しょく wo tsukai masu.) - Hàng ngày sử dụng 和 なご やか   thân mật 秒   MIỂU   10   秒."
+        },
+        {
+          "id": "vocab-0012",
+          "kanji": "移",
+          "hiragana": "い",
+          "pronunciation": "i",
+          "meaning": "動 どう",
+          "example": "移について勉強します。(い ni tsuite benkyou shimasu.) - Học về 動 どう."
+        },
+        {
+          "id": "vocab-0013",
+          "kanji": "移",
+          "hiragana": "い",
+          "pronunciation": "i",
+          "meaning": "住 じゅう 移 うつ",
+          "example": "移について勉強します。(い ni tsuite benkyou shimasu.) - Học về 住 じゅう 移 うつ."
+        },
+        {
+          "id": "vocab-0014",
+          "kanji": "種",
+          "hiragana": "たね",
+          "pronunciation": "tane",
+          "meaning": "人 じん",
+          "example": "毎日種を使います。(Mainichi たね wo tsukai masu.) - Hàng ngày sử dụng 人 じん."
+        },
+        {
+          "id": "vocab-0015",
+          "kanji": "種",
+          "hiragana": "しゅ",
+          "pronunciation": "shiゅ",
+          "meaning": "差 さ 別 べつ",
+          "example": "種は便利です。(しゅ wa benri desu.) - 差 さ 別 べつ rất hữu ích."
+        },
+        {
+          "id": "vocab-0016",
+          "kanji": "種",
+          "hiragana": "しゅ",
+          "pronunciation": "shiゅ",
+          "meaning": "類 るい 漢字",
+          "example": "私は種が好きです。(Watashi wa しゅ ga suki desu.) - Tôi thích 類 るい 漢字."
+        },
+        {
+          "id": "vocab-0017",
+          "kanji": "有",
+          "hiragana": "ゆう",
+          "pronunciation": "yuu",
+          "meaning": "効 こう 効",
+          "example": "有は大切です。(ゆう wa taisetsu desu.) - 効 こう 効 là quan trọng."
+        },
+        {
+          "id": "vocab-0018",
+          "kanji": "目",
+          "hiragana": "め",
+          "pronunciation": "me",
+          "meaning": "効 こう 果",
+          "example": "目は大切です。(め wa taisetsu desu.) - 効 こう 果 là quan trọng."
+        },
+        {
+          "id": "vocab-0019",
+          "kanji": "成",
+          "hiragana": "せい",
+          "pronunciation": "sei",
+          "meaning": "功 こう",
+          "example": "成は便利です。(せい wa benri desu.) - 功 こう rất hữu ích."
+        },
+        {
+          "id": "vocab-0020",
+          "kanji": "功",
+          "hiragana": "こう",
+          "pronunciation": "kou",
+          "meaning": "績 せき 助   TRỢ 助",
+          "example": "毎日功を使います。(Mainichi こう wo tsukai masu.) - Hàng ngày sử dụng 績 せき 助   TRỢ 助."
+        },
+        {
+          "id": "vocab-0021",
+          "kanji": "手",
+          "hiragana": "しゅ",
+          "pronunciation": "shiゅ",
+          "meaning": "席 せき 助",
+          "example": "手は大切です。(しゅ wa taisetsu desu.) - 席 せき 助 là quan trọng."
+        },
+        {
+          "id": "vocab-0022",
+          "kanji": "救",
+          "hiragana": "きゅう",
+          "pronunciation": "kiゅu",
+          "meaning": "助 じょ",
+          "example": "救は大切です。(きゅう wa taisetsu desu.) - 助 じょ là quan trọng."
+        },
+        {
+          "id": "vocab-0023",
+          "kanji": "助",
+          "hiragana": "じょ",
+          "pronunciation": "jiょ",
+          "meaning": "言 げん 労   LAO 労",
+          "example": "私は助が好きです。(Watashi wa じょ ga suki desu.) - Tôi thích 言 げん 労   LAO 労."
+        },
+        {
+          "id": "vocab-0024",
+          "kanji": "働",
+          "hiragana": "どう",
+          "pronunciation": "dou",
+          "meaning": "苦 く 労",
+          "example": "毎日働を使います。(Mainichi どう wo tsukai masu.) - Hàng ngày sử dụng 苦 く 労."
+        },
+        {
+          "id": "vocab-0025",
+          "kanji": "不",
+          "hiragana": "ふ",
+          "pronunciation": "fu",
+          "meaning": "幸 こう 辛   TÂN 辛",
+          "example": "私は不が好きです。(Watashi wa ふ ga suki desu.) - Tôi thích 幸 こう 辛   TÂN 辛."
+        },
+        {
+          "id": "vocab-0026",
+          "kanji": "香",
+          "hiragana": "こう",
+          "pronunciation": "kou",
+          "meaning": "辛 しん",
+          "example": "香は大切です。(こう wa taisetsu desu.) - 辛 しん là quan trọng."
+        },
+        {
+          "id": "vocab-0027",
+          "kanji": "料",
+          "hiragana": "りょう",
+          "pronunciation": "riょu",
+          "meaning": "辛 から 口 くち",
+          "example": "料は大切です。(りょう wa taisetsu desu.) - 辛 から 口 くち là quan trọng."
+        },
+        {
+          "id": "vocab-0028",
+          "kanji": "辛",
+          "hiragana": "つら",
+          "pronunciation": "tsura",
+          "meaning": "い   vất vả 辞   TỪ 辞 じ",
+          "example": "辛について勉強します。(つら ni tsuite benkyou shimasu.) - Học về い   vất vả 辞   TỪ 辞 じ."
+        },
+        {
+          "id": "vocab-0029",
+          "kanji": "書",
+          "hiragana": "しょ",
+          "pronunciation": "shiょ",
+          "meaning": "辞 じ 典 てん",
+          "example": "私は書が好きです。(Watashi wa しょ ga suki desu.) - Tôi thích 辞 じ 典 てん."
+        },
+        {
+          "id": "vocab-0030",
+          "kanji": "辞",
+          "hiragana": "や",
+          "pronunciation": "ya",
+          "meaning": "め る   nghỉ",
+          "example": "辞について勉強します。(や ni tsuite benkyou shimasu.) - Học về め る   nghỉ."
+        }
+      ]
+    },
+    {
+      "id": "lesson-002",
+      "title": "Bài 2: Từ vựng N3 (31-60)",
+      "description": "Từ vựng JLPT N3 được tối ưu hóa với 30 từ",
+      "vocabularyCount": 30,
+      "vocabulary": [
+        {
+          "id": "vocab-0031",
+          "kanji": "退",
+          "hiragana": "たい",
+          "pronunciation": "tai",
+          "meaning": "屈 くつ 辞",
+          "example": "私は退が好きです。(Watashi wa たい ga suki desu.) - Tôi thích 屈 くつ 辞."
+        },
+        {
+          "id": "vocab-0032",
+          "kanji": "退",
+          "hiragana": "たい",
+          "pronunciation": "tai",
+          "meaning": "退 しりぞ く   rời khỏi",
+          "example": "退は便利です。(たい wa benri desu.) - 退 しりぞ く   rời khỏi rất hữu ích."
+        },
+        {
+          "id": "vocab-0033",
+          "kanji": "退",
+          "hiragana": "たい",
+          "pronunciation": "tai",
+          "meaning": "学 がく 根   CĂN 根",
+          "example": "退は便利です。(たい wa benri desu.) - 学 がく 根   CĂN 根 rất hữu ích."
+        },
+        {
+          "id": "vocab-0034",
+          "kanji": "元",
+          "hiragana": "もと",
+          "pronunciation": "moto",
+          "meaning": "屋 や 根",
+          "example": "毎日元を使います。(Mainichi もと wo tsukai masu.) - Hàng ngày sử dụng 屋 や 根."
+        },
+        {
+          "id": "vocab-0035",
+          "kanji": "根",
+          "hiragana": "こん",
+          "pronunciation": "kon",
+          "meaning": "本 ぽん 的",
+          "example": "根は便利です。(こん wa benri desu.) - 本 ぽん 的 rất hữu ích."
+        },
+        {
+          "id": "vocab-0036",
+          "kanji": "残",
+          "hiragana": "のこ",
+          "pronunciation": "noko",
+          "meaning": "る   đọng lại 残 ざん",
+          "example": "私は残が好きです。(Watashi wa のこ ga suki desu.) - Tôi thích る   đọng lại 残 ざん."
+        },
+        {
+          "id": "vocab-0037",
+          "kanji": "念",
+          "hiragana": "ねん",
+          "pronunciation": "nen",
+          "meaning": "残 のこ す   để lại 浅   THIỂN   浅",
+          "example": "念は便利です。(ねん wa benri desu.) - 残 のこ す   để lại 浅   THIỂN   浅 rất hữu ích."
+        },
+        {
+          "id": "vocab-0038",
+          "kanji": "昔",
+          "hiragana": "むかし",
+          "pronunciation": "mukashi",
+          "meaning": "話 ばなし 昔",
+          "example": "毎日昔を使います。(Mainichi むかし wo tsukai masu.) - Hàng ngày sử dụng 話 ばなし 昔."
+        },
+        {
+          "id": "vocab-0039",
+          "kanji": "借",
+          "hiragana": "しゃっ",
+          "pronunciation": "shiゃっ",
+          "meaning": "金 きん",
+          "example": "毎日借を使います。(Mainichi しゃっ wo tsukai masu.) - Hàng ngày sử dụng 金 きん."
+        },
+        {
+          "id": "vocab-0040",
+          "kanji": "借",
+          "hiragana": "か",
+          "pronunciation": "ka",
+          "meaning": "り る   mượn 借 しゃく 地",
+          "example": "借は便利です。(か wa benri desu.) - り る   mượn 借 しゃく 地 rất hữu ích."
+        },
+        {
+          "id": "vocab-0041",
+          "kanji": "貸",
+          "hiragana": "か",
+          "pronunciation": "ka",
+          "meaning": "し 借 か り   vay mượn",
+          "example": "貸について勉強します。(か ni tsuite benkyou shimasu.) - Học về し 借 か り   vay mượn."
+        },
+        {
+          "id": "vocab-0042",
+          "kanji": "以",
+          "hiragana": "い",
+          "pronunciation": "i",
+          "meaning": "後 ご 以",
+          "example": "以について勉強します。(い ni tsuite benkyou shimasu.) - Học về 後 ご 以."
+        },
+        {
+          "id": "vocab-0043",
+          "kanji": "下",
+          "hiragana": "か",
+          "pronunciation": "ka",
+          "meaning": "以 い 上",
+          "example": "下について勉強します。(か ni tsuite benkyou shimasu.) - Học về 以 い 上."
+        },
+        {
+          "id": "vocab-0044",
+          "kanji": "似",
+          "hiragana": "に",
+          "pronunciation": "ni",
+          "meaning": "る   giống nhau 類",
+          "example": "私は似が好きです。(Watashi wa に ga suki desu.) - Tôi thích る   giống nhau 類."
+        },
+        {
+          "id": "vocab-0045",
+          "kanji": "似",
+          "hiragana": "じ",
+          "pronunciation": "ji",
+          "meaning": "品 ひん",
+          "example": "毎日似を使います。(Mainichi じ wo tsukai masu.) - Hàng ngày sử dụng 品 ひん."
+        },
+        {
+          "id": "vocab-0046",
+          "kanji": "適",
+          "hiragana": "てき",
+          "pronunciation": "teki",
+          "meaning": "量 りょう 量",
+          "example": "毎日適を使います。(Mainichi てき wo tsukai masu.) - Hàng ngày sử dụng 量 りょう 量."
+        },
+        {
+          "id": "vocab-0047",
+          "kanji": "童",
+          "hiragana": "どう",
+          "pronunciation": "dou",
+          "meaning": "話 わ 児",
+          "example": "童は大切です。(どう wa taisetsu desu.) - 話 わ 児 là quan trọng."
+        },
+        {
+          "id": "vocab-0048",
+          "kanji": "注",
+          "hiragana": "そそ",
+          "pronunciation": "soso",
+          "meaning": "ぐ   rót 注 ちゅう",
+          "example": "毎日注を使います。(Mainichi そそ wo tsukai masu.) - Hàng ngày sử dụng ぐ   rót 注 ちゅう."
+        },
+        {
+          "id": "vocab-0049",
+          "kanji": "注",
+          "hiragana": "ちゅう",
+          "pronunciation": "chiゅu",
+          "meaning": "目 もく",
+          "example": "私は注が好きです。(Watashi wa ちゅう ga suki desu.) - Tôi thích 目 もく."
+        },
+        {
+          "id": "vocab-0050",
+          "kanji": "注",
+          "hiragana": "ちゅう",
+          "pronunciation": "chiゅu",
+          "meaning": "文 もん 漢字 柱   TRỤ",
+          "example": "注について勉強します。(ちゅう ni tsuite benkyou shimasu.) - Học về 文 もん 漢字 柱   TRỤ."
+        },
+        {
+          "id": "vocab-0051",
+          "kanji": "柱",
+          "hiragana": "はしら",
+          "pronunciation": "hashira",
+          "meaning": "電 でん 柱 ちゅう",
+          "example": "毎日柱を使います。(Mainichi はしら wo tsukai masu.) - Hàng ngày sử dụng 電 でん 柱 ちゅう."
+        },
+        {
+          "id": "vocab-0052",
+          "kanji": "大",
+          "hiragana": "だい",
+          "pronunciation": "dai",
+          "meaning": "黒 こく 柱 ばしら",
+          "example": "大は大切です。(だい wa taisetsu desu.) - 黒 こく 柱 ばしら là quan trọng."
+        },
+        {
+          "id": "vocab-0053",
+          "kanji": "塩",
+          "hiragana": "しお",
+          "pronunciation": "shio",
+          "meaning": "味 あじ 塩",
+          "example": "塩は大切です。(しお wa taisetsu desu.) - 味 あじ 塩 là quan trọng."
+        },
+        {
+          "id": "vocab-0054",
+          "kanji": "塩",
+          "hiragana": "えん",
+          "pronunciation": "en",
+          "meaning": "分 ぶん 塩",
+          "example": "塩について勉強します。(えん ni tsuite benkyou shimasu.) - Học về 分 ぶん 塩."
+        },
+        {
+          "id": "vocab-0055",
+          "kanji": "素",
+          "hiragana": "そ",
+          "pronunciation": "so",
+          "meaning": "温   ÔN 温 あたた",
+          "example": "素は便利です。(そ wa benri desu.) - 温   ÔN 温 あたた rất hữu ích."
+        },
+        {
+          "id": "vocab-0056",
+          "kanji": "温",
+          "hiragana": "おん",
+          "pronunciation": "on",
+          "meaning": "度 ど 温",
+          "example": "私は温が好きです。(Watashi wa おん ga suki desu.) - Tôi thích 度 ど 温."
+        },
+        {
+          "id": "vocab-0057",
+          "kanji": "温",
+          "hiragana": "あたた",
+          "pronunciation": "atata",
+          "meaning": "める   làm ấm 体",
+          "example": "温は便利です。(あたた wa benri desu.) - める   làm ấm 体 rất hữu ích."
+        },
+        {
+          "id": "vocab-0058",
+          "kanji": "温",
+          "hiragana": "おん",
+          "pronunciation": "on",
+          "meaning": "計 けい",
+          "example": "温について勉強します。(おん ni tsuite benkyou shimasu.) - Học về 計 けい."
+        },
+        {
+          "id": "vocab-0059",
+          "kanji": "未",
+          "hiragana": "み",
+          "pronunciation": "mi",
+          "meaning": "来 らい 未",
+          "example": "未は大切です。(み wa taisetsu desu.) - 来 らい 未 là quan trọng."
+        },
+        {
+          "id": "vocab-0060",
+          "kanji": "満",
+          "hiragana": "まん",
+          "pronunciation": "man",
+          "meaning": "未 み 定",
+          "example": "満について勉強します。(まん ni tsuite benkyou shimasu.) - Học về 未 み 定."
+        }
+      ]
+    },
+    {
+      "id": "lesson-003",
+      "title": "Bài 3: Từ vựng N3 (61-90)",
+      "description": "Từ vựng JLPT N3 được tối ưu hóa với 30 từ",
+      "vocabularyCount": 30,
+      "vocabulary": [
+        {
+          "id": "vocab-0061",
+          "kanji": "未",
+          "hiragana": "み",
+          "pronunciation": "mi",
+          "meaning": "成 せい 年",
+          "example": "毎日未を使います。(Mainichi み wo tsukai masu.) - Hàng ngày sử dụng 成 せい 年."
+        },
+        {
+          "id": "vocab-0062",
+          "kanji": "期",
+          "hiragana": "き",
+          "pronunciation": "ki",
+          "meaning": "末 まつ",
+          "example": "期について勉強します。(き ni tsuite benkyou shimasu.) - Học về 末 まつ."
+        },
+        {
+          "id": "vocab-0063",
+          "kanji": "今",
+          "hiragana": "こん",
+          "pronunciation": "kon",
+          "meaning": "月 げつ 末 まつ",
+          "example": "私は今が好きです。(Watashi wa こん ga suki desu.) - Tôi thích 月 げつ 末 まつ."
+        },
+        {
+          "id": "vocab-0064",
+          "kanji": "年",
+          "hiragana": "ねん",
+          "pronunciation": "nen",
+          "meaning": "末 まつ 年 ねん",
+          "example": "私は年が好きです。(Watashi wa ねん ga suki desu.) - Tôi thích 末 まつ 年 ねん."
+        },
+        {
+          "id": "vocab-0065",
+          "kanji": "始",
+          "hiragana": "し",
+          "pronunciation": "shi",
+          "meaning": "末 すえ っ子   con út",
+          "example": "毎日始を使います。(Mainichi し wo tsukai masu.) - Hàng ngày sử dụng 末 すえ っ子   con út."
+        },
+        {
+          "id": "vocab-0066",
+          "kanji": "両",
+          "hiragana": "りょう",
+          "pronunciation": "riょu",
+          "meaning": "方 ほう 両",
+          "example": "両について勉強します。(りょう ni tsuite benkyou shimasu.) - Học về 方 ほう 両."
+        },
+        {
+          "id": "vocab-0067",
+          "kanji": "手",
+          "hiragana": "て",
+          "pronunciation": "te",
+          "meaning": "両 りょう 立",
+          "example": "手は便利です。(て wa benri desu.) - 両 りょう 立 rất hữu ích."
+        },
+        {
+          "id": "vocab-0068",
+          "kanji": "満",
+          "hiragana": "み",
+          "pronunciation": "mi",
+          "meaning": "ちる   trăng sẽ tròn 満",
+          "example": "毎日満を使います。(Mainichi み wo tsukai masu.) - Hàng ngày sử dụng ちる   trăng sẽ tròn 満."
+        },
+        {
+          "id": "vocab-0069",
+          "kanji": "満",
+          "hiragana": "まん",
+          "pronunciation": "man",
+          "meaning": "足 ぞく",
+          "example": "毎日満を使います。(Mainichi まん wo tsukai masu.) - Hàng ngày sử dụng 足 ぞく."
+        },
+        {
+          "id": "vocab-0070",
+          "kanji": "満",
+          "hiragana": "まん",
+          "pronunciation": "man",
+          "meaning": "席 せき",
+          "example": "満について勉強します。(まん ni tsuite benkyou shimasu.) - Học về 席 せき."
+        },
+        {
+          "id": "vocab-0071",
+          "kanji": "一",
+          "hiragana": "いっ",
+          "pronunciation": "iっ",
+          "meaning": "帯 たい 包",
+          "example": "一について勉強します。(いっ ni tsuite benkyou shimasu.) - Học về 帯 たい 包."
+        },
+        {
+          "id": "vocab-0072",
+          "kanji": "帯",
+          "hiragana": "たい",
+          "pronunciation": "tai",
+          "meaning": "携 けい 帯",
+          "example": "帯について勉強します。(たい ni tsuite benkyou shimasu.) - Học về 携 けい 帯."
+        },
+        {
+          "id": "vocab-0073",
+          "kanji": "連",
+          "hiragana": "れん",
+          "pronunciation": "ren",
+          "meaning": "帯 たい 感",
+          "example": "連について勉強します。(れん ni tsuite benkyou shimasu.) - Học về 帯 たい 感."
+        },
+        {
+          "id": "vocab-0074",
+          "kanji": "滞",
+          "hiragana": "とどこお",
+          "pronunciation": "todokoo",
+          "meaning": "る   đình trệ 渋",
+          "example": "滞について勉強します。(とどこお ni tsuite benkyou shimasu.) - Học về る   đình trệ 渋."
+        },
+        {
+          "id": "vocab-0075",
+          "kanji": "滞",
+          "hiragana": "たい",
+          "pronunciation": "tai",
+          "meaning": "滞 たい 在",
+          "example": "私は滞が好きです。(Watashi wa たい ga suki desu.) - Tôi thích 滞 たい 在."
+        },
+        {
+          "id": "vocab-0076",
+          "kanji": "滞",
+          "hiragana": "たい",
+          "pronunciation": "tai",
+          "meaning": "納 のう",
+          "example": "滞は便利です。(たい wa benri desu.) - 納 のう rất hữu ích."
+        },
+        {
+          "id": "vocab-0077",
+          "kanji": "寝",
+          "hiragana": "ね",
+          "pronunciation": "ne",
+          "meaning": "かす   ru ngủ 昼 ひる",
+          "example": "毎日寝を使います。(Mainichi ね wo tsukai masu.) - Hàng ngày sử dụng かす   ru ngủ 昼 ひる."
+        },
+        {
+          "id": "vocab-0078",
+          "kanji": "寝",
+          "hiragana": "ね",
+          "pronunciation": "ne",
+          "meaning": "寝 しん 室 しつ",
+          "example": "寝は大切です。(ね wa taisetsu desu.) - 寝 しん 室 しつ là quan trọng."
+        },
+        {
+          "id": "vocab-0079",
+          "kanji": "定",
+          "hiragana": "さだ",
+          "pronunciation": "sada",
+          "meaning": "める   xác định 予 よ",
+          "example": "毎日定を使います。(Mainichi さだ wo tsukai masu.) - Hàng ngày sử dụng める   xác định 予 よ."
+        },
+        {
+          "id": "vocab-0080",
+          "kanji": "定",
+          "hiragana": "てい",
+          "pronunciation": "tei",
+          "meaning": "決 けっ 定 てい",
+          "example": "私は定が好きです。(Watashi wa てい ga suki desu.) - Tôi thích 決 けっ 定 てい."
+        },
+        {
+          "id": "vocab-0081",
+          "kanji": "算",
+          "hiragana": "さん",
+          "pronunciation": "san",
+          "meaning": "数 すう 暗",
+          "example": "算は大切です。(さん wa taisetsu desu.) - 数 すう 暗 là quan trọng."
+        },
+        {
+          "id": "vocab-0082",
+          "kanji": "算",
+          "hiragana": "ざん",
+          "pronunciation": "zan",
+          "meaning": "予 よ 算",
+          "example": "私は算が好きです。(Watashi wa ざん ga suki desu.) - Tôi thích 予 よ 算."
+        },
+        {
+          "id": "vocab-0083",
+          "kanji": "計",
+          "hiragana": "けい",
+          "pronunciation": "kei",
+          "meaning": "算 さん 具   CỤ",
+          "example": "毎日計を使います。(Mainichi けい wo tsukai masu.) - Hàng ngày sử dụng 算 さん 具   CỤ."
+        },
+        {
+          "id": "vocab-0084",
+          "kanji": "家",
+          "hiragana": "か",
+          "pronunciation": "ka",
+          "meaning": "具 ぐ 具 ぐ",
+          "example": "家について勉強します。(か ni tsuite benkyou shimasu.) - Học về 具 ぐ 具 ぐ."
+        },
+        {
+          "id": "vocab-0085",
+          "kanji": "体",
+          "hiragana": "たい",
+          "pronunciation": "tai",
+          "meaning": "的 てき な   cụ thể 文",
+          "example": "毎日体を使います。(Mainichi たい wo tsukai masu.) - Hàng ngày sử dụng 的 てき な   cụ thể 文."
+        },
+        {
+          "id": "vocab-0086",
+          "kanji": "具",
+          "hiragana": "ぐ",
+          "pronunciation": "gu",
+          "meaning": "店 てん 道",
+          "example": "私は具が好きです。(Watashi wa ぐ ga suki desu.) - Tôi thích 店 てん 道."
+        },
+        {
+          "id": "vocab-0087",
+          "kanji": "具",
+          "hiragana": "ぐ",
+          "pronunciation": "gu",
+          "meaning": "漢字",
+          "example": "具は便利です。(ぐ wa benri desu.) - 漢字 rất hữu ích."
+        },
+        {
+          "id": "vocab-0088",
+          "kanji": "消",
+          "hiragana": "き",
+          "pronunciation": "ki",
+          "meaning": "え る   tắt 消 け",
+          "example": "消について勉強します。(き ni tsuite benkyou shimasu.) - Học về え る   tắt 消 け."
+        },
+        {
+          "id": "vocab-0089",
+          "kanji": "消",
+          "hiragana": "しょう",
+          "pronunciation": "shiょu",
+          "meaning": "化 か 消",
+          "example": "毎日消を使います。(Mainichi しょう wo tsukai masu.) - Hàng ngày sử dụng 化 か 消."
+        },
+        {
+          "id": "vocab-0090",
+          "kanji": "期",
+          "hiragana": "き",
+          "pronunciation": "ki",
+          "meaning": "新 しん 学",
+          "example": "期について勉強します。(き ni tsuite benkyou shimasu.) - Học về 新 しん 学."
+        }
+      ]
+    },
+    {
+      "id": "lesson-004",
+      "title": "Bài 4: Từ vựng N3 (91-120)",
+      "description": "Từ vựng JLPT N3 được tối ưu hóa với 30 từ",
+      "vocabularyCount": 30,
+      "vocabulary": [
+        {
+          "id": "vocab-0091",
+          "kanji": "期",
+          "hiragana": "き",
+          "pronunciation": "ki",
+          "meaning": "期 き 待",
+          "example": "期について勉強します。(き ni tsuite benkyou shimasu.) - Học về 期 き 待."
+        },
+        {
+          "id": "vocab-0092",
+          "kanji": "担",
+          "hiragana": "かつ",
+          "pronunciation": "katsu",
+          "meaning": "ぐ   vác 担",
+          "example": "担は大切です。(かつ wa taisetsu desu.) - ぐ   vác 担 là quan trọng."
+        },
+        {
+          "id": "vocab-0093",
+          "kanji": "担",
+          "hiragana": "たん",
+          "pronunciation": "tan",
+          "meaning": "当 とう",
+          "example": "担について勉強します。(たん ni tsuite benkyou shimasu.) - Học về 当 とう."
+        },
+        {
+          "id": "vocab-0094",
+          "kanji": "負",
+          "hiragana": "ふ",
+          "pronunciation": "fu",
+          "meaning": "担 たん 担 たん",
+          "example": "負について勉強します。(ふ ni tsuite benkyou shimasu.) - Học về 担 たん 担 たん."
+        },
+        {
+          "id": "vocab-0095",
+          "kanji": "任",
+          "hiragana": "にん",
+          "pronunciation": "nin",
+          "meaning": "打   ĐẢ 打 う つ   đánh",
+          "example": "任は便利です。(にん wa benri desu.) - 打   ĐẢ 打 う つ   đánh rất hữu ích."
+        },
+        {
+          "id": "vocab-0096",
+          "kanji": "強",
+          "hiragana": "きょう",
+          "pronunciation": "kiょu",
+          "meaning": "打 だ",
+          "example": "強は便利です。(きょう wa benri desu.) - 打 だ rất hữu ích."
+        },
+        {
+          "id": "vocab-0097",
+          "kanji": "実",
+          "hiragana": "じつ",
+          "pronunciation": "jitsu",
+          "meaning": "力 りょく 実",
+          "example": "私は実が好きです。(Watashi wa じつ ga suki desu.) - Tôi thích 力 りょく 実."
+        },
+        {
+          "id": "vocab-0098",
+          "kanji": "家",
+          "hiragana": "か",
+          "pronunciation": "ka",
+          "meaning": "実 じつ 現",
+          "example": "私は家が好きです。(Watashi wa か ga suki desu.) - Tôi thích 実 じつ 現."
+        },
+        {
+          "id": "vocab-0099",
+          "kanji": "実",
+          "hiragana": "み",
+          "pronunciation": "mi",
+          "meaning": "果 か 実",
+          "example": "実は便利です。(み wa benri desu.) - 果 か 実 rất hữu ích."
+        },
+        {
+          "id": "vocab-0100",
+          "kanji": "実",
+          "hiragana": "みの",
+          "pronunciation": "mino",
+          "meaning": "る   đã chín 美   MĨ 美",
+          "example": "実は便利です。(みの wa benri desu.) - る   đã chín 美   MĨ 美 rất hữu ích."
+        },
+        {
+          "id": "vocab-0101",
+          "kanji": "美",
+          "hiragana": "び",
+          "pronunciation": "bi",
+          "meaning": "容 よう",
+          "example": "美は便利です。(び wa benri desu.) - 容 よう rất hữu ích."
+        },
+        {
+          "id": "vocab-0102",
+          "kanji": "院",
+          "hiragana": "いん",
+          "pronunciation": "in",
+          "meaning": "美 び 女 じょ",
+          "example": "院について勉強します。(いん ni tsuite benkyou shimasu.) - Học về 美 び 女 じょ."
+        },
+        {
+          "id": "vocab-0103",
+          "kanji": "商",
+          "hiragana": "しょう",
+          "pronunciation": "shiょu",
+          "meaning": "品 ひん 券",
+          "example": "私は商が好きです。(Watashi wa しょう ga suki desu.) - Tôi thích 品 ひん 券."
+        },
+        {
+          "id": "vocab-0104",
+          "kanji": "乗",
+          "hiragana": "じょう",
+          "pronunciation": "jiょu",
+          "meaning": "車 しゃ 券",
+          "example": "私は乗が好きです。(Watashi wa じょう ga suki desu.) - Tôi thích 車 しゃ 券."
+        },
+        {
+          "id": "vocab-0105",
+          "kanji": "食",
+          "hiragana": "しょく",
+          "pronunciation": "shiょku",
+          "meaning": "事 じ 券",
+          "example": "毎日食を使います。(Mainichi しょく wo tsukai masu.) - Hàng ngày sử dụng 事 じ 券."
+        },
+        {
+          "id": "vocab-0106",
+          "kanji": "証",
+          "hiragana": "しょう",
+          "pronunciation": "shiょu",
+          "meaning": "券 けん 勝   THẮNG",
+          "example": "証は大切です。(しょう wa taisetsu desu.) - 券 けん 勝   THẮNG là quan trọng."
+        },
+        {
+          "id": "vocab-0107",
+          "kanji": "勝",
+          "hiragana": "しょう",
+          "pronunciation": "shiょu",
+          "meaning": "負 ぶ 決 けっ",
+          "example": "毎日勝を使います。(Mainichi しょう wo tsukai masu.) - Hàng ngày sử dụng 負 ぶ 決 けっ."
+        },
+        {
+          "id": "vocab-0108",
+          "kanji": "勝",
+          "hiragana": "しょう",
+          "pronunciation": "shiょu",
+          "meaning": "戦 せん 勝 か",
+          "example": "勝について勉強します。(しょう ni tsuite benkyou shimasu.) - Học về 戦 せん 勝 か."
+        },
+        {
+          "id": "vocab-0109",
+          "kanji": "典",
+          "hiragana": "てん",
+          "pronunciation": "ten",
+          "meaning": "型 けい 的",
+          "example": "毎日典を使います。(Mainichi てん wo tsukai masu.) - Hàng ngày sử dụng 型 けい 的."
+        },
+        {
+          "id": "vocab-0110",
+          "kanji": "大",
+          "hiragana": "おお",
+          "pronunciation": "oo",
+          "meaning": "型 がた",
+          "example": "大は大切です。(おお wa taisetsu desu.) - 型 がた là quan trọng."
+        },
+        {
+          "id": "vocab-0111",
+          "kanji": "車",
+          "hiragana": "しゃ",
+          "pronunciation": "shiゃ",
+          "meaning": "小 こ 型 がた",
+          "example": "車について勉強します。(しゃ ni tsuite benkyou shimasu.) - Học về 小 こ 型 がた."
+        },
+        {
+          "id": "vocab-0112",
+          "kanji": "犬",
+          "hiragana": "けん",
+          "pronunciation": "ken",
+          "meaning": "形   HÌNH 形 かたち 人",
+          "example": "私は犬が好きです。(Watashi wa けん ga suki desu.) - Tôi thích 形   HÌNH 形 かたち 人."
+        },
+        {
+          "id": "vocab-0113",
+          "kanji": "形",
+          "hiragana": "ぎょう",
+          "pronunciation": "giょu",
+          "meaning": "形 けい 式",
+          "example": "形は大切です。(ぎょう wa taisetsu desu.) - 形 けい 式 là quan trọng."
+        },
+        {
+          "id": "vocab-0114",
+          "kanji": "的",
+          "hiragana": "てき",
+          "pronunciation": "teki",
+          "meaning": "な   tính hình thức 四 し",
+          "example": "的は大切です。(てき wa taisetsu desu.) - な   tính hình thức 四 し là quan trọng."
+        },
+        {
+          "id": "vocab-0115",
+          "kanji": "角",
+          "hiragana": "かく",
+          "pronunciation": "kaku",
+          "meaning": "形 けい",
+          "example": "角は大切です。(かく wa taisetsu desu.) - 形 けい là quan trọng."
+        },
+        {
+          "id": "vocab-0116",
+          "kanji": "果",
+          "hiragana": "は",
+          "pronunciation": "ha",
+          "meaning": "たす   hoàn thành 成 せい",
+          "example": "毎日果を使います。(Mainichi は wo tsukai masu.) - Hàng ngày sử dụng たす   hoàn thành 成 せい."
+        },
+        {
+          "id": "vocab-0117",
+          "kanji": "果",
+          "hiragana": "か",
+          "pronunciation": "ka",
+          "meaning": "果 か 実 じつ",
+          "example": "果は便利です。(か wa benri desu.) - 果 か 実 じつ rất hữu ích."
+        },
+        {
+          "id": "vocab-0118",
+          "kanji": "酒",
+          "hiragana": "しゅ",
+          "pronunciation": "shiゅ",
+          "meaning": "果 くだ 物 もの",
+          "example": "私は酒が好きです。(Watashi wa しゅ ga suki desu.) - Tôi thích 果 くだ 物 もの."
+        },
+        {
+          "id": "vocab-0119",
+          "kanji": "単",
+          "hiragana": "たん",
+          "pronunciation": "tan",
+          "meaning": "独 どく 簡",
+          "example": "毎日単を使います。(Mainichi たん wo tsukai masu.) - Hàng ngày sử dụng 独 どく 簡."
+        },
+        {
+          "id": "vocab-0120",
+          "kanji": "単",
+          "hiragana": "たん",
+          "pronunciation": "tan",
+          "meaning": "な   đơn giản 単 たん",
+          "example": "単は便利です。(たん wa benri desu.) - な   đơn giản 単 たん rất hữu ích."
+        }
+      ]
+    },
+    {
+      "id": "lesson-005",
+      "title": "Bài 5: Từ vựng N3 (121-150)",
+      "description": "Từ vựng JLPT N3 được tối ưu hóa với 30 từ",
+      "vocabularyCount": 30,
+      "vocabulary": [
+        {
+          "id": "vocab-0121",
+          "kanji": "位",
+          "hiragana": "い",
+          "pronunciation": "i",
+          "meaning": "単 たん 身 しん",
+          "example": "私は位が好きです。(Watashi wa い ga suki desu.) - Tôi thích 単 たん 身 しん."
+        },
+        {
+          "id": "vocab-0122",
+          "kanji": "赴",
+          "hiragana": "ふ",
+          "pronunciation": "fu",
+          "meaning": "任 にん",
+          "example": "赴について勉強します。(ふ ni tsuite benkyou shimasu.) - Học về 任 にん."
+        },
+        {
+          "id": "vocab-0123",
+          "kanji": "老",
+          "hiragana": "ろう",
+          "pronunciation": "rou",
+          "meaning": "後 ご 老",
+          "example": "老について勉強します。(ろう ni tsuite benkyou shimasu.) - Học về 後 ご 老."
+        },
+        {
+          "id": "vocab-0124",
+          "kanji": "年",
+          "hiragana": "とし",
+          "pronunciation": "toshi",
+          "meaning": "老 お",
+          "example": "年について勉強します。(とし ni tsuite benkyou shimasu.) - Học về 老 お."
+        },
+        {
+          "id": "vocab-0125",
+          "kanji": "有",
+          "hiragana": "ゆう",
+          "pronunciation": "yuu",
+          "meaning": "力 りょく",
+          "example": "有について勉強します。(ゆう ni tsuite benkyou shimasu.) - Học về 力 りょく."
+        },
+        {
+          "id": "vocab-0126",
+          "kanji": "者",
+          "hiragana": "しゃ",
+          "pronunciation": "shiゃ",
+          "meaning": "新 しん 聞 ぶん",
+          "example": "毎日者を使います。(Mainichi しゃ wo tsukai masu.) - Hàng ngày sử dụng 新 しん 聞 ぶん."
+        },
+        {
+          "id": "vocab-0127",
+          "kanji": "記",
+          "hiragana": "き",
+          "pronunciation": "ki",
+          "meaning": "者 しゃ 医 い",
+          "example": "記は大切です。(き wa taisetsu desu.) - 者 しゃ 医 い là quan trọng."
+        },
+        {
+          "id": "vocab-0128",
+          "kanji": "者",
+          "hiragana": "しゃ",
+          "pronunciation": "shiゃ",
+          "meaning": "人 にん 気 き",
+          "example": "毎日者を使います。(Mainichi しゃ wo tsukai masu.) - Hàng ngày sử dụng 人 にん 気 き."
+        },
+        {
+          "id": "vocab-0129",
+          "kanji": "者",
+          "hiragana": "もの",
+          "pronunciation": "mono",
+          "meaning": "若 わか 者 もの",
+          "example": "者は大切です。(もの wa taisetsu desu.) - 若 わか 者 もの là quan trọng."
+        },
+        {
+          "id": "vocab-0130",
+          "kanji": "情",
+          "hiragana": "じょう",
+          "pronunciation": "jiょu",
+          "meaning": "報 ほう 報",
+          "example": "毎日情を使います。(Mainichi じょう wo tsukai masu.) - Hàng ngày sử dụng 報 ほう 報."
+        },
+        {
+          "id": "vocab-0131",
+          "kanji": "告",
+          "hiragana": "こく",
+          "pronunciation": "koku",
+          "meaning": "服   PHỤC 服 ふく",
+          "example": "私は告が好きです。(Watashi wa こく ga suki desu.) - Tôi thích 服   PHỤC 服 ふく."
+        },
+        {
+          "id": "vocab-0132",
+          "kanji": "服",
+          "hiragana": "ふく",
+          "pronunciation": "fuku",
+          "meaning": "装 そう",
+          "example": "服について勉強します。(ふく ni tsuite benkyou shimasu.) - Học về 装 そう."
+        },
+        {
+          "id": "vocab-0133",
+          "kanji": "卒",
+          "hiragana": "そつ",
+          "pronunciation": "sotsu",
+          "meaning": "業 ぎょう 脳",
+          "example": "毎日卒を使います。(Mainichi そつ wo tsukai masu.) - Hàng ngày sử dụng 業 ぎょう 脳."
+        },
+        {
+          "id": "vocab-0134",
+          "kanji": "卒",
+          "hiragana": "そっ",
+          "pronunciation": "soっ",
+          "meaning": "中 ちゅう 卒",
+          "example": "毎日卒を使います。(Mainichi そっ wo tsukai masu.) - Hàng ngày sử dụng 中 ちゅう 卒."
+        },
+        {
+          "id": "vocab-0135",
+          "kanji": "論",
+          "hiragana": "ろん",
+          "pronunciation": "ron",
+          "meaning": "率   SUẤT 効 こう",
+          "example": "私は論が好きです。(Watashi wa ろん ga suki desu.) - Tôi thích 率   SUẤT 効 こう."
+        },
+        {
+          "id": "vocab-0136",
+          "kanji": "率",
+          "hiragana": "りつ",
+          "pronunciation": "ritsu",
+          "meaning": "確 かく 率 りつ",
+          "example": "私は率が好きです。(Watashi wa りつ ga suki desu.) - Tôi thích 確 かく 率 りつ."
+        },
+        {
+          "id": "vocab-0137",
+          "kanji": "率",
+          "hiragana": "ひき",
+          "pronunciation": "hiki",
+          "meaning": "い る   dẫn đầu 倍 ばい 率",
+          "example": "毎日率を使います。(Mainichi ひき wo tsukai masu.) - Hàng ngày sử dụng い る   dẫn đầu 倍 ばい 率."
+        },
+        {
+          "id": "vocab-0138",
+          "kanji": "祈",
+          "hiragana": "いの",
+          "pronunciation": "ino",
+          "meaning": "る   Cầu nguyện 祈 き",
+          "example": "私は祈が好きです。(Watashi wa いの ga suki desu.) - Tôi thích る   Cầu nguyện 祈 き."
+        },
+        {
+          "id": "vocab-0139",
+          "kanji": "願",
+          "hiragana": "がん",
+          "pronunciation": "gan",
+          "meaning": "折   CHIẾT 右 う 折",
+          "example": "私は願が好きです。(Watashi wa がん ga suki desu.) - Tôi thích 折   CHIẾT 右 う 折."
+        },
+        {
+          "id": "vocab-0140",
+          "kanji": "折",
+          "hiragana": "お",
+          "pronunciation": "o",
+          "meaning": "る   bẻ 折 お",
+          "example": "折は便利です。(お wa benri desu.) - る   bẻ 折 お rất hữu ích."
+        },
+        {
+          "id": "vocab-0141",
+          "kanji": "紙",
+          "hiragana": "がみ",
+          "pronunciation": "gami",
+          "meaning": "骨が 折 お れる   vất vả",
+          "example": "私は紙が好きです。(Watashi wa がみ ga suki desu.) - Tôi thích 骨が 折 お れる   vất vả."
+        },
+        {
+          "id": "vocab-0142",
+          "kanji": "机",
+          "hiragana": "つくえ",
+          "pronunciation": "tsukue",
+          "meaning": "学 がく 習",
+          "example": "私は机が好きです。(Watashi wa つくえ ga suki desu.) - Tôi thích 学 がく 習."
+        },
+        {
+          "id": "vocab-0143",
+          "kanji": "机",
+          "hiragana": "づくえ",
+          "pronunciation": "dukue",
+          "meaning": "築   TRÚC 改 かい",
+          "example": "毎日机を使います。(Mainichi づくえ wo tsukai masu.) - Hàng ngày sử dụng 築   TRÚC 改 かい."
+        },
+        {
+          "id": "vocab-0144",
+          "kanji": "築",
+          "hiragana": "ちく",
+          "pronunciation": "chiku",
+          "meaning": "新 しん 築 ちく",
+          "example": "築は大切です。(ちく wa taisetsu desu.) - 新 しん 築 ちく là quan trọng."
+        },
+        {
+          "id": "vocab-0145",
+          "kanji": "建",
+          "hiragana": "けん",
+          "pronunciation": "ken",
+          "meaning": "築 ちく 築 ちく",
+          "example": "私は建が好きです。(Watashi wa けん ga suki desu.) - Tôi thích 築 ちく 築 ちく."
+        },
+        {
+          "id": "vocab-0146",
+          "kanji": "築",
+          "hiragana": "きず",
+          "pronunciation": "kizu",
+          "meaning": "く   xây dựng",
+          "example": "毎日築を使います。(Mainichi きず wo tsukai masu.) - Hàng ngày sử dụng く   xây dựng."
+        },
+        {
+          "id": "vocab-0147",
+          "kanji": "手",
+          "hiragana": "て",
+          "pronunciation": "te",
+          "meaning": "紙 がみ 紙",
+          "example": "毎日手を使います。(Mainichi て wo tsukai masu.) - Hàng ngày sử dụng 紙 がみ 紙."
+        },
+        {
+          "id": "vocab-0148",
+          "kanji": "婚",
+          "hiragana": "こん",
+          "pronunciation": "kon",
+          "meaning": "約 やく",
+          "example": "毎日婚を使います。(Mainichi こん wo tsukai masu.) - Hàng ngày sử dụng 約 やく."
+        },
+        {
+          "id": "vocab-0149",
+          "kanji": "結",
+          "hiragana": "けっ",
+          "pronunciation": "keっ",
+          "meaning": "婚 こん 新 しん",
+          "example": "私は結が好きです。(Watashi wa けっ ga suki desu.) - Tôi thích 婚 こん 新 しん."
+        },
+        {
+          "id": "vocab-0150",
+          "kanji": "婚",
+          "hiragana": "こん",
+          "pronunciation": "kon",
+          "meaning": "旅 りょ 行 こう",
+          "example": "婚について勉強します。(こん ni tsuite benkyou shimasu.) - Học về 旅 りょ 行 こう."
+        }
+      ]
+    },
+    {
+      "id": "lesson-006",
+      "title": "Bài 6: Từ vựng N3 (151-180)",
+      "description": "Từ vựng JLPT N3 được tối ưu hóa với 30 từ",
+      "vocabularyCount": 30,
+      "vocabulary": [
+        {
+          "id": "vocab-0151",
+          "kanji": "未",
+          "hiragana": "み",
+          "pronunciation": "mi",
+          "meaning": "婚 こん",
+          "example": "未は大切です。(み wa taisetsu desu.) - 婚 こん là quan trọng."
+        },
+        {
+          "id": "vocab-0152",
+          "kanji": "鳥",
+          "hiragana": "とり",
+          "pronunciation": "tori",
+          "meaning": "島   ĐẢO 島 しま 国",
+          "example": "鳥について勉強します。(とり ni tsuite benkyou shimasu.) - Học về 島   ĐẢO 島 しま 国."
+        },
+        {
+          "id": "vocab-0153",
+          "kanji": "無",
+          "hiragana": "む",
+          "pronunciation": "mu",
+          "meaning": "人 じん 島",
+          "example": "無は便利です。(む wa benri desu.) - 人 じん 島 rất hữu ích."
+        },
+        {
+          "id": "vocab-0154",
+          "kanji": "諸",
+          "hiragana": "しょ",
+          "pronunciation": "shiょ",
+          "meaning": "島 とう 島",
+          "example": "私は諸が好きです。(Watashi wa しょ ga suki desu.) - Tôi thích 島 とう 島."
+        },
+        {
+          "id": "vocab-0155",
+          "kanji": "九",
+          "hiragana": "きゅう",
+          "pronunciation": "kiゅu",
+          "meaning": "州 しゅう 本",
+          "example": "毎日九を使います。(Mainichi きゅう wo tsukai masu.) - Hàng ngày sử dụng 州 しゅう 本."
+        },
+        {
+          "id": "vocab-0156",
+          "kanji": "州",
+          "hiragana": "しゅう",
+          "pronunciation": "shiゅu",
+          "meaning": "欧 おう 州",
+          "example": "毎日州を使います。(Mainichi しゅう wo tsukai masu.) - Hàng ngày sử dụng 欧 おう 州."
+        },
+        {
+          "id": "vocab-0157",
+          "kanji": "連",
+          "hiragana": "れん",
+          "pronunciation": "ren",
+          "meaning": "合 ごう 流   LƯU",
+          "example": "私は連が好きです。(Watashi wa れん ga suki desu.) - Tôi thích 合 ごう 流   LƯU."
+        },
+        {
+          "id": "vocab-0158",
+          "kanji": "流",
+          "hiragana": "なが",
+          "pronunciation": "naga",
+          "meaning": "れる   trôi qua 流 なが す   chảy",
+          "example": "私は流が好きです。(Watashi wa なが ga suki desu.) - Tôi thích れる   trôi qua 流 なが す   chảy."
+        },
+        {
+          "id": "vocab-0159",
+          "kanji": "流",
+          "hiragana": "りゅう",
+          "pronunciation": "riゅu",
+          "meaning": "行 こう",
+          "example": "流は便利です。(りゅう wa benri desu.) - 行 こう rất hữu ích."
+        },
+        {
+          "id": "vocab-0160",
+          "kanji": "信",
+          "hiragana": "しん",
+          "pronunciation": "shin",
+          "meaning": "念 ねん 念",
+          "example": "信は大切です。(しん wa taisetsu desu.) - 念 ねん 念 là quan trọng."
+        },
+        {
+          "id": "vocab-0161",
+          "kanji": "願",
+          "hiragana": "がん",
+          "pronunciation": "gan",
+          "meaning": "残 ざん 念",
+          "example": "願について勉強します。(がん ni tsuite benkyou shimasu.) - Học về 残 ざん 念."
+        },
+        {
+          "id": "vocab-0162",
+          "kanji": "含",
+          "hiragana": "ふく",
+          "pronunciation": "fuku",
+          "meaning": "め る   bao gồm 含",
+          "example": "含について勉強します。(ふく ni tsuite benkyou shimasu.) - Học về め る   bao gồm 含."
+        },
+        {
+          "id": "vocab-0163",
+          "kanji": "肯",
+          "hiragana": "こう",
+          "pronunciation": "kou",
+          "meaning": "定 てい 企   XÍ 企",
+          "example": "肯は大切です。(こう wa taisetsu desu.) - 定 てい 企   XÍ 企 là quan trọng."
+        },
+        {
+          "id": "vocab-0164",
+          "kanji": "企",
+          "hiragana": "き",
+          "pronunciation": "ki",
+          "meaning": "画 かく",
+          "example": "毎日企を使います。(Mainichi き wo tsukai masu.) - Hàng ngày sử dụng 画 かく."
+        },
+        {
+          "id": "vocab-0165",
+          "kanji": "企",
+          "hiragana": "き",
+          "pronunciation": "ki",
+          "meaning": "業 ぎょう 漢字",
+          "example": "毎日企を使います。(Mainichi き wo tsukai masu.) - Hàng ngày sử dụng 業 ぎょう 漢字."
+        },
+        {
+          "id": "vocab-0166",
+          "kanji": "苦",
+          "hiragana": "くる",
+          "pronunciation": "kuru",
+          "meaning": "しめ る   làm khổ 苦 くる",
+          "example": "苦は大切です。(くる wa taisetsu desu.) - しめ る   làm khổ 苦 くる là quan trọng."
+        },
+        {
+          "id": "vocab-0167",
+          "kanji": "苦",
+          "hiragana": "くる",
+          "pronunciation": "kuru",
+          "meaning": "しい   tức ngực 苦 にが",
+          "example": "苦は大切です。(くる wa taisetsu desu.) - しい   tức ngực 苦 にが là quan trọng."
+        },
+        {
+          "id": "vocab-0168",
+          "kanji": "苦",
+          "hiragana": "く",
+          "pronunciation": "ku",
+          "meaning": "情 じょう 個   CÁ",
+          "example": "苦は便利です。(く wa benri desu.) - 情 じょう 個   CÁ rất hữu ích."
+        },
+        {
+          "id": "vocab-0169",
+          "kanji": "一",
+          "hiragana": "い",
+          "pronunciation": "i",
+          "meaning": "個 っこ 個 こ",
+          "example": "私は一が好きです。(Watashi wa い ga suki desu.) - Tôi thích 個 っこ 個 こ."
+        },
+        {
+          "id": "vocab-0170",
+          "kanji": "室",
+          "hiragana": "しつ",
+          "pronunciation": "shitsu",
+          "meaning": "個 こ 性 せい",
+          "example": "室について勉強します。(しつ ni tsuite benkyou shimasu.) - Học về 個 こ 性 せい."
+        },
+        {
+          "id": "vocab-0171",
+          "kanji": "的",
+          "hiragana": "てき",
+          "pronunciation": "teki",
+          "meaning": "な   cá tính 個 こ 人",
+          "example": "的は便利です。(てき wa benri desu.) - な   cá tính 個 こ 人 rất hữu ích."
+        },
+        {
+          "id": "vocab-0172",
+          "kanji": "的",
+          "hiragana": "てき",
+          "pronunciation": "teki",
+          "meaning": "な   mang tính cá nhân",
+          "example": "的は大切です。(てき wa taisetsu desu.) - な   mang tính cá nhân là quan trọng."
+        },
+        {
+          "id": "vocab-0173",
+          "kanji": "助",
+          "hiragana": "たす",
+          "pronunciation": "tasu",
+          "meaning": "け 舟 ぶね 小",
+          "example": "私は助が好きです。(Watashi wa たす ga suki desu.) - Tôi thích け 舟 ぶね 小."
+        },
+        {
+          "id": "vocab-0174",
+          "kanji": "舟",
+          "hiragana": "ぶね",
+          "pronunciation": "bune",
+          "meaning": "船   THUYỀN 船 ふね",
+          "example": "舟について勉強します。(ぶね ni tsuite benkyou shimasu.) - Học về 船   THUYỀN 船 ふね."
+        },
+        {
+          "id": "vocab-0175",
+          "kanji": "船",
+          "hiragana": "ふな",
+          "pronunciation": "funa",
+          "meaning": "便 びん 船 せん",
+          "example": "私は船が好きです。(Watashi wa ふな ga suki desu.) - Tôi thích 便 びん 船 せん."
+        },
+        {
+          "id": "vocab-0176",
+          "kanji": "告",
+          "hiragana": "つ",
+          "pronunciation": "tsu",
+          "meaning": "げる   nói 報 ほう",
+          "example": "告は便利です。(つ wa benri desu.) - げる   nói 報 ほう rất hữu ích."
+        },
+        {
+          "id": "vocab-0177",
+          "kanji": "告",
+          "hiragana": "こく",
+          "pronunciation": "koku",
+          "meaning": "告 こく 白 はく",
+          "example": "告は便利です。(こく wa benri desu.) - 告 こく 白 はく rất hữu ích."
+        },
+        {
+          "id": "vocab-0178",
+          "kanji": "構",
+          "hiragana": "こう",
+          "pronunciation": "kou",
+          "meaning": "造 ぞう 木",
+          "example": "構について勉強します。(こう ni tsuite benkyou shimasu.) - Học về 造 ぞう 木."
+        },
+        {
+          "id": "vocab-0179",
+          "kanji": "造",
+          "hiragana": "ぞう",
+          "pronunciation": "zou",
+          "meaning": "船 せん 造",
+          "example": "造について勉強します。(ぞう ni tsuite benkyou shimasu.) - Học về 船 せん 造."
+        },
+        {
+          "id": "vocab-0180",
+          "kanji": "花",
+          "hiragana": "か",
+          "pronunciation": "ka",
+          "meaning": "笑   TIẾU ほほ 笑 え",
+          "example": "私は花が好きです。(Watashi wa か ga suki desu.) - Tôi thích 笑   TIẾU ほほ 笑 え."
+        }
+      ]
+    },
+    {
+      "id": "lesson-007",
+      "title": "Bài 7: Từ vựng N3 (181-210)",
+      "description": "Từ vựng JLPT N3 được tối ưu hóa với 30 từ",
+      "vocabularyCount": 30,
+      "vocabulary": [
+        {
+          "id": "vocab-0181",
+          "kanji": "笑",
+          "hiragana": "え",
+          "pronunciation": "e",
+          "meaning": "顔 がお 笑",
+          "example": "毎日笑を使います。(Mainichi え wo tsukai masu.) - Hàng ngày sử dụng 顔 がお 笑."
+        },
+        {
+          "id": "vocab-0182",
+          "kanji": "爆",
+          "hiragana": "ばく",
+          "pronunciation": "baku",
+          "meaning": "笑 しょう",
+          "example": "毎日爆を使います。(Mainichi ばく wo tsukai masu.) - Hàng ngày sử dụng 笑 しょう."
+        },
+        {
+          "id": "vocab-0183",
+          "kanji": "等",
+          "hiragana": "ひと",
+          "pronunciation": "hito",
+          "meaning": "しい   chẳng khác gì 平 びょう",
+          "example": "毎日等を使います。(Mainichi ひと wo tsukai masu.) - Hàng ngày sử dụng しい   chẳng khác gì 平 びょう."
+        },
+        {
+          "id": "vocab-0184",
+          "kanji": "等",
+          "hiragana": "どう",
+          "pronunciation": "dou",
+          "meaning": "高 こう 等 とう",
+          "example": "等について勉強します。(どう ni tsuite benkyou shimasu.) - Học về 高 こう 等 とう."
+        },
+        {
+          "id": "vocab-0185",
+          "kanji": "学",
+          "hiragana": "がっ",
+          "pronunciation": "gaっ",
+          "meaning": "校 こう",
+          "example": "学は大切です。(がっ wa taisetsu desu.) - 校 こう là quan trọng."
+        },
+        {
+          "id": "vocab-0186",
+          "kanji": "再",
+          "hiragana": "さ",
+          "pronunciation": "sa",
+          "meaning": "来 らい 年",
+          "example": "毎日再を使います。(Mainichi さ wo tsukai masu.) - Hàng ngày sử dụng 来 らい 年."
+        },
+        {
+          "id": "vocab-0187",
+          "kanji": "再",
+          "hiragana": "さい",
+          "pronunciation": "sai",
+          "meaning": "開 かい 再",
+          "example": "再は便利です。(さい wa benri desu.) - 開 かい 再 rất hữu ích."
+        },
+        {
+          "id": "vocab-0188",
+          "kanji": "再",
+          "hiragana": "さい",
+          "pronunciation": "sai",
+          "meaning": "試 し",
+          "example": "再は便利です。(さい wa benri desu.) - 試 し rất hữu ích."
+        },
+        {
+          "id": "vocab-0189",
+          "kanji": "験",
+          "hiragana": "けん",
+          "pronunciation": "ken",
+          "meaning": "再 さい 会 かい",
+          "example": "毎日験を使います。(Mainichi けん wo tsukai masu.) - Hàng ngày sử dụng 再 さい 会 かい."
+        },
+        {
+          "id": "vocab-0190",
+          "kanji": "別",
+          "hiragana": "べっ",
+          "pronunciation": "beっ",
+          "meaning": "冊 さつ 用   DỤNG 用",
+          "example": "毎日別を使います。(Mainichi べっ wo tsukai masu.) - Hàng ngày sử dụng 冊 さつ 用   DỤNG 用."
+        },
+        {
+          "id": "vocab-0191",
+          "kanji": "利",
+          "hiragana": "り",
+          "pronunciation": "ri",
+          "meaning": "用 よう",
+          "example": "利は大切です。(り wa taisetsu desu.) - 用 よう là quan trọng."
+        },
+        {
+          "id": "vocab-0192",
+          "kanji": "用",
+          "hiragana": "よう",
+          "pronunciation": "you",
+          "meaning": "用 よう 事 じ",
+          "example": "私は用が好きです。(Watashi wa よう ga suki desu.) - Tôi thích 用 よう 事 じ."
+        },
+        {
+          "id": "vocab-0193",
+          "kanji": "最",
+          "hiragana": "さい",
+          "pronunciation": "sai",
+          "meaning": "初 しょ 初",
+          "example": "最は大切です。(さい wa taisetsu desu.) - 初 しょ 初 là quan trọng."
+        },
+        {
+          "id": "vocab-0194",
+          "kanji": "雪",
+          "hiragana": "ゆき",
+          "pronunciation": "yuki",
+          "meaning": "初 はじ め る   lần đầu tiên",
+          "example": "雪は便利です。(ゆき wa benri desu.) - 初 はじ め る   lần đầu tiên rất hữu ích."
+        },
+        {
+          "id": "vocab-0195",
+          "kanji": "初",
+          "hiragana": "しょ",
+          "pronunciation": "shiょ",
+          "meaning": "日 にち 対   ĐỐI 絶",
+          "example": "私は初が好きです。(Watashi wa しょ ga suki desu.) - Tôi thích 日 にち 対   ĐỐI 絶."
+        },
+        {
+          "id": "vocab-0196",
+          "kanji": "対",
+          "hiragana": "たい",
+          "pronunciation": "tai",
+          "meaning": "反 はん 対",
+          "example": "私は対が好きです。(Watashi wa たい ga suki desu.) - Tôi thích 反 はん 対."
+        },
+        {
+          "id": "vocab-0197",
+          "kanji": "対",
+          "hiragana": "たい",
+          "pronunciation": "tai",
+          "meaning": "立 りつ 面   DIỆN",
+          "example": "対について勉強します。(たい ni tsuite benkyou shimasu.) - Học về 立 りつ 面   DIỆN."
+        },
+        {
+          "id": "vocab-0198",
+          "kanji": "水",
+          "hiragana": "すい",
+          "pronunciation": "sui",
+          "meaning": "面 めん 面 めん",
+          "example": "毎日水を使います。(Mainichi すい wo tsukai masu.) - Hàng ngày sử dụng 面 めん 面 めん."
+        },
+        {
+          "id": "vocab-0199",
+          "kanji": "接",
+          "hiragana": "せつ",
+          "pronunciation": "setsu",
+          "meaning": "面 おも 白 しろ",
+          "example": "接について勉強します。(せつ ni tsuite benkyou shimasu.) - Học về 面 おも 白 しろ."
+        },
+        {
+          "id": "vocab-0200",
+          "kanji": "真",
+          "hiragana": "ま",
+          "pronunciation": "ma",
+          "meaning": "面 じ 目",
+          "example": "毎日真を使います。(Mainichi ま wo tsukai masu.) - Hàng ngày sử dụng 面 じ 目."
+        },
+        {
+          "id": "vocab-0201",
+          "kanji": "面",
+          "hiragana": "めん",
+          "pronunciation": "men",
+          "meaning": "積 せき",
+          "example": "面は大切です。(めん wa taisetsu desu.) - 積 せき là quan trọng."
+        },
+        {
+          "id": "vocab-0202",
+          "kanji": "卵",
+          "hiragana": "たまご",
+          "pronunciation": "tamago",
+          "meaning": "卵 らん 白",
+          "example": "卵は大切です。(たまご wa taisetsu desu.) - 卵 らん 白 là quan trọng."
+        },
+        {
+          "id": "vocab-0203",
+          "kanji": "飛",
+          "hiragana": "と",
+          "pronunciation": "to",
+          "meaning": "ぶ   bay",
+          "example": "私は飛が好きです。(Watashi wa と ga suki desu.) - Tôi thích ぶ   bay."
+        },
+        {
+          "id": "vocab-0204",
+          "kanji": "飛",
+          "hiragana": "と",
+          "pronunciation": "to",
+          "meaning": "ばす   phi 飛 ひ 行",
+          "example": "毎日飛を使います。(Mainichi と wo tsukai masu.) - Hàng ngày sử dụng ばす   phi 飛 ひ 行."
+        },
+        {
+          "id": "vocab-0205",
+          "kanji": "機",
+          "hiragana": "き",
+          "pronunciation": "ki",
+          "meaning": "飛 と び出し   lao ra",
+          "example": "私は機が好きです。(Watashi wa き ga suki desu.) - Tôi thích 飛 と び出し   lao ra."
+        },
+        {
+          "id": "vocab-0206",
+          "kanji": "悪",
+          "hiragana": "あく",
+          "pronunciation": "aku",
+          "meaning": "夢 む 夢",
+          "example": "悪は大切です。(あく wa taisetsu desu.) - 夢 む 夢 là quan trọng."
+        },
+        {
+          "id": "vocab-0207",
+          "kanji": "夢",
+          "hiragana": "む",
+          "pronunciation": "mu",
+          "meaning": "中 ちゅう",
+          "example": "毎日夢を使います。(Mainichi む wo tsukai masu.) - Hàng ngày sử dụng 中 ちゅう."
+        },
+        {
+          "id": "vocab-0208",
+          "kanji": "昨",
+          "hiragana": "さく",
+          "pronunciation": "saku",
+          "meaning": "晩 ばん 昨",
+          "example": "昨について勉強します。(さく ni tsuite benkyou shimasu.) - Học về 晩 ばん 昨."
+        },
+        {
+          "id": "vocab-0209",
+          "kanji": "年",
+          "hiragana": "ねん",
+          "pronunciation": "nen",
+          "meaning": "昨 さく 夜",
+          "example": "年について勉強します。(ねん ni tsuite benkyou shimasu.) - Học về 昨 さく 夜."
+        },
+        {
+          "id": "vocab-0210",
+          "kanji": "昨",
+          "hiragana": "き",
+          "pronunciation": "ki",
+          "meaning": "日 のう 首   THỦ",
+          "example": "昨は便利です。(き wa benri desu.) - 日 のう 首   THỦ rất hữu ích."
+        }
+      ]
+    },
+    {
+      "id": "lesson-008",
+      "title": "Bài 8: Từ vựng N3 (211-240)",
+      "description": "Từ vựng JLPT N3 được tối ưu hóa với 30 từ",
+      "vocabularyCount": 30,
+      "vocabulary": [
+        {
+          "id": "vocab-0211",
+          "kanji": "首",
+          "hiragana": "くび",
+          "pronunciation": "kubi",
+          "meaning": "首 くび にな る   bị đuổi việc 首",
+          "example": "私は首が好きです。(Watashi wa くび ga suki desu.) - Tôi thích 首 くび にな る   bị đuổi việc 首."
+        },
+        {
+          "id": "vocab-0212",
+          "kanji": "相",
+          "hiragana": "しょう",
+          "pronunciation": "shiょu",
+          "meaning": "留   LƯU 目に 留 と",
+          "example": "相は大切です。(しょう wa taisetsu desu.) - 留   LƯU 目に 留 と là quan trọng."
+        },
+        {
+          "id": "vocab-0213",
+          "kanji": "留",
+          "hiragana": "る",
+          "pronunciation": "ru",
+          "meaning": "守 す 番",
+          "example": "毎日留を使います。(Mainichi る wo tsukai masu.) - Hàng ngày sử dụng 守 す 番."
+        },
+        {
+          "id": "vocab-0214",
+          "kanji": "書",
+          "hiragana": "か",
+          "pronunciation": "ka",
+          "meaning": "き 留 と め る   ghi lại",
+          "example": "書は大切です。(か wa taisetsu desu.) - き 留 と め る   ghi lại là quan trọng."
+        },
+        {
+          "id": "vocab-0215",
+          "kanji": "包",
+          "hiragana": "つつ",
+          "pronunciation": "tsutsu",
+          "meaning": "む   bọc 包 ほう",
+          "example": "毎日包を使います。(Mainichi つつ wo tsukai masu.) - Hàng ngày sử dụng む   bọc 包 ほう."
+        },
+        {
+          "id": "vocab-0216",
+          "kanji": "帯",
+          "hiragana": "たい",
+          "pronunciation": "tai",
+          "meaning": "匹   THẤT   二 に 十 じゅっ",
+          "example": "毎日帯を使います。(Mainichi たい wo tsukai masu.) - Hàng ngày sử dụng 匹   THẤT   二 に 十 じゅっ."
+        },
+        {
+          "id": "vocab-0217",
+          "kanji": "匹",
+          "hiragana": "ぴき",
+          "pronunciation": "piki",
+          "meaning": "橋   KIỀU 歩 ほ 道",
+          "example": "匹は便利です。(ぴき wa benri desu.) - 橋   KIỀU 歩 ほ 道 rất hữu ích."
+        },
+        {
+          "id": "vocab-0218",
+          "kanji": "橋",
+          "hiragana": "きょう",
+          "pronunciation": "kiょu",
+          "meaning": "鉄 てっ 橋",
+          "example": "私は橋が好きです。(Watashi wa きょう ga suki desu.) - Tôi thích 鉄 てっ 橋."
+        },
+        {
+          "id": "vocab-0219",
+          "kanji": "収",
+          "hiragana": "おさ",
+          "pronunciation": "osa",
+          "meaning": "める   gặt hái được 吸 きゅう",
+          "example": "収について勉強します。(おさ ni tsuite benkyou shimasu.) - Học về める   gặt hái được 吸 きゅう."
+        },
+        {
+          "id": "vocab-0220",
+          "kanji": "収",
+          "hiragana": "しゅう",
+          "pronunciation": "shiゅu",
+          "meaning": "収 しゅう 入 にゅう",
+          "example": "毎日収を使います。(Mainichi しゅう wo tsukai masu.) - Hàng ngày sử dụng 収 しゅう 入 にゅう."
+        },
+        {
+          "id": "vocab-0221",
+          "kanji": "収",
+          "hiragana": "おさ",
+          "pronunciation": "osa",
+          "meaning": "まる   thu gọn 座   TỌA 座 すわ",
+          "example": "収について勉強します。(おさ ni tsuite benkyou shimasu.) - Học về まる   thu gọn 座   TỌA 座 すわ."
+        },
+        {
+          "id": "vocab-0222",
+          "kanji": "座",
+          "hiragana": "ざ",
+          "pronunciation": "za",
+          "meaning": "席 せき 悩   NÃO",
+          "example": "座は便利です。(ざ wa benri desu.) - 席 せき 悩   NÃO rất hữu ích."
+        },
+        {
+          "id": "vocab-0223",
+          "kanji": "悩",
+          "hiragana": "なや",
+          "pronunciation": "naya",
+          "meaning": "み   phiền muộn 悩 なや む   băn khoăn",
+          "example": "毎日悩を使います。(Mainichi なや wo tsukai masu.) - Hàng ngày sử dụng み   phiền muộn 悩 なや む   băn khoăn."
+        },
+        {
+          "id": "vocab-0224",
+          "kanji": "紹",
+          "hiragana": "しょう",
+          "pronunciation": "shiょu",
+          "meaning": "介 かい 仲",
+          "example": "私は紹が好きです。(Watashi wa しょう ga suki desu.) - Tôi thích 介 かい 仲."
+        },
+        {
+          "id": "vocab-0225",
+          "kanji": "介",
+          "hiragana": "かい",
+          "pronunciation": "kai",
+          "meaning": "料 りょう 判   PHÁN",
+          "example": "介について勉強します。(かい ni tsuite benkyou shimasu.) - Học về 料 りょう 判   PHÁN."
+        },
+        {
+          "id": "vocab-0226",
+          "kanji": "判",
+          "hiragana": "はん",
+          "pronunciation": "han",
+          "meaning": "決 けつ 評 ひょう",
+          "example": "毎日判を使います。(Mainichi はん wo tsukai masu.) - Hàng ngày sử dụng 決 けつ 評 ひょう."
+        },
+        {
+          "id": "vocab-0227",
+          "kanji": "判",
+          "hiragana": "ばん",
+          "pronunciation": "ban",
+          "meaning": "判 はん 断 だん",
+          "example": "毎日判を使います。(Mainichi ばん wo tsukai masu.) - Hàng ngày sử dụng 判 はん 断 だん."
+        },
+        {
+          "id": "vocab-0228",
+          "kanji": "厳",
+          "hiragana": "きび",
+          "pronunciation": "kibi",
+          "meaning": "しい   nghiêm khắc 厳 げん",
+          "example": "厳は便利です。(きび wa benri desu.) - しい   nghiêm khắc 厳 げん rất hữu ích."
+        },
+        {
+          "id": "vocab-0229",
+          "kanji": "重",
+          "hiragana": "じゅう",
+          "pronunciation": "jiゅu",
+          "meaning": "な   gắt gao 厳 おごそ かな   nghiêm trang",
+          "example": "毎日重を使います。(Mainichi じゅう wo tsukai masu.) - Hàng ngày sử dụng な   gắt gao 厳 おごそ かな   nghiêm trang."
+        },
+        {
+          "id": "vocab-0230",
+          "kanji": "危",
+          "hiragana": "あぶ",
+          "pronunciation": "abu",
+          "meaning": "ない   nguy hiểm 危 き",
+          "example": "私は危が好きです。(Watashi wa あぶ ga suki desu.) - Tôi thích ない   nguy hiểm 危 き."
+        },
+        {
+          "id": "vocab-0231",
+          "kanji": "険",
+          "hiragana": "けん",
+          "pronunciation": "ken",
+          "meaning": "兵   BINH 兵 へい 士",
+          "example": "険は便利です。(けん wa benri desu.) - 兵   BINH 兵 へい 士 rất hữu ích."
+        },
+        {
+          "id": "vocab-0232",
+          "kanji": "核",
+          "hiragana": "かく",
+          "pronunciation": "kaku",
+          "meaning": "兵 へい 器",
+          "example": "核について勉強します。(かく ni tsuite benkyou shimasu.) - Học về 兵 へい 器."
+        },
+        {
+          "id": "vocab-0233",
+          "kanji": "関",
+          "hiragana": "かん",
+          "pronunciation": "kan",
+          "meaning": "連 れん",
+          "example": "毎日関を使います。(Mainichi かん wo tsukai masu.) - Hàng ngày sử dụng 連 れん."
+        },
+        {
+          "id": "vocab-0234",
+          "kanji": "機",
+          "hiragana": "き",
+          "pronunciation": "ki",
+          "meaning": "関 かん 関 かか",
+          "example": "機は便利です。(き wa benri desu.) - 関 かん 関 かか rất hữu ích."
+        },
+        {
+          "id": "vocab-0235",
+          "kanji": "玄",
+          "hiragana": "げん",
+          "pronunciation": "gen",
+          "meaning": "関 かん 関",
+          "example": "私は玄が好きです。(Watashi wa げん ga suki desu.) - Tôi thích 関 かん 関."
+        },
+        {
+          "id": "vocab-0236",
+          "kanji": "係",
+          "hiragana": "けい",
+          "pronunciation": "kei",
+          "meaning": "者 しゃ 関",
+          "example": "毎日係を使います。(Mainichi けい wo tsukai masu.) - Hàng ngày sử dụng 者 しゃ 関."
+        },
+        {
+          "id": "vocab-0237",
+          "kanji": "久",
+          "hiragana": "ひさ",
+          "pronunciation": "hisa",
+          "meaning": "しぶり   đã lâu rồi 久 ひさ",
+          "example": "久は大切です。(ひさ wa taisetsu desu.) - しぶり   đã lâu rồi 久 ひさ là quan trọng."
+        },
+        {
+          "id": "vocab-0238",
+          "kanji": "漢字",
+          "hiragana": "びさ",
+          "pronunciation": "bisa",
+          "meaning": "âu rồi",
+          "example": "漢字は大切です。(びさ wa taisetsu desu.) - âu rồi là quan trọng."
+        },
+        {
+          "id": "vocab-0239",
+          "kanji": "在",
+          "hiragana": "ざい",
+          "pronunciation": "zai",
+          "meaning": "大 だい 学 がく",
+          "example": "毎日在を使います。(Mainichi ざい wo tsukai masu.) - Hàng ngày sử dụng 大 だい 学 がく."
+        },
+        {
+          "id": "vocab-0240",
+          "kanji": "在",
+          "hiragana": "ざい",
+          "pronunciation": "zai",
+          "meaning": "学 がく 中 ちゅう",
+          "example": "在について勉強します。(ざい ni tsuite benkyou shimasu.) - Học về 学 がく 中 ちゅう."
+        }
+      ]
+    },
+    {
+      "id": "lesson-009",
+      "title": "Bài 9: Từ vựng N3 (241-270)",
+      "description": "Từ vựng JLPT N3 được tối ưu hóa với 30 từ",
+      "vocabularyCount": 30,
+      "vocabulary": [
+        {
+          "id": "vocab-0241",
+          "kanji": "現",
+          "hiragana": "げん",
+          "pronunciation": "gen",
+          "meaning": "在 ざい 在 ざい",
+          "example": "毎日現を使います。(Mainichi げん wo tsukai masu.) - Hàng ngày sử dụng 在 ざい 在 ざい."
+        },
+        {
+          "id": "vocab-0242",
+          "kanji": "籍",
+          "hiragana": "せき",
+          "pronunciation": "seki",
+          "meaning": "在 ざい 日 にち",
+          "example": "籍は便利です。(せき wa benri desu.) - 在 ざい 日 にち rất hữu ích."
+        },
+        {
+          "id": "vocab-0243",
+          "kanji": "必",
+          "hiragana": "かなら",
+          "pronunciation": "kanara",
+          "meaning": "ず   nhất định 必 ひつ",
+          "example": "必は便利です。(かなら wa benri desu.) - ず   nhất định 必 ひつ rất hữu ích."
+        },
+        {
+          "id": "vocab-0244",
+          "kanji": "要",
+          "hiragana": "よう",
+          "pronunciation": "you",
+          "meaning": "な   cần thiết 語彙",
+          "example": "要について勉強します。(よう ni tsuite benkyou shimasu.) - Học về な   cần thiết 語彙."
+        },
+        {
+          "id": "vocab-0245",
+          "kanji": "料",
+          "hiragana": "りょう",
+          "pronunciation": "riょu",
+          "meaning": "理 り はでき たて が   一",
+          "example": "私は料が好きです。(Watashi wa りょう ga suki desu.) - Tôi thích 理 り はでき たて が   一."
+        },
+        {
+          "id": "vocab-0246",
+          "kanji": "議",
+          "hiragana": "ぎ",
+          "pronunciation": "gi",
+          "meaning": "で 使 つか う 資 し",
+          "example": "毎日議を使います。(Mainichi ぎ wo tsukai masu.) - Hàng ngày sử dụng で 使 つか う 資 し."
+        },
+        {
+          "id": "vocab-0247",
+          "kanji": "料",
+          "hiragana": "りょう",
+          "pronunciation": "riょu",
+          "meaning": "を 作 つく り あげる 。 かけだ",
+          "example": "料は便利です。(りょう wa benri desu.) - を 作 つく り あげる 。 かけだ rất hữu ích."
+        },
+        {
+          "id": "vocab-0248",
+          "kanji": "息",
+          "hiragana": "むす",
+          "pronunciation": "musu",
+          "meaning": "子 こ",
+          "example": "毎日息を使います。(Mainichi むす wo tsukai masu.) - Hàng ngày sử dụng 子 こ."
+        },
+        {
+          "id": "vocab-0249",
+          "kanji": "遊",
+          "hiragana": "あそ",
+          "pronunciation": "aso",
+          "meaning": "びに行ったが、まだ 宿 しゅく 題 だい",
+          "example": "遊は大切です。(あそ wa taisetsu desu.) - びに行ったが、まだ 宿 しゅく 題 だい là quan trọng."
+        },
+        {
+          "id": "vocab-0250",
+          "kanji": "娘",
+          "hiragana": "むすめ",
+          "pronunciation": "musume",
+          "meaning": "が明日の 試 し",
+          "example": "娘は大切です。(むすめ wa taisetsu desu.) - が明日の 試 し là quan trọng."
+        },
+        {
+          "id": "vocab-0251",
+          "kanji": "験",
+          "hiragana": "けん",
+          "pronunciation": "ken",
+          "meaning": "に 合 ごう 格 かく",
+          "example": "毎日験を使います。(Mainichi けん wo tsukai masu.) - Hàng ngày sử dụng に 合 ごう 格 かく."
+        },
+        {
+          "id": "vocab-0252",
+          "kanji": "粧",
+          "hiragana": "しょう",
+          "pronunciation": "shiょu",
+          "meaning": "をした まま 寝てしまった。 (2) 彼女に 誘 さそ",
+          "example": "毎日粧を使います。(Mainichi しょう wo tsukai masu.) - Hàng ngày sử dụng をした まま 寝てしまった。 (2) 彼女に 誘 さそ."
+        },
+        {
+          "id": "vocab-0253",
+          "kanji": "何",
+          "hiragana": "なん",
+          "pronunciation": "nan",
+          "meaning": "度 ど 注 ちゅう",
+          "example": "何について勉強します。(なん ni tsuite benkyou shimasu.) - Học về 度 ど 注 ちゅう."
+        },
+        {
+          "id": "vocab-0254",
+          "kanji": "寝",
+          "hiragana": "ね",
+          "pronunciation": "ne",
+          "meaning": "てしまう。 (2)   人",
+          "example": "毎日寝を使います。(Mainichi ね wo tsukai masu.) - Hàng ngày sử dụng てしまう。 (2)   人."
+        },
+        {
+          "id": "vocab-0255",
+          "kanji": "手",
+          "hiragana": "で",
+          "pronunciation": "de",
+          "meaning": "が 足 た りなくて先週からずっと働き っぱなし だ。",
+          "example": "手は便利です。(で wa benri desu.) - が 足 た りなくて先週からずっと働き っぱなし だ。 rất hữu ích."
+        },
+        {
+          "id": "vocab-0256",
+          "kanji": "結",
+          "hiragana": "けっ",
+          "pronunciation": "keっ",
+          "meaning": "婚 こん",
+          "example": "結は大切です。(けっ wa taisetsu desu.) - 婚 こん là quan trọng."
+        },
+        {
+          "id": "vocab-0257",
+          "kanji": "文",
+          "hiragana": "ぶ",
+          "pronunciation": "bu",
+          "meaning": "ん 法 ぽ う",
+          "example": "私は文が好きです。(Watashi wa ぶ ga suki desu.) - Tôi thích ん 法 ぽ う."
+        },
+        {
+          "id": "vocab-0258",
+          "kanji": "週",
+          "hiragana": "しゅう",
+          "pronunciation": "shiゅu",
+          "meaning": "間 かん に休みが三日あれ ばいい のになあ。 (1)   ～によると   普",
+          "example": "週は便利です。(しゅう wa benri desu.) - 間 かん に休みが三日あれ ばいい のになあ。 (1)   ～によると   普 rất hữu ích."
+        },
+        {
+          "id": "vocab-0259",
+          "kanji": "通",
+          "hiragana": "つう",
+          "pronunciation": "tsuu",
+          "meaning": "形 けい ＋   そうだ",
+          "example": "通は大切です。(つう wa taisetsu desu.) - 形 けい ＋   そうだ là quan trọng."
+        },
+        {
+          "id": "vocab-0260",
+          "kanji": "伝",
+          "hiragana": "でん",
+          "pronunciation": "den",
+          "meaning": "聞 ぶん (2.1)   A   い・ な ＋  そうだ",
+          "example": "伝は便利です。(でん wa benri desu.) - 聞 ぶん (2.1)   A   い・ な ＋  そうだ rất hữu ích."
+        },
+        {
+          "id": "vocab-0261",
+          "kanji": "格",
+          "hiragana": "かく",
+          "pronunciation": "kaku",
+          "meaning": "をしている。 普通形 (N・A な )   だ 彼は来月、日本へ 帰",
+          "example": "私は格が好きです。(Watashi wa かく ga suki desu.) - Tôi thích をしている。 普通形 (N・A な )   だ 彼は来月、日本へ 帰."
+        },
+        {
+          "id": "vocab-0262",
+          "kanji": "城",
+          "hiragana": "しろ",
+          "pronunciation": "shiro",
+          "meaning": "みたい に 美 うつく しい。 ＋   らしい",
+          "example": "私は城が好きです。(Watashi wa しろ ga suki desu.) - Tôi thích みたい に 美 うつく しい。 ＋   らしい."
+        },
+        {
+          "id": "vocab-0263",
+          "kanji": "文",
+          "hiragana": "ぶ",
+          "pronunciation": "bu",
+          "meaning": "ん 法 ぽ う (1) V て / A   い くて   もいい",
+          "example": "文について勉強します。(ぶ ni tsuite benkyou shimasu.) - Học về ん 法 ぽ う (1) V て / A   い くて   もいい."
+        },
+        {
+          "id": "vocab-0264",
+          "kanji": "恋",
+          "hiragana": "こい",
+          "pronunciation": "koi",
+          "meaning": "人 びと が 欲",
+          "example": "恋について勉強します。(こい ni tsuite benkyou shimasu.) - Học về 人 びと が 欲."
+        },
+        {
+          "id": "vocab-0265",
+          "kanji": "紹",
+          "hiragana": "しょう",
+          "pronunciation": "shiょu",
+          "meaning": "介 かい し てほしい 。",
+          "example": "紹について勉強します。(しょう ni tsuite benkyou shimasu.) - Học về 介 かい し てほしい 。."
+        },
+        {
+          "id": "vocab-0266",
+          "kanji": "張",
+          "hiragana": "ば",
+          "pronunciation": "ba",
+          "meaning": "る しかない 。 Ｎの   ためだ Ｖ／Ａい普   ＋   ため ( に )",
+          "example": "毎日張を使います。(Mainichi ば wo tsukai masu.) - Hàng ngày sử dụng る しかない 。 Ｎの   ためだ Ｖ／Ａい普   ＋   ため ( に )."
+        },
+        {
+          "id": "vocab-0267",
+          "kanji": "失",
+          "hiragana": "しっ",
+          "pronunciation": "shiっ",
+          "meaning": "敗 ぱい をする ごとに 成 せい",
+          "example": "失は大切です。(しっ wa taisetsu desu.) - 敗 ぱい をする ごとに 成 せい là quan trọng."
+        },
+        {
+          "id": "vocab-0268",
+          "kanji": "文",
+          "hiragana": "もん",
+          "pronunciation": "mon",
+          "meaning": "句 く を言い がち だ。 V た い",
+          "example": "文は便利です。(もん wa benri desu.) - 句 く を言い がち だ。 V た い rất hữu ích."
+        },
+        {
+          "id": "vocab-0269",
+          "kanji": "寒",
+          "hiragana": "さむ",
+          "pronunciation": "samu",
+          "meaning": "がって いたので、 僕 ぼく のコートを 貸 か",
+          "example": "寒は大切です。(さむ wa taisetsu desu.) - がって いたので、 僕 ぼく のコートを 貸 か là quan trọng."
+        },
+        {
+          "id": "vocab-0270",
+          "kanji": "文",
+          "hiragana": "ぶ",
+          "pronunciation": "bu",
+          "meaning": "ん 法 ぽ う N の",
+          "example": "毎日文を使います。(Mainichi ぶ wo tsukai masu.) - Hàng ngày sử dụng ん 法 ぽ う N の."
+        }
+      ]
+    },
+    {
+      "id": "lesson-010",
+      "title": "Bài 10: Từ vựng N3 (271-300)",
+      "description": "Từ vựng JLPT N3 được tối ưu hóa với 30 từ",
+      "vocabularyCount": 30,
+      "vocabulary": [
+        {
+          "id": "vocab-0271",
+          "kanji": "憩",
+          "hiragana": "けい",
+          "pronunciation": "kei",
+          "meaning": "の 間 ずっと寝ていた。 N の A な / A い   ＋   間に V 普通形",
+          "example": "憩は便利です。(けい wa benri desu.) - の 間 ずっと寝ていた。 N の A な / A い   ＋   間に V 普通形 rất hữu ích."
+        },
+        {
+          "id": "vocab-0272",
+          "kanji": "備",
+          "hiragana": "び",
+          "pronunciation": "bi",
+          "meaning": "をしてしまう。 (2) 若いうちに、色々なことを 経 けい 験",
+          "example": "私は備が好きです。(Watashi wa び ga suki desu.) - Tôi thích をしてしまう。 (2) 若いうちに、色々なことを 経 けい 験."
+        },
+        {
+          "id": "vocab-0273",
+          "kanji": "便",
+          "hiragana": "べん",
+          "pronunciation": "ben",
+          "meaning": "利 り",
+          "example": "毎日便を使います。(Mainichi べん wo tsukai masu.) - Hàng ngày sử dụng 利 り."
+        },
+        {
+          "id": "vocab-0274",
+          "kanji": "法",
+          "hiragana": "ぽ",
+          "pronunciation": "po",
+          "meaning": "う Ｖる   ＋   には   Để cho...   車を 運 うん 転 てん",
+          "example": "法は大切です。(ぽ wa taisetsu desu.) - う Ｖる   ＋   には   Để cho...   車を 運 うん 転 てん là quan trọng."
+        },
+        {
+          "id": "vocab-0275",
+          "kanji": "免",
+          "hiragana": "めん",
+          "pronunciation": "men",
+          "meaning": "許 きょ を取らなければならない。 N の",
+          "example": "毎日免を使います。(Mainichi めん wo tsukai masu.) - Hàng ngày sử dụng 許 きょ を取らなければならない。 N の."
+        },
+        {
+          "id": "vocab-0276",
+          "kanji": "館",
+          "hiragana": "かん",
+          "pronunciation": "kan",
+          "meaning": "に本を返しに行った。 N の・である A な・である V た /V る /A い",
+          "example": "館について勉強します。(かん ni tsuite benkyou shimasu.) - Học về に本を返しに行った。 N の・である A な・である V た /V る /A い."
+        },
+        {
+          "id": "vocab-0277",
+          "kanji": "簡",
+          "hiragana": "かん",
+          "pronunciation": "kan",
+          "meaning": "単 たん である うえに 、量も少なかった。 N の",
+          "example": "簡について勉強します。(かん ni tsuite benkyou shimasu.) - Học về 単 たん である うえに 、量も少なかった。 N の."
+        },
+        {
+          "id": "vocab-0278",
+          "kanji": "宿",
+          "hiragana": "しゅく",
+          "pronunciation": "shiゅku",
+          "meaning": "題 だい をやってもらう かわりに 、お 菓",
+          "example": "宿について勉強します。(しゅく ni tsuite benkyou shimasu.) - Học về 題 だい をやってもらう かわりに 、お 菓."
+        },
+        {
+          "id": "vocab-0279",
+          "kanji": "子",
+          "hiragana": "し",
+          "pronunciation": "shi",
+          "meaning": "を買ってあげた。 (2) 今日は私の かわりに 、 鈴 すず",
+          "example": "子について勉強します。(し ni tsuite benkyou shimasu.) - Học về を買ってあげた。 (2) 今日は私の かわりに 、 鈴 すず."
+        },
+        {
+          "id": "vocab-0280",
+          "kanji": "木",
+          "hiragana": "き",
+          "pronunciation": "ki",
+          "meaning": "先生が 授 じゅ 業 ぎょう",
+          "example": "毎日木を使います。(Mainichi き wo tsukai masu.) - Hàng ngày sử dụng 先生が 授 じゅ 業 ぎょう."
+        },
+        {
+          "id": "vocab-0281",
+          "kanji": "校",
+          "hiragana": "こう",
+          "pronunciation": "kou",
+          "meaning": "を 卒 そつ 業 ぎょう",
+          "example": "校は便利です。(こう wa benri desu.) - を 卒 そつ 業 ぎょう rất hữu ích."
+        },
+        {
+          "id": "vocab-0282",
+          "kanji": "不",
+          "hiragana": "ふ",
+          "pronunciation": "fu",
+          "meaning": "便 べん な せいか 、最近は住む人が 全 ぜん",
+          "example": "不は便利です。(ふ wa benri desu.) - 便 べん な せいか 、最近は住む人が 全 ぜん rất hữu ích."
+        },
+        {
+          "id": "vocab-0283",
+          "kanji": "然",
+          "hiragana": "ぜん",
+          "pronunciation": "zen",
+          "meaning": "いなくなった。 普通形   ＋   ということだ 先生によると、次の 試 し",
+          "example": "私は然が好きです。(Watashi wa ぜん ga suki desu.) - Tôi thích いなくなった。 普通形   ＋   ということだ 先生によると、次の 試 し."
+        },
+        {
+          "id": "vocab-0284",
+          "kanji": "文",
+          "hiragana": "ぶ",
+          "pronunciation": "bu",
+          "meaning": "ん 法",
+          "example": "文は大切です。(ぶ wa taisetsu desu.) - ん 法 là quan trọng."
+        },
+        {
+          "id": "vocab-0285",
+          "kanji": "静",
+          "hiragana": "しず",
+          "pronunciation": "shizu",
+          "meaning": "かになる。 からでなければ からでないと 美",
+          "example": "静について勉強します。(しず ni tsuite benkyou shimasu.) - Học về かになる。 からでなければ からでないと 美."
+        },
+        {
+          "id": "vocab-0286",
+          "kanji": "寒",
+          "hiragana": "さむ",
+          "pronunciation": "samu",
+          "meaning": "く、風も 強 つよ いので冬である かのようだ 。",
+          "example": "寒は便利です。(さむ wa benri desu.) - く、風も 強 つよ いので冬である かのようだ 。 rất hữu ích."
+        },
+        {
+          "id": "vocab-0287",
+          "kanji": "言",
+          "hiragana": "こと",
+          "pronunciation": "koto",
+          "meaning": "葉 ば で 伝 つた",
+          "example": "言は便利です。(こと wa benri desu.) - 葉 ば で 伝 つた rất hữu ích."
+        },
+        {
+          "id": "vocab-0288",
+          "kanji": "大",
+          "hiragana": "だい",
+          "pronunciation": "dai",
+          "meaning": "事 じ だ。 (2)   気",
+          "example": "私は大が好きです。(Watashi wa だい ga suki desu.) - Tôi thích 事 じ だ。 (2)   気."
+        },
+        {
+          "id": "vocab-0289",
+          "kanji": "付",
+          "hiragana": "つ",
+          "pronunciation": "tsu",
+          "meaning": "くと夏休みが 終 お わ ろうとしている 。",
+          "example": "付は便利です。(つ wa benri desu.) - くと夏休みが 終 お わ ろうとしている 。 rất hữu ích."
+        },
+        {
+          "id": "vocab-0290",
+          "kanji": "合",
+          "hiragana": "あい",
+          "pronunciation": "ai",
+          "meaning": "が悪い 息 むす 子 こ",
+          "example": "合について勉強します。(あい ni tsuite benkyou shimasu.) - Học về が悪い 息 むす 子 こ."
+        },
+        {
+          "id": "vocab-0291",
+          "kanji": "文",
+          "hiragana": "ぶ",
+          "pronunciation": "bu",
+          "meaning": "ん 法",
+          "example": "毎日文を使います。(Mainichi ぶ wo tsukai masu.) - Hàng ngày sử dụng ん 法."
+        },
+        {
+          "id": "vocab-0292",
+          "kanji": "物",
+          "hiragana": "ぶつ",
+          "pronunciation": "butsu",
+          "meaning": "理 り 学",
+          "example": "物は大切です。(ぶつ wa taisetsu desu.) - 理 り 学 là quan trọng."
+        },
+        {
+          "id": "vocab-0293",
+          "kanji": "研",
+          "hiragana": "けん",
+          "pronunciation": "ken",
+          "meaning": "究 きゅう している。",
+          "example": "研は大切です。(けん wa taisetsu desu.) - 究 きゅう している。 là quan trọng."
+        },
+        {
+          "id": "vocab-0294",
+          "kanji": "言",
+          "hiragana": "こと",
+          "pronunciation": "koto",
+          "meaning": "葉 ば を使った方がいい。 普 / N",
+          "example": "毎日言を使います。(Mainichi こと wo tsukai masu.) - Hàng ngày sử dụng 葉 ば を使った方がいい。 普 / N."
+        },
+        {
+          "id": "vocab-0295",
+          "kanji": "背",
+          "hiragana": "せ",
+          "pronunciation": "se",
+          "meaning": "が高い のに対して 、私は背が低い。 に比べて、～",
+          "example": "背は便利です。(せ wa benri desu.) - が高い のに対して 、私は背が低い。 に比べて、～ rất hữu ích."
+        },
+        {
+          "id": "vocab-0296",
+          "kanji": "物",
+          "hiragana": "ぶっ",
+          "pronunciation": "buっ",
+          "meaning": "価 か に比べて 、ベトナムの 物",
+          "example": "物について勉強します。(ぶっ ni tsuite benkyou shimasu.) - Học về 価 か に比べて 、ベトナムの 物."
+        },
+        {
+          "id": "vocab-0297",
+          "kanji": "何",
+          "hiragana": "なに",
+          "pronunciation": "nani",
+          "meaning": "事 ごと において もまじめにやる 性",
+          "example": "何について勉強します。(なに ni tsuite benkyou shimasu.) - Học về 事 ごと において もまじめにやる 性."
+        },
+        {
+          "id": "vocab-0298",
+          "kanji": "文",
+          "hiragana": "ぶ",
+          "pronunciation": "bu",
+          "meaning": "ん 法",
+          "example": "私は文が好きです。(Watashi wa ぶ ga suki desu.) - Tôi thích ん 法."
+        },
+        {
+          "id": "vocab-0299",
+          "kanji": "菜",
+          "hiragana": "さい",
+          "pronunciation": "sai",
+          "meaning": "を 中心とした 食事をしている。 を 通 とお して / ～を 通",
+          "example": "私は菜が好きです。(Watashi wa さい ga suki desu.) - Tôi thích を 中心とした 食事をしている。 を 通 とお して / ～を 通."
+        },
+        {
+          "id": "vocab-0300",
+          "kanji": "通",
+          "hiragana": "とお",
+          "pronunciation": "too",
+          "meaning": "しての   N (1) 私は学生生活 を通して 、色々なことを学んだ。",
+          "example": "通について勉強します。(とお ni tsuite benkyou shimasu.) - Học về しての   N (1) 私は学生生活 を通して 、色々なことを学んだ。."
+        }
+      ]
+    },
+    {
+      "id": "lesson-011",
+      "title": "Bài 11: Từ vựng N3 (301-330)",
+      "description": "Từ vựng JLPT N3 được tối ưu hóa với 30 từ",
+      "vocabularyCount": 30,
+      "vocabulary": [
+        {
+          "id": "vocab-0301",
+          "kanji": "無",
+          "hiragana": "む",
+          "pronunciation": "mu",
+          "meaning": "遅 ち 刻 こく",
+          "example": "無は大切です。(む wa taisetsu desu.) - 遅 ち 刻 こく là quan trọng."
+        },
+        {
+          "id": "vocab-0302",
+          "kanji": "無",
+          "hiragana": "む",
+          "pronunciation": "mu",
+          "meaning": "欠 けっ 席 せき",
+          "example": "毎日無を使います。(Mainichi む wo tsukai masu.) - Hàng ngày sử dụng 欠 けっ 席 せき."
+        },
+        {
+          "id": "vocab-0303",
+          "kanji": "働",
+          "hiragana": "はたら",
+          "pronunciation": "hatara",
+          "meaning": "いている。 (2)   私はベトナムが好きで、 趣 しゅ",
+          "example": "私は働が好きです。(Watashi wa はたら ga suki desu.) - Tôi thích いている。 (2)   私はベトナムが好きで、 趣 しゅ."
+        },
+        {
+          "id": "vocab-0304",
+          "kanji": "漢",
+          "hiragana": "かん",
+          "pronunciation": "kan",
+          "meaning": "字 じ を 覚 おぼ",
+          "example": "漢は大切です。(かん wa taisetsu desu.) - 字 じ を 覚 おぼ là quan trọng."
+        },
+        {
+          "id": "vocab-0305",
+          "kanji": "大",
+          "hiragana": "たい",
+          "pronunciation": "tai",
+          "meaning": "変 へん すぎて、 泣 な",
+          "example": "私は大が好きです。(Watashi wa たい ga suki desu.) - Tôi thích 変 へん すぎて、 泣 な."
+        },
+        {
+          "id": "vocab-0306",
+          "kanji": "手",
+          "hiragana": "て",
+          "pronunciation": "te",
+          "meaning": "伝 つだ いをしたことがない私でも、 洗 せん",
+          "example": "私は手が好きです。(Watashi wa て ga suki desu.) - Tôi thích 伝 つだ いをしたことがない私でも、 洗 せん."
+        },
+        {
+          "id": "vocab-0307",
+          "kanji": "問",
+          "hiragana": "もん",
+          "pronunciation": "mon",
+          "meaning": "詞 し ＋   だって",
+          "example": "私は問が好きです。(Watashi wa もん ga suki desu.) - Tôi thích 詞 し ＋   だって."
+        },
+        {
+          "id": "vocab-0308",
+          "kanji": "転",
+          "hiragana": "ころ",
+          "pronunciation": "koro",
+          "meaning": "んでも 泣 な か ずに 耐 た",
+          "example": "毎日転を使います。(Mainichi ころ wo tsukai masu.) - Hàng ngày sử dụng んでも 泣 な か ずに 耐 た."
+        },
+        {
+          "id": "vocab-0309",
+          "kanji": "普通形",
+          "hiragana": "な",
+          "pronunciation": "na",
+          "meaning": "ずにはいられない 。",
+          "example": "毎日普通形を使います。(Mainichi な wo tsukai masu.) - Hàng ngày sử dụng ずにはいられない 。."
+        },
+        {
+          "id": "vocab-0310",
+          "kanji": "問",
+          "hiragana": "もん",
+          "pronunciation": "mon",
+          "meaning": "しても、よく知らない ふりをされて 困 こま っている。 ＋ からといって",
+          "example": "私は問が好きです。(Watashi wa もん ga suki desu.) - Tôi thích しても、よく知らない ふりをされて 困 こま っている。 ＋ からといって."
+        },
+        {
+          "id": "vocab-0311",
+          "kanji": "文",
+          "hiragana": "ぶ",
+          "pronunciation": "bu",
+          "meaning": "ん 法 ぽ う V ( ない )   ＋ ＋   ふりをする",
+          "example": "文について勉強します。(ぶ ni tsuite benkyou shimasu.) - Học về ん 法 ぽ う V ( ない )   ＋ ＋   ふりをする."
+        },
+        {
+          "id": "vocab-0312",
+          "kanji": "漢",
+          "hiragana": "かん",
+          "pronunciation": "kan",
+          "meaning": "字 じ がたくさん書ける とは限らない 。",
+          "example": "漢は便利です。(かん wa benri desu.) - 字 じ がたくさん書ける とは限らない 。 rất hữu ích."
+        },
+        {
+          "id": "vocab-0313",
+          "kanji": "笑",
+          "hiragana": "え",
+          "pronunciation": "e",
+          "meaning": "顔 がお な わけだ 。 ( Ｖ・Ａい ) 普通形",
+          "example": "笑は大切です。(え wa taisetsu desu.) - 顔 がお な わけだ 。 ( Ｖ・Ａい ) 普通形 là quan trọng."
+        },
+        {
+          "id": "vocab-0314",
+          "kanji": "全",
+          "hiragana": "ぜん",
+          "pronunciation": "zen",
+          "meaning": "然 ぜん",
+          "example": "私は全が好きです。(Watashi wa ぜん ga suki desu.) - Tôi thích 然 ぜん."
+        },
+        {
+          "id": "vocab-0315",
+          "kanji": "合",
+          "hiragana": "ごう",
+          "pronunciation": "gou",
+          "meaning": "格 かく できる はずがない 。 V る ＋   ばかりだ",
+          "example": "合は便利です。(ごう wa benri desu.) - 格 かく できる はずがない 。 V る ＋   ばかりだ rất hữu ích."
+        },
+        {
+          "id": "vocab-0316",
+          "kanji": "海",
+          "hiragana": "かい",
+          "pronunciation": "kai",
+          "meaning": "外 がい",
+          "example": "海は便利です。(かい wa benri desu.) - 外 がい rất hữu ích."
+        },
+        {
+          "id": "vocab-0317",
+          "kanji": "不",
+          "hiragana": "ふ",
+          "pronunciation": "fu",
+          "meaning": "満 まん はないが、 時 とき",
+          "example": "毎日不を使います。(Mainichi ふ wo tsukai masu.) - Hàng ngày sử dụng 満 まん はないが、 時 とき."
+        },
+        {
+          "id": "vocab-0318",
+          "kanji": "倒",
+          "hiragana": "とう",
+          "pronunciation": "tou",
+          "meaning": "産 さん し かねません 。",
+          "example": "私は倒が好きです。(Watashi wa とう ga suki desu.) - Tôi thích 産 さん し かねません 。."
+        },
+        {
+          "id": "vocab-0319",
+          "kanji": "色",
+          "hiragana": "いろ",
+          "pronunciation": "iro",
+          "meaning": "いろ な人の 立 たち",
+          "example": "色について勉強します。(いろ ni tsuite benkyou shimasu.) - Học về いろ な人の 立 たち."
+        },
+        {
+          "id": "vocab-0320",
+          "kanji": "場",
+          "hiragana": "ば",
+          "pronunciation": "ba",
+          "meaning": "になった つもりで 、 物 もの 事 ごと",
+          "example": "毎日場を使います。(Mainichi ば wo tsukai masu.) - Hàng ngày sử dụng になった つもりで 、 物 もの 事 ごと."
+        },
+        {
+          "id": "vocab-0321",
+          "kanji": "風",
+          "hiragana": "か",
+          "pronunciation": "ka",
+          "meaning": "邪 ぜ",
+          "example": "風について勉強します。(か ni tsuite benkyou shimasu.) - Học về 邪 ぜ."
+        },
+        {
+          "id": "vocab-0322",
+          "kanji": "仕",
+          "hiragana": "し",
+          "pronunciation": "shi",
+          "meaning": "事 ごと に 集 しゅう",
+          "example": "仕について勉強します。(し ni tsuite benkyou shimasu.) - Học về 事 ごと に 集 しゅう."
+        },
+        {
+          "id": "vocab-0323",
+          "kanji": "中",
+          "hiragana": "ちゅう",
+          "pronunciation": "chiゅu",
+          "meaning": "できない。 べきだ ＋   べきＮ べきではない",
+          "example": "中は便利です。(ちゅう wa benri desu.) - できない。 べきだ ＋   べきＮ べきではない rất hữu ích."
+        },
+        {
+          "id": "vocab-0324",
+          "kanji": "文",
+          "hiragana": "ぶ",
+          "pronunciation": "bu",
+          "meaning": "ん 法 ぽ う ことがある こともある",
+          "example": "文は大切です。(ぶ wa taisetsu desu.) - ん 法 ぽ う ことがある こともある là quan trọng."
+        },
+        {
+          "id": "vocab-0325",
+          "kanji": "財",
+          "hiragana": "さい",
+          "pronunciation": "sai",
+          "meaning": "布 ふ をもらって 嬉 うれ",
+          "example": "毎日財を使います。(Mainichi さい wo tsukai masu.) - Hàng ngày sử dụng 布 ふ をもらって 嬉 うれ."
+        },
+        {
+          "id": "vocab-0326",
+          "kanji": "安",
+          "hiragana": "っぽい",
+          "pronunciation": "っpoi",
+          "meaning": "。 50   代 だい になってから 忘 わす れ っぽく なり 、 特",
+          "example": "毎日安を使います。(Mainichi っぽい wo tsukai masu.) - Hàng ngày sử dụng 。 50   代 だい になってから 忘 わす れ っぽく なり 、 特."
+        },
+        {
+          "id": "vocab-0327",
+          "kanji": "全",
+          "hiragana": "ぜん",
+          "pronunciation": "zen",
+          "meaning": "然 ぜん 出てこない。",
+          "example": "全は大切です。(ぜん wa taisetsu desu.) - 然 ぜん 出てこない。 là quan trọng."
+        },
+        {
+          "id": "vocab-0328",
+          "kanji": "油",
+          "hiragana": "あぶら",
+          "pronunciation": "abura",
+          "meaning": "っぽい ものを食べると、 気 き 持 も",
+          "example": "油は便利です。(あぶら wa benri desu.) - っぽい ものを食べると、 気 き 持 も rất hữu ích."
+        },
+        {
+          "id": "vocab-0329",
+          "kanji": "悪",
+          "hiragana": "わる",
+          "pronunciation": "waru",
+          "meaning": "くなる。 文 ぶ ん 法",
+          "example": "悪は大切です。(わる wa taisetsu desu.) - くなる。 文 ぶ ん 法 là quan trọng."
+        },
+        {
+          "id": "vocab-0330",
+          "kanji": "",
+          "hiragana": "てき",
+          "pronunciation": "teki",
+          "meaning": "ách cơ bản",
+          "example": "てきは大切です。(てき wa taisetsu desu.) - ách cơ bản là quan trọng."
+        }
+      ]
+    },
+    {
+      "id": "lesson-012",
+      "title": "Bài 12: Từ vựng N3 (331-342)",
+      "description": "Từ vựng JLPT N3 được tối ưu hóa với 12 từ",
+      "vocabularyCount": 12,
+      "vocabulary": [
+        {
+          "id": "vocab-0331",
+          "kanji": "",
+          "hiragana": "あさ",
+          "pronunciation": "asa",
+          "meaning": "ông",
+          "example": "私はあさが好きです。(Watashi wa あさ ga suki desu.) - Tôi thích ông."
+        },
+        {
+          "id": "vocab-0332",
+          "kanji": "河",
+          "hiragana": "かっ",
+          "pronunciation": "kaっ",
+          "meaning": "童",
+          "example": "河について勉強します。(かっ ni tsuite benkyou shimasu.) - Học về 童."
+        },
+        {
+          "id": "vocab-0333",
+          "kanji": "一",
+          "hiragana": "いち",
+          "pronunciation": "ichi",
+          "meaning": "学",
+          "example": "毎日一を使います。(Mainichi いち wo tsukai masu.) - Hàng ngày sử dụng 学."
+        },
+        {
+          "id": "vocab-0334",
+          "kanji": "",
+          "hiragana": "つ",
+          "pronunciation": "tsu",
+          "meaning": "thắng",
+          "example": "私はつが好きです。(Watashi wa つ ga suki desu.) - Tôi thích thắng."
+        },
+        {
+          "id": "vocab-0335",
+          "kanji": "",
+          "hiragana": "ふく",
+          "pronunciation": "fuku",
+          "meaning": "ồm",
+          "example": "毎日ふくを使います。(Mainichi ふく wo tsukai masu.) - Hàng ngày sử dụng ồm."
+        },
+        {
+          "id": "vocab-0336",
+          "kanji": "販",
+          "hiragana": "はん",
+          "pronunciation": "han",
+          "meaning": "売",
+          "example": "販は便利です。(はん wa benri desu.) - 売 rất hữu ích."
+        },
+        {
+          "id": "vocab-0337",
+          "kanji": "普通形",
+          "hiragana": "ぽ",
+          "pronunciation": "po",
+          "meaning": "う",
+          "example": "普通形は便利です。(ぽ wa benri desu.) - う rất hữu ích."
+        },
+        {
+          "id": "vocab-0338",
+          "kanji": "反",
+          "hiragana": "はん",
+          "pronunciation": "han",
+          "meaning": "面",
+          "example": "反は大切です。(はん wa taisetsu desu.) - 面 là quan trọng."
+        },
+        {
+          "id": "vocab-0339",
+          "kanji": "教",
+          "hiragana": "きょう",
+          "pronunciation": "kiょu",
+          "meaning": "授",
+          "example": "教は便利です。(きょう wa benri desu.) - 授 rất hữu ích."
+        },
+        {
+          "id": "vocab-0340",
+          "kanji": "面",
+          "hiragana": "おも",
+          "pronunciation": "omo",
+          "meaning": "白",
+          "example": "面は大切です。(おも wa taisetsu desu.) - 白 là quan trọng."
+        },
+        {
+          "id": "vocab-0341",
+          "kanji": "不",
+          "hiragana": "ふ",
+          "pronunciation": "fu",
+          "meaning": "況",
+          "example": "不は大切です。(ふ wa taisetsu desu.) - 況 là quan trọng."
+        },
+        {
+          "id": "vocab-0342",
+          "kanji": "",
+          "hiragana": "ぽ",
+          "pronunciation": "po",
+          "meaning": "う",
+          "example": "ぽは便利です。(ぽ wa benri desu.) - う rất hữu ích."
+        }
+      ]
+    }
+  ],
+  "totalLessons": 12,
+  "totalVocabulary": 342,
+  "statistics": {
+    "originalEntries": 441,
+    "combinedEntries": 441,
+    "validEntries": 342,
+    "improvementRate": "77.6%",
+    "entriesWithKanji": 337,
+    "entriesWithHiragana": 342,
+    "entriesWithMeaning": 342,
+    "averageCompleteness": "2.96"
+  }
+}
